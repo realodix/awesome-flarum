@@ -58,7 +58,7 @@
 * [Notify](https://github.com/manelizzard/flarum-notify) - Get notified about forum activity in Slack, Hipchat, Gitter or Telegram.
 * [ReFlar User Management](https://gitlab.com/ReDevelopers/ReFlar/user-management) - Manage every aspect of your users, with style.
 * [Secure HTTPS](https://github.com/dav-is/flarum-ext-securehttps) - Changes all images using http to https.
-[Syndication](https://github.com/AmauryCarrade/flarum-ext-syndication) - Brings RSS and Atom feeds to Flarum.
+* [Syndication](https://github.com/AmauryCarrade/flarum-ext-syndication) - Brings RSS and Atom feeds to Flarum.
 * [Url Transliterator](https://github.com/Avatar4eg/flarum-ext-transliterator) - Transliterator for urls.
 
 #### Social Media
