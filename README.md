@@ -72,7 +72,7 @@
 * [Flagrow Byōbu](https://github.com/flagrow/byobu) - Well integrated, advanced private discussions.
 
 ## Contributing
-Found an awesome awesome Flarum extension? Send me a pull request!
+Found an awesome Flarum extension? Send me a pull request!
 
 #### Guidelines
 * Please make an individual pull request for each suggestion
