@@ -9,9 +9,12 @@
 * [Hebrew](https://github.com/icecore2/Flarum-hebrew)
 * [Indonesian](https://github.com/realodix/flarum-ext-indonesian)
 * [Italian](https://github.com/Nearata/flarum-ext-italian)
+* [Japanese](https://github.com/naga0ka/flarum-ext-japanese)
 * [Korean](https://github.com/Comocozy/flarum-ext-korean)
 * [Malaysian](https://github.com/ahrasis/flarum-ext-malaysian)
 * [Polish](https://github.com/Veriael/flarum-polish)
+* [Polish](https://github.com/Veriael/flarum-polish)
+* [Portugal](https://github.com/lcbcruz/flarum-portuguese)
 * [Russian](https://gitlab.com/metastore/flarum/language/russian/flarum-core)
 * [Spanish](https://github.com/FlarumES/Spanish)
 * [Swedish](https://github.com/heidarKadkhoda/flarum-ext-swedish)
@@ -32,11 +35,20 @@
 #### Visual
 * [Flagrow Fonts](https://github.com/flagrow/fonts) - Easily add fonts to your Flarum.
 * [Flagrow Masquerade](https://github.com/flagrow/masquerade) - User profile builder extension for your Flarum forum.
+* [Gravatar](https://github.com/0E800/flarum-gravatar) - Display gravatar if no avatar was uploaded by user.
 * [Links](https://github.com/sijad/flarum-ext-links) - Manage Flarum primary navigation links.
 * [Pages](https://github.com/sijad/flarum-ext-pages) - Create custom pages with Flarum.
 
 #### Posting
+* [BBCode Alerts](https://github.com/0E800/flarum-ext-bbcode-alerts) - Add visual alerts / warnings to Flarum posts.
+* [BBCode Cards](https://github.com/0E800/flarum-ext-bbcode-cards) - Embed cards and articles inside Flarum post.
+* [BBCode FA](https://github.com/AntoineFr/flarum-ext-bbcode-fa) - Insert FontAwesome icons in your posts.
+* [BBCode Pastebin](https://github.com/0E800/flarum-ext-bbcode-pastebin) - Embed pastebin inside Flarum post.
+* [BBCode Progress Bars](https://github.com/0E800/flarum-ext-bbcode-bars) - Embed progress bars inside Flarum post.
+* [BBCode Special](https://github.com/0E800/flarum-ext-bbcode-special) - Add special BBCode text effects / objects to Flarum
 * [Best Answer](https://github.com/wiwatsrt/flarum-ext-best-answer) - A Flarum extension for select post best answer.
+* [Comic Sans](https://github.com/clarkwinkelmann/flarum-ext-comicsans) - Turn text into Comic Sans for no reason.
+* [Emoji Picker](https://github.com/clarkwinkelmann/flarum-ext-emojionearea) - Add EmojiOne Area emoji picker to Flarum.
 * [Geotags](https://github.com/avatar4eg/flarum-ext-geotags) - A Flarum extension that adds places for your posts (with editor button, list of places on each post and markdown string with name of place in text).
 * [Flagrow Split](https://github.com/flagrow/split) - Separate posts from one discussion into its own, splits discussions.
 * [Flagrow Upload](https://github.com/flagrow/upload) - An extension that handles file uploads intelligently for your forum.
@@ -47,6 +59,7 @@
 * [Split](https://github.com/dav-is/flarum-ext-split) - Split a forum discussion into single discussions.
 * [Markdown Editor](https://github.com/ganuonglachanh/flarum-ext-markdown-editor) by [ganuonglachanh](https://github.com/ganuonglachanh) - Simple toolbar buttons for easier editing of markdown in Flarum.
 * [Markdown Editor](https://github.com/XEngine/flarum-ext-markdown-editor) by [XEngine](https://github.com/XEngine) - A simple Markdown Editor for Flarum.
+* [Quill Editor](https://github.com/esledov/flarum-ext-quill) - Quill WYSIWYG editor for Flarum.
 
 #### Admin Area
 * [Analytics](https://github.com/flagrow/flarum-ext-analytics) - A Flarum extension that provides your forum piwik's and google's analytics features.
@@ -63,10 +76,12 @@
 
 #### Social Media
 * [Social Profile](https://github.com/dav-is/flarum-ext-socialprofile) - Allows addition of social media pages to your profile.
+* [Flarum Sharing](https://github.com/radixi0/flarum-ext-sharing) - A Flarum extension that adds share (to some popular social networks) buttons and <head> meta tags (Open Graph and Twitter Card) to make links to your forum look better.
 
 #### Theme Enhancements
+* [Devellogs black style](https://github.com/brarear/flarum-theme-devellogs) - devellogs.com Flarum Theme.
 * [Flarloader](https://github.com/EnDylan/Flarloader) - A loading bar for Flarum.
-* [Flarum Sharing](https://github.com/radixi0/flarum-ext-sharing) - A Flarum extension that adds share (to some popular social networks) buttons and <head> meta tags (Open Graph and Twitter Card) to make links to your forum look better.
+* [Pyhton Flarum Theme](https://github.com/flarumthemes/themes/tree/master/python)
 
 #### Communications
 * [Flagrow Byōbu](https://github.com/flagrow/byobu) - Well integrated, advanced private discussions.
