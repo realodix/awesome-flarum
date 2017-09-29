@@ -6,13 +6,14 @@
 #### Languages
 * [French](https://github.com/milescellar/flarum-ext-french)
 * [German](https://github.com/Kakifrucht/flarum-de)
-* [Hebrew](https://github.com/icecore2/Flarum-hebrew)
+* [Hebrew](https://github.com/icecore2/Flarum-hebrew) by [icecore2](https://github.com/icecore2)
+* [Hebrew](https://github.com/itayganor/flabrew) by [itayganor](https://github.com/itayganor)
 * [Indonesian](https://github.com/realodix/flarum-ext-indonesian)
 * [Italian](https://github.com/Nearata/flarum-ext-italian)
-* [Japanese](https://github.com/naga0ka/flarum-ext-japanese)
+* [Japanese](https://github.com/Felli/flarum-ext-japanese) by [Felli](https://github.com/Felli)
+* [Japanese](https://github.com/naga0ka/flarum-ext-japanese) by [naga0ka](https://github.com/naga0ka)
 * [Korean](https://github.com/Comocozy/flarum-ext-korean)
 * [Malaysian](https://github.com/ahrasis/flarum-ext-malaysian)
-* [Polish](https://github.com/Veriael/flarum-polish)
 * [Polish](https://github.com/Veriael/flarum-polish)
 * [Portugal](https://github.com/lcbcruz/flarum-portuguese)
 * [Russian](https://gitlab.com/metastore/flarum/language/russian/flarum-core)
@@ -28,16 +29,10 @@
 * [Invite Only](https://github.com/dav-is/flarum-ext-inviteonly) - Allow Registration only if invited.
 * [ReFlar GitLab Login](https://gitlab.com/ReDevelopers/ReFlar/oauth-gitlab) - ReFlar GitLab Login.
 * [Single Sign On](https://github.com/wuethrich44/flarum-ext-sso) - Single Sign On for Flarum.
+* [SSOwat login](https://github.com/tituspijean/flarum-ext-auth-ssowat) - Allow users to log in through SSOwat.
 * [Steam Login](https://github.com/sijad/flarum-ext-auth-steam) - Allow user to login to Flarum with their Steam account.
 * [Two Factor](https://github.com/CDK2020/flarum-ext-twofactor) - A Flarum extension that increases security by adding TOTP two factor authentication.
 * [Wordpress Login](https://github.com/krombox/flarum-ext-auth-wordpress) - Allow users to log in with your Wordpress site.
-
-#### Visual
-* [Flagrow Fonts](https://github.com/flagrow/fonts) - Easily add fonts to your Flarum.
-* [Flagrow Masquerade](https://github.com/flagrow/masquerade) - User profile builder extension for your Flarum forum.
-* [Gravatar](https://github.com/0E800/flarum-gravatar) - Display gravatar if no avatar was uploaded by user.
-* [Links](https://github.com/sijad/flarum-ext-links) - Manage Flarum primary navigation links.
-* [Pages](https://github.com/sijad/flarum-ext-pages) - Create custom pages with Flarum.
 
 #### Posting
 * [BBCode Alerts](https://github.com/0E800/flarum-ext-bbcode-alerts) - Add visual alerts / warnings to Flarum posts.
@@ -83,8 +78,21 @@
 * [Flarloader](https://github.com/EnDylan/Flarloader) - A loading bar for Flarum.
 * [Pyhton Flarum Theme](https://github.com/flarumthemes/themes/tree/master/python)
 
-#### Communications
+#### Others
+* [Email verification switch](https://github.com/isaced/flarum-ext-email-verification-switch) - Disable new registered user email verification, will be activated automatically.
+* [Faraday Motion Notifications](https://github.com/faraday-motion/flarum-faraday-motion-notifications) - Simple Flarum Extension that will automatically enable email notifications for the new registered users.
 * [Flagrow Byōbu](https://github.com/flagrow/byobu) - Well integrated, advanced private discussions.
+* [Flagrow Console](https://github.com/flagrow/console) - Register custom commands into Flarum.
+* [Flagrow Fonts](https://github.com/flagrow/fonts) - Easily add fonts to your Flarum.
+* [Flagrow Masquerade](https://github.com/flagrow/masquerade) - User profile builder extension for your Flarum forum.
+* [Flagrow Subscribed](https://github.com/flagrow/subscribed) - Better user subscriptions for your Flarum forum.
+* [Gravatar](https://github.com/0E800/flarum-gravatar) - Display gravatar if no avatar was uploaded by user.
+* [Links](https://github.com/sijad/flarum-ext-links) - Manage Flarum primary navigation links.
+* [OneSignal](https://github.com/Zurtr/flarum-ext-onesignal) - Adds Web Push notification feature to flarum.
+* [Pages](https://github.com/sijad/flarum-ext-pages) - Create custom pages with Flarum.
+* [Profile Image Crop](https://github.com/WiseClock/flarum-ext-profile-image-crop) - Adds the ability to crop when user uploads display picture.
+* [Search](https://github.com/ganuonglachanh/flarum-ganuonglachanh-search) - Allows to search by discusstion title.
+* [Sitemap](https://github.com/terabin/flarum-ext-sitemap) - Generate a Sitemap for Flarum automatically.
 
 ## Contributing
 Found an awesome Flarum extension? Send me a pull request!
