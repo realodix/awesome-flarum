@@ -1,7 +1,9 @@
-# Flarum Extension List
+# Awesome Flarum
 
-> A curated list of amazingly awesome Flarum Extension.
+> A curated list of amazingly awesome Flarum extension and resources.
 
+
+## Extension List
 
 #### Languages
 * [Dutch](https://github.com/rodymolenaar/flarum-ext-dutch)
@@ -68,6 +70,7 @@
 #### Admin Area
 * [Analytics](https://github.com/flagrow/flarum-ext-analytics) - A Flarum extension that provides your forum piwik's and google's analytics features.
 * [Dashboard](https://github.com/datitisev/flarum-ext-admindashboard) - This completely re-imagines the Admin interface.
+* [Event Tracking](https://github.com/SurfEdge/flarum-ext-event-tracking) - A Flarum Extension to Track Events for Google Analytics.
 * [Filter](https://github.com/CDK2020/flarum-ext-filter) - A Flarum extension that filters and flags posts by keywords.
 * [Flagrow Bazaar](https://github.com/flagrow/bazaar) - The marketplace extension that allows you to add and remove extensions without composer or a terminal.
 * [Flagrow Users List](https://github.com/flagrow/users-list) - A Flarum extension that adds users list to admin panel.
@@ -91,6 +94,7 @@
 #### Others
 * [Email verification switch](https://github.com/isaced/flarum-ext-email-verification-switch) - Disable new registered user email verification, will be activated automatically.
 * [Faraday Motion Notifications](https://github.com/faraday-motion/flarum-faraday-motion-notifications) - Simple Flarum Extension that will automatically enable email notifications for the new registered users.
+* [Flagrow Ads](https://github.com/flagrow/ads) - Allows you to configure ads in several locations.
 * [Flagrow Byōbu](https://github.com/flagrow/byobu) - Well integrated, advanced private discussions.
 * [Flagrow Console](https://github.com/flagrow/console) - Register custom commands into Flarum.
 * [Flagrow Fonts](https://github.com/flagrow/fonts) - Easily add fonts to your Flarum.
@@ -104,6 +108,22 @@
 * [Search](https://github.com/ganuonglachanh/flarum-ganuonglachanh-search) - Allows to search by discusstion title.
 * [Sitemap](https://github.com/terabin/flarum-ext-sitemap) - Generate a Sitemap for Flarum automatically.
 * [Summaries](https://github.com/jordanjay29/flarum-ext-summaries) - Show summaries on all discussions.
+
+
+
+## Resources
+
+* [Convert your beta 7 compatible extension to work on beta 8](https://discuss.flarum.org/d/6573)
+* [Flarum Flockport Container](https://www.flockport.com/apps/flarum/) - Flockport is an App store for server apps like Flarum and the goal is to make it easy for end users to use these apps, without the need to install and configure php, mysql, nginx etc.
+* [Flarum Installation Guide For Dummies](https://discuss.flarum.org/d/1951)
+* [Flarum Management](https://discuss.flarum.org/d/5158) - Manage flarum installs.
+* [Flarum Mobile Android](https://github.com/SurfEdge/flarum-mobile-android) - A WebView based Android application which will embed your flarum forum inside an application.
+* [Flarum Mobile iOS](https://github.com/SurfEdge/flarum-mobile-ios) - A WebView based iOS mobile application which will embed your flarum forum inside an application.
+* [How to install Flarum On Localhost and Shared Hosting Tutorial](https://discuss.flarum.org/d/2047)
+* [Migration script from PHPBB to Flarum](https://github.com/robrotheram/phpbb_to_flarum)
+* [Migration script from SMF2 to Flarum](https://github.com/ItalianSpaceAstronauticsAssociation/smf2_to_flarum)
+* [Pockethold](https://discuss.flarum.org/d/5731) - A Web based Installer.
+
 
 ## Contributing
 Found an awesome Flarum extension? Send me a pull request!
