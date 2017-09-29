@@ -4,6 +4,10 @@
 
 
 #### Languages
+* [Dutch](https://github.com/rodymolenaar/flarum-ext-dutch)
+* [Chinese](https://github.com/Csineneo/flarum-ext-simplified-chinese) (Simplified)
+* [Chinese](https://github.com/Csineneo/flarum-ext-traditional-chinese) (Traditional)
+* [Dutch](https://github.com/rodymolenaar/flarum-ext-dutch)
 * [French](https://github.com/milescellar/flarum-ext-french)
 * [German](https://github.com/Kakifrucht/flarum-de)
 * [Hebrew](https://github.com/icecore2/Flarum-hebrew) by [icecore2](https://github.com/icecore2)
@@ -14,13 +18,18 @@
 * [Japanese](https://github.com/naga0ka/flarum-ext-japanese) by [naga0ka](https://github.com/naga0ka)
 * [Korean](https://github.com/Comocozy/flarum-ext-korean)
 * [Malaysian](https://github.com/ahrasis/flarum-ext-malaysian)
+* [Norwegian Bokmål](https://github.com/pladask/flarum-ext-norwegian-bokmal)
+* [Norwegian Nynorsk](https://github.com/pladask/flarum-ext-norwegian-nynorsk)
 * [Polish](https://github.com/Veriael/flarum-polish)
 * [Portugal](https://github.com/lcbcruz/flarum-portuguese)
+* [Romanian](https://github.com/bmalex88/flarum-ext-romanian)
 * [Russian](https://gitlab.com/metastore/flarum/language/russian/flarum-core)
 * [Spanish](https://github.com/FlarumES/Spanish)
 * [Swedish](https://github.com/heidarKadkhoda/flarum-ext-swedish)
 * [Thailand](https://github.com/brarear/flarum-ext-thai)
-* [Turkish](https://github.com/enverarslan/flarum-ext-turkish)
+* [Turkish](https://github.com/enverarslan/flarum-ext-turkish) by [enverarslan](https://github.com/enverarslan)
+* [Turkish](https://github.com/XEngine/flarum-ext-turkish) by [XEngine](https://github.com/XEngine)
+* [Ukrainian](https://github.com/eikoninaru/flarum-ext-ukrainian)
 
 #### Authentication
 * [Discord Login](https://github.com/pnobbe/flarum-ext-oauth-discord) - Allows users to login using their Discord account.
@@ -76,6 +85,7 @@
 #### Theme Enhancements
 * [Devellogs black style](https://github.com/brarear/flarum-theme-devellogs) - devellogs.com Flarum Theme.
 * [Flarloader](https://github.com/EnDylan/Flarloader) - A loading bar for Flarum.
+* [Landing Page](https://discuss.flarum.org/d/4656) - Customizable landing page for non-logged in users.
 * [Pyhton Flarum Theme](https://github.com/flarumthemes/themes/tree/master/python)
 
 #### Others
@@ -93,6 +103,7 @@
 * [Profile Image Crop](https://github.com/WiseClock/flarum-ext-profile-image-crop) - Adds the ability to crop when user uploads display picture.
 * [Search](https://github.com/ganuonglachanh/flarum-ganuonglachanh-search) - Allows to search by discusstion title.
 * [Sitemap](https://github.com/terabin/flarum-ext-sitemap) - Generate a Sitemap for Flarum automatically.
+* [Summaries](https://github.com/jordanjay29/flarum-ext-summaries) - Show summaries on all discussions.
 
 ## Contributing
 Found an awesome Flarum extension? Send me a pull request!
