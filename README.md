@@ -1,9 +1,9 @@
 # Awesome Flarum
 
-> A curated list of amazingly awesome Flarum extension and resources.
+> A curated list of amazingly awesome Flarum extensions and resources.
 
 
-## Extension List
+## Extensions
 
 #### Languages
 * [Dutch](https://github.com/rodymolenaar/flarum-ext-dutch)
@@ -33,6 +33,7 @@
 * [Turkish](https://github.com/XEngine/flarum-ext-turkish) by [XEngine](https://github.com/XEngine)
 * [Ukrainian](https://github.com/eikoninaru/flarum-ext-ukrainian)
 
+
 #### Authentication
 * [Discord Login](https://github.com/pnobbe/flarum-ext-oauth-discord) - Allows users to login using their Discord account.
 * [Flagrow Passport](https://github.com/flagrow/passport) - The Laravel passport compatible oauth extension for your Flarum forum.
@@ -44,6 +45,7 @@
 * [Steam Login](https://github.com/sijad/flarum-ext-auth-steam) - Allow user to login to Flarum with their Steam account.
 * [Two Factor](https://github.com/CDK2020/flarum-ext-twofactor) - A Flarum extension that increases security by adding TOTP two factor authentication.
 * [Wordpress Login](https://github.com/krombox/flarum-ext-auth-wordpress) - Allow users to log in with your Wordpress site.
+
 
 #### Posting
 * [BBCode Alerts](https://github.com/0E800/flarum-ext-bbcode-alerts) - Add visual alerts / warnings to Flarum posts.
@@ -67,6 +69,7 @@
 * [Markdown Editor](https://github.com/XEngine/flarum-ext-markdown-editor) by [XEngine](https://github.com/XEngine) - A simple Markdown Editor for Flarum.
 * [Quill Editor](https://github.com/esledov/flarum-ext-quill) - Quill WYSIWYG editor for Flarum.
 
+
 #### Admin Area
 * [Analytics](https://github.com/flagrow/flarum-ext-analytics) - A Flarum extension that provides your forum piwik's and google's analytics features.
 * [Dashboard](https://github.com/datitisev/flarum-ext-admindashboard) - This completely re-imagines the Admin interface.
@@ -81,6 +84,7 @@
 * [Syndication](https://github.com/AmauryCarrade/flarum-ext-syndication) - Brings RSS and Atom feeds to Flarum.
 * [Url Transliterator](https://github.com/Avatar4eg/flarum-ext-transliterator) - Transliterator for urls.
 
+
 #### Social Media
 * [Social Profile](https://github.com/dav-is/flarum-ext-socialprofile) - Allows addition of social media pages to your profile.
 * [Flarum Sharing](https://github.com/radixi0/flarum-ext-sharing) - A Flarum extension that adds share (to some popular social networks) buttons and <head> meta tags (Open Graph and Twitter Card) to make links to your forum look better.
@@ -90,6 +94,7 @@
 * [Flarloader](https://github.com/EnDylan/Flarloader) - A loading bar for Flarum.
 * [Landing Page](https://discuss.flarum.org/d/4656) - Customizable landing page for non-logged in users.
 * [Pyhton Flarum Theme](https://github.com/flarumthemes/themes/tree/master/python)
+
 
 #### Others
 * [Email verification switch](https://github.com/isaced/flarum-ext-email-verification-switch) - Disable new registered user email verification, will be activated automatically.
@@ -113,25 +118,67 @@
 
 ## Resources
 
-* [Convert your beta 7 compatible extension to work on beta 8](https://discuss.flarum.org/d/6573)
 * [Flarum Flockport Container](https://www.flockport.com/apps/flarum/) - Flockport is an App store for server apps like Flarum and the goal is to make it easy for end users to use these apps, without the need to install and configure php, mysql, nginx etc.
-* [Flarum Installation Guide For Dummies](https://discuss.flarum.org/d/1951)
-* [Flarum Management](https://discuss.flarum.org/d/5158) - Manage flarum installs.
-* [Flarum Mobile Android](https://github.com/SurfEdge/flarum-mobile-android) - A WebView based Android application which will embed your flarum forum inside an application.
-* [Flarum Mobile iOS](https://github.com/SurfEdge/flarum-mobile-ios) - A WebView based iOS mobile application which will embed your flarum forum inside an application.
-* [How to install Flarum On Localhost and Shared Hosting Tutorial](https://discuss.flarum.org/d/2047)
-* [Migration script from PHPBB to Flarum](https://github.com/robrotheram/phpbb_to_flarum)
-* [Migration script from SMF2 to Flarum](https://github.com/ItalianSpaceAstronauticsAssociation/smf2_to_flarum)
 * [Pockethold](https://discuss.flarum.org/d/5731) - A Web based Installer.
 
 
+#### Tutorials
+* [Coaster CMS + Flarum](https://discuss.flarum.org/d/6299) - Have a blog/cms platform with Flarum integration. If possible, have Flarum use Coaster CMS authentication and/or have Coaster CMS use Flarum authentication.
+* [Configuration of vhost in Caddy Server](https://discuss.flarum.org/d/5107)
+* [Extension Development Tips](https://discuss.flarum.org/d/5512)
+* [Extension development using composer repositories path](https://discuss.flarum.org/d/1608)
+* [Flarum Installation Guide For Dummies](https://discuss.flarum.org/d/1951)
+* [Force http or https using JS](https://discuss.flarum.org/d/4828)
+* [How I implemented "Cross Authentication" with Flarum](https://discuss.flarum.org/d/2808)
+* [How To Installing Flarum with Public Directory](https://discuss.flarum.org/d/4591)
+* [How to Install Flarum on Synology NAS](https://discuss.flarum.org/d/3090)
+* [How to Migrate an O-auth Account to Regular Account](https://discuss.flarum.org/d/5744)
+* [How to install Flarum Community Software](https://www.youtube.com/watch?v=kiVm2-W601s)
+* [How to install Flarum forum on Microsoft Azure](https://thesarfaraz.com/d/7)
+* [How to install Flarum on CloudWays](https://discuss.flarum.org/d/5071)
+* [How to install Flarum on Windows](https://discuss.flarum.org/d/1565)
+* [How to migrate flarum to another server](https://discuss.flarum.org/d/2753)
+* [How to pass PHP variables to the admin front-end easily](https://discuss.flarum.org/d/2885)
+* [Installing Flarum on GoDaddy Hosting](https://discuss.flarum.org/d/1548)
+* [Nginx] [Flarum + Cloudflare Full SSL](https://discuss.flarum.org/d/6046) - Enable full SSL in CloudFlare
+* [Nginx] [Visitor Caching](https://discuss.flarum.org/d/3608) - This is a small guide for caching static content for visitors that are not logged in. Logged in users "BYPASS" the cache entirely and this guide does not cache for users who are logged in.
+* [Obtain an SSL certificate and run your forum with HTTPS for free](https://discuss.flarum.org/d/1623)
+* [Restoring IPs with CloudFlare](https://discuss.flarum.org/d/5440)
+* [Run Flarum using the PHP builtin server](https://discuss.flarum.org/d/4118)
+* [Sending emails from VPS](https://discuss.flarum.org/d/3191)
+* [Shared Hosting] [How to Upload Flarum to Shared Hosting After Managed in Localhost](https://discuss.flarum.org/d/6138)
+* [Shared Hosting] [How to install Flarum On Localhost and Shared Hosting](https://www.youtube.com/watch?v=hqbG_SGo4go)
+* [Shared Hosting] [How to install a Flarum Extension on shared hosting with limited PHP resources](https://discuss.flarum.org/d/2977)
+* [Shared Hosting] [Installing extension on a shared hosting](https://discuss.flarum.org/d/3949)
+* [Understanding templating in Flarum when you come from a different background](https://discuss.flarum.org/d/3614)
+* [VPS Flarum Installation Guide for Monkeys](https://discuss.flarum.org/d/4056)
+
+
+#### Utilities
+* [Convert your beta 7 compatible extension to work on beta 8](https://discuss.flarum.org/d/6573)
+* [Flarum Management](https://discuss.flarum.org/d/5158) - Manage flarum installs.
+* [Flarum Userscript EasyOnTheEyes](https://github.com/moutonnoireu/flarum-userscript-eote) - Flarum is great but at night, your eyes might suffer from all this whitey colors. Here comes this userscript.
+* [Migration] [FluxBB to Flarum](https://github.com/mondediefr/fluxbb_to_flarum) - FluxBB to Flarum importer
+* [Migration] [MyBB to Flarum](https://github.com/ItalianSpaceAstronauticsAssociation/smf2_to_flarum) - A php migration script to convert a mybb forum to a fresh flarum install
+* [Migration] [phpBB to Flarum](https://github.com/robrotheram/phpbb_to_flarum)
+* [Migration] [SMF2 to Flarum](https://github.com/ItalianSpaceAstronauticsAssociation/smf2_to_flarum) - SMF2 to Flarum DB importer
+
+
+#### Mobile App
+* [Flario](https://github.com/michaldev/flarumapp) - Android client for Flarum
+* [Flarum Community](https://github.com/SurfEdge/flarum-mobile-android) - A WebView based Android application which will embed your flarum forum inside an application.
+* [Flarum Mobile iOS](https://github.com/SurfEdge/flarum-mobile-ios) - A WebView based iOS mobile application which will embed your flarum forum inside an application.
+
+
+
 ## Contributing
-Found an awesome Flarum extension? Send me a pull request!
+
+Found an awesome Flarum extension and and resource? Send me a pull request!
 
 #### Guidelines
-* Please make an individual pull request for each suggestion
-* Use the following format for links: \[NAME\]\(URL\) - Description
-* New categories or improvements to the existing categorization are welcome
+1. Please make an individual pull request for each suggestion
+2. Use the following format for links: \[NAME\]\(URL\) - Description
+3. New categories or improvements to the existing categorization are welcome
 
 ## License
 Released under the MIT License. Please see the [LICENSE](https://github.com/realodix/flarum-extension-list/blob/master/LICENSE) file.
