@@ -126,7 +126,7 @@
 * [Flarum on Docker](https://github.com/mondediefr/docker-flarum) by [Mondediefr](https://github.com/mondediefr)
 * [Flarum on Docker](https://github.com/wiwatsrt/flarum-docker) by [Wiwatsrt](https://github.com/wiwatsrt)
 * [Flarum package for YunoHost](https://github.com/YunoHost-Apps/flarum_ynh) - Flarum, an open-source forum software, packaged for YunoHost, a self-hosting server operating server.
-* [Pockethold](https://discuss.flarum.org/d/5731) - A Web based Installer.
+* [Pockethold](https://discuss.flarum.org/d/5731) - Pockethold is above all, a tool for installing Flarum without shell access.
 * [Toolbelt](https://github.com/flagrow/toolbelt) - Toolbelt is a package meant for extension developers. It offers re-usable components and helper classes for both the back- and frontend of Flarum extensions.
 
 #### Utilities
