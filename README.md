@@ -7,8 +7,9 @@
 
 #### Languages
 * [Dutch](https://github.com/rodymolenaar/flarum-ext-dutch)
-* [Chinese](https://github.com/Csineneo/flarum-ext-simplified-chinese) (Simplified)
-* [Chinese](https://github.com/Csineneo/flarum-ext-traditional-chinese) (Traditional)
+* [Chinese](https://github.com/Csineneo/flarum-ext-simplified-chinese) (Simplified) by [Csineneo](https://github.com/Csineneo)
+* [Chinese](https://github.com/Flarum-Chinese/flarum-ext-simplified-chinese) (Simplified) by [Flarum-Chinese](https://github.com/Flarum-Chinese)
+* [Chinese](https://github.com/Flarum-Chinese/flarum-ext-simplified-chinese) (Traditional)
 * [Dutch](https://github.com/rodymolenaar/flarum-ext-dutch)
 * [French](https://github.com/milescellar/flarum-ext-french)
 * [German](https://github.com/Kakifrucht/flarum-de)
@@ -17,7 +18,7 @@
 * [Indonesian](https://github.com/realodix/flarum-ext-indonesian)
 * [Italian](https://github.com/Nearata/flarum-ext-italian)
 * [Japanese](https://github.com/Felli/flarum-ext-japanese) by [Felli](https://github.com/Felli)
-* [Japanese](https://github.com/naga0ka/flarum-ext-japanese) by [naga0ka](https://github.com/naga0ka)
+* [Japanese](https://github.com/naga0ka/flarum-ext-japanese) by [Naga0ka](https://github.com/naga0ka)
 * [Korean](https://github.com/Comocozy/flarum-ext-korean)
 * [Malaysian](https://github.com/ahrasis/flarum-ext-malaysian)
 * [Norwegian Bokmål](https://github.com/pladask/flarum-ext-norwegian-bokmal)
@@ -29,7 +30,7 @@
 * [Spanish](https://github.com/FlarumES/Spanish)
 * [Swedish](https://github.com/heidarKadkhoda/flarum-ext-swedish)
 * [Thailand](https://github.com/brarear/flarum-ext-thai)
-* [Turkish](https://github.com/enverarslan/flarum-ext-turkish) by [enverarslan](https://github.com/enverarslan)
+* [Turkish](https://github.com/enverarslan/flarum-ext-turkish) by [Enverarslan](https://github.com/enverarslan)
 * [Turkish](https://github.com/XEngine/flarum-ext-turkish) by [XEngine](https://github.com/XEngine)
 * [Ukrainian](https://github.com/eikoninaru/flarum-ext-ukrainian)
 
@@ -65,7 +66,7 @@
 * [ReFlar Reactions](https://gitlab.com/ReDevelopers/ReFlar/reactions) - A Flarum extension that adds reactions to your Flarum Community.
 * [Reply2See](https://github.com/WiseClock/flarum-ext-reply2see) - Adds a reply to see BBCODE.
 * [Split](https://github.com/dav-is/flarum-ext-split) - Split a forum discussion into single discussions.
-* [Markdown Editor](https://github.com/ganuonglachanh/flarum-ext-markdown-editor) by [ganuonglachanh](https://github.com/ganuonglachanh) - Simple toolbar buttons for easier editing of markdown in Flarum.
+* [Markdown Editor](https://github.com/ganuonglachanh/flarum-ext-markdown-editor) by [Ganuonglachanh](https://github.com/ganuonglachanh) - Simple toolbar buttons for easier editing of markdown in Flarum.
 * [Markdown Editor](https://github.com/XEngine/flarum-ext-markdown-editor) by [XEngine](https://github.com/XEngine) - A simple Markdown Editor for Flarum.
 * [Quill Editor](https://github.com/esledov/flarum-ext-quill) - Quill WYSIWYG editor for Flarum.
 
@@ -94,6 +95,7 @@
 * [Flarloader](https://github.com/EnDylan/Flarloader) - A loading bar for Flarum.
 * [Landing Page](https://discuss.flarum.org/d/4656) - Customizable landing page for non-logged in users.
 * [Pyhton Flarum Theme](https://github.com/flarumthemes/themes/tree/master/python)
+* [Xiuno4](https://github.com/wfdaj/xiuno4-theme-flarum)
 
 
 #### Others
@@ -104,6 +106,7 @@
 * [Flagrow Console](https://github.com/flagrow/console) - Register custom commands into Flarum.
 * [Flagrow Fonts](https://github.com/flagrow/fonts) - Easily add fonts to your Flarum.
 * [Flagrow Masquerade](https://github.com/flagrow/masquerade) - User profile builder extension for your Flarum forum.
+* [Flagrow Serve](https://github.com/flagrow/serve) - Add the serve command to Flarum. This will allow you to start Flarum into the PHP development server via a simple command.
 * [Flagrow Subscribed](https://github.com/flagrow/subscribed) - Better user subscriptions for your Flarum forum.
 * [Gravatar](https://github.com/0E800/flarum-gravatar) - Display gravatar if no avatar was uploaded by user.
 * [Links](https://github.com/sijad/flarum-ext-links) - Manage Flarum primary navigation links.
@@ -118,8 +121,29 @@
 
 ## Resources
 
+* [Flarum API Client](https://github.com/flagrow/flarum-api-client) - The API client for working with your Flarum forum.
 * [Flarum Flockport Container](https://www.flockport.com/apps/flarum/) - Flockport is an App store for server apps like Flarum and the goal is to make it easy for end users to use these apps, without the need to install and configure php, mysql, nginx etc.
+* [Flarum on Docker](https://github.com/mondediefr/docker-flarum) by [Mondediefr](https://github.com/mondediefr)
+* [Flarum on Docker](https://github.com/wiwatsrt/flarum-docker) by [Wiwatsrt](https://github.com/wiwatsrt)
+* [Flarum package for YunoHost](https://github.com/YunoHost-Apps/flarum_ynh) - Flarum, an open-source forum software, packaged for YunoHost, a self-hosting server operating server.
 * [Pockethold](https://discuss.flarum.org/d/5731) - A Web based Installer.
+* [Toolbelt](https://github.com/flagrow/toolbelt) - Toolbelt is a package meant for extension developers. It offers re-usable components and helper classes for both the back- and frontend of Flarum extensions.
+
+#### Utilities
+* [Convert your beta 7 compatible extension to work on beta 8](https://discuss.flarum.org/d/6573)
+* [Flarum Management](https://discuss.flarum.org/d/5158) - Manage flarum installs.
+* [Flarum Userscript EasyOnTheEyes](https://github.com/moutonnoireu/flarum-userscript-eote) - Flarum is great but at night, your eyes might suffer from all this whitey colors. Here comes this userscript.
+* [Migration] [FluxBB to Flarum](https://github.com/mondediefr/fluxbb_to_flarum) - FluxBB to Flarum importer
+* [Migration] [MyBB to Flarum](https://github.com/MichaelBelgium/mybb_to_flarum) - A php migration script to convert a mybb forum to a fresh flarum install
+* [Migration] [NodeBB to Flarum](https://github.com/DeltaEvo/nodebb-plugin-import-flarum) - A Flarum to NodeBB exporter based on nodebb-plugin-import-ubb by Aziz Khoury
+* [Migration] [phpBB to Flarum](https://github.com/robrotheram/phpbb_to_flarum)
+* [Migration] [SMF2 to Flarum](https://github.com/ItalianSpaceAstronauticsAssociation/smf2_to_flarum) - SMF2 to Flarum DB importer
+
+
+#### Mobile App
+* [Flario](https://github.com/michaldev/flarumapp) - Android client for Flarum
+* [Flarum Community](https://github.com/SurfEdge/flarum-mobile-android) - A WebView based Android application which will embed your flarum forum inside an application.
+* [Flarum Mobile iOS](https://github.com/SurfEdge/flarum-mobile-ios) - A WebView based iOS mobile application which will embed your flarum forum inside an application.
 
 
 #### Tutorials
@@ -152,22 +176,6 @@
 * [Shared Hosting] [Installing extension on a shared hosting](https://discuss.flarum.org/d/3949)
 * [Understanding templating in Flarum when you come from a different background](https://discuss.flarum.org/d/3614)
 * [VPS Flarum Installation Guide for Monkeys](https://discuss.flarum.org/d/4056)
-
-
-#### Utilities
-* [Convert your beta 7 compatible extension to work on beta 8](https://discuss.flarum.org/d/6573)
-* [Flarum Management](https://discuss.flarum.org/d/5158) - Manage flarum installs.
-* [Flarum Userscript EasyOnTheEyes](https://github.com/moutonnoireu/flarum-userscript-eote) - Flarum is great but at night, your eyes might suffer from all this whitey colors. Here comes this userscript.
-* [Migration] [FluxBB to Flarum](https://github.com/mondediefr/fluxbb_to_flarum) - FluxBB to Flarum importer
-* [Migration] [MyBB to Flarum](https://github.com/ItalianSpaceAstronauticsAssociation/smf2_to_flarum) - A php migration script to convert a mybb forum to a fresh flarum install
-* [Migration] [phpBB to Flarum](https://github.com/robrotheram/phpbb_to_flarum)
-* [Migration] [SMF2 to Flarum](https://github.com/ItalianSpaceAstronauticsAssociation/smf2_to_flarum) - SMF2 to Flarum DB importer
-
-
-#### Mobile App
-* [Flario](https://github.com/michaldev/flarumapp) - Android client for Flarum
-* [Flarum Community](https://github.com/SurfEdge/flarum-mobile-android) - A WebView based Android application which will embed your flarum forum inside an application.
-* [Flarum Mobile iOS](https://github.com/SurfEdge/flarum-mobile-ios) - A WebView based iOS mobile application which will embed your flarum forum inside an application.
 
 
 
