@@ -24,7 +24,7 @@
 * [Norwegian Bokmål](https://github.com/pladask/flarum-ext-norwegian-bokmal)
 * [Norwegian Nynorsk](https://github.com/pladask/flarum-ext-norwegian-nynorsk)
 * [Polish](https://github.com/Veriael/flarum-polish)
-* [Portugal](https://github.com/lcbcruz/flarum-portuguese)
+* [Portuguese](https://github.com/lcbcruz/flarum-portuguese)
 * [Romanian](https://github.com/bmalex88/flarum-ext-romanian)
 * [Russian](https://gitlab.com/metastore/flarum/language/russian/flarum-core)
 * [Spanish](https://github.com/FlarumES/Spanish)
