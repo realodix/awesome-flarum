@@ -121,7 +121,7 @@
 ## Resources
 
 * **[Official Documentation](http://flarum.org/docs)**
-* [Flarum API Client](https://github.com/flagrow/flarum-api-client) - The API client for working with your Flarum forum.
+* [Flarum API client](https://github.com/flagrow/flarum-api-client) - The API client for working with your Flarum forum.
 * [Flarum Flockport Container](https://www.flockport.com/apps/flarum/) - Flockport is an App store for server apps like Flarum and the goal is to make it easy for end users to use these apps, without the need to install and configure php, mysql, nginx etc.
 * [Flarum on Docker](https://github.com/mondediefr/docker-flarum) by [Mondediefr](https://github.com/mondediefr)
 * [Flarum on Docker](https://github.com/wiwatsrt/flarum-docker) by [Wiwatsrt](https://github.com/wiwatsrt)
@@ -149,36 +149,36 @@
 #### Tutorials
 * [Coaster CMS + Flarum](https://discuss.flarum.org/d/6299) - Have a blog/cms platform with Flarum integration. If possible, have Flarum use Coaster CMS authentication and/or have Coaster CMS use Flarum authentication.
 * [Configuration of vhost in Caddy Server](https://discuss.flarum.org/d/5107)
-* [Extension Development Tips](https://discuss.flarum.org/d/5512)
+* [Extension development tips](https://discuss.flarum.org/d/5512)
 * [Extension development using composer repositories path](https://discuss.flarum.org/d/1608)
-* [Flarum Installation Guide For Dummies](https://discuss.flarum.org/d/1951)
+* [Flarum installation guide for dummies](https://discuss.flarum.org/d/1951)
 * [Force http or https using JS](https://discuss.flarum.org/d/4828)
 * [How I implemented "Cross Authentication" with Flarum](https://discuss.flarum.org/d/2808)
-* [How to install Flarum Community Software](https://www.youtube.com/watch?v=kiVm2-W601s)
+* [How to install Flarum community software](https://www.youtube.com/watch?v=kiVm2-W601s)
 * [How to install Flarum forum on Microsoft Azure](https://thesarfaraz.com/d/7)
 * [How to install Flarum in Vultr](https://discuss.flarum.org/d/6854)
 * [How to install Flarum on CloudWays](https://www.cloudways.com/blog/install-flarum-forum-on-cloud-hosting/)
-* [How to Install Flarum on Synology NAS](https://discuss.flarum.org/d/3090)
+* [How to install Flarum on Synology NAS](https://discuss.flarum.org/d/3090)
 * [How to install Flarum on Windows](https://discuss.flarum.org/d/1565)
-* [How To Installing Flarum with Public Directory](https://discuss.flarum.org/d/4591)
-* [How to Migrate an O-auth Account to Regular Account](https://discuss.flarum.org/d/5744)
+* [How to installing Flarum with public directory](https://discuss.flarum.org/d/4591)
+* [How to migrate an OAuth account to regular account](https://discuss.flarum.org/d/5744)
 * [How to migrate Flarum to another server](https://discuss.flarum.org/d/2753)
 * [How to pass PHP variables to the admin front-end easily](https://discuss.flarum.org/d/2885)
 * [How to use the latest font-awesome icons](https://discuss.flarum.org/d/5902)
-* [Installing Flarum on GoDaddy Hosting](https://discuss.flarum.org/d/1548)
+* [Installing Flarum on GoDaddy](https://discuss.flarum.org/d/1548)
 * [Integrating Laravel and Flarum](https://medium.com/@woganmay/integrating-laravel-and-flarum-fb973f2629b5)
-* [Nginx] [Flarum + Cloudflare Full SSL](https://discuss.flarum.org/d/6046) - Enable full SSL in CloudFlare
-* [Nginx] [Visitor Caching](https://discuss.flarum.org/d/3608) - This is a small guide for caching static content for visitors that are not logged in. Logged in users "BYPASS" the cache entirely and this guide does not cache for users who are logged in.
+* [Nginx] [Flarum + Cloudflare full SSL](https://discuss.flarum.org/d/6046) - Enable full SSL in CloudFlare
+* [Nginx] [Visitor caching](https://discuss.flarum.org/d/3608) - This is a small guide for caching static content for visitors that are not logged in. Logged in users "BYPASS" the cache entirely and this guide does not cache for users who are logged in.
 * [Obtain an SSL certificate and run your forum with HTTPS for free](https://discuss.flarum.org/d/1623)
 * [Restoring IPs with CloudFlare](https://discuss.flarum.org/d/5440)
 * [Run Flarum using the PHP builtin server](https://discuss.flarum.org/d/4118)
 * [Sending emails from VPS](https://discuss.flarum.org/d/3191)
-* [Shared Hosting] [How to install a Flarum Extension on shared hosting with limited PHP resources](https://discuss.flarum.org/d/2977)
-* [Shared Hosting] [How to install Flarum On Localhost and Shared Hosting](https://www.youtube.com/watch?v=hqbG_SGo4go)
-* [Shared Hosting] [How to Upload Flarum to Shared Hosting After Managed in Localhost](https://discuss.flarum.org/d/6138)
+* [Shared Hosting] [How to install a Flarum extension on shared hosting with limited PHP resources](https://discuss.flarum.org/d/2977)
+* [Shared Hosting] [How to install Flarum on localhost and shared hosting](https://www.youtube.com/watch?v=hqbG_SGo4go)
+* [Shared Hosting] [How to upload Flarum to shared hosting after managed in localhost](https://discuss.flarum.org/d/6138)
 * [Shared Hosting] [Installing extension on a shared hosting](https://discuss.flarum.org/d/3949)
 * [Understanding templating in Flarum when you come from a different background](https://discuss.flarum.org/d/3614)
-* [VPS Flarum Installation Guide for Monkeys](https://discuss.flarum.org/d/4056)
+* [VPS Flarum installation guide for monkeys](https://discuss.flarum.org/d/4056)
 
 
 
