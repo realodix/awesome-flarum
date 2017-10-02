@@ -6,7 +6,6 @@
 ## Extensions
 
 #### Languages
-* [Dutch](https://github.com/rodymolenaar/flarum-ext-dutch)
 * [Chinese](https://github.com/Csineneo/flarum-ext-simplified-chinese) (Simplified) by [Csineneo](https://github.com/Csineneo)
 * [Chinese](https://github.com/Flarum-Chinese/flarum-ext-simplified-chinese) (Simplified) by [Flarum-Chinese](https://github.com/Flarum-Chinese)
 * [Chinese](https://github.com/Flarum-Chinese/flarum-ext-simplified-chinese) (Traditional)
@@ -20,9 +19,6 @@
 * [Japanese](https://github.com/Felli/flarum-ext-japanese) by [Felli](https://github.com/Felli)
 * [Japanese](https://github.com/naga0ka/flarum-ext-japanese) by [Naga0ka](https://github.com/naga0ka)
 * [Korean](https://github.com/Comocozy/flarum-ext-korean)
-* [Malaysian](https://github.com/ahrasis/flarum-ext-malaysian)
-* [Norwegian Bokmål](https://github.com/pladask/flarum-ext-norwegian-bokmal)
-* [Norwegian Nynorsk](https://github.com/pladask/flarum-ext-norwegian-nynorsk)
 * [Polish](https://github.com/Veriael/flarum-polish)
 * [Portuguese](https://github.com/lcbcruz/flarum-portuguese)
 * [Romanian](https://github.com/bmalex88/flarum-ext-romanian)
@@ -33,19 +29,22 @@
 * [Turkish](https://github.com/enverarslan/flarum-ext-turkish) by [Enverarslan](https://github.com/enverarslan)
 * [Turkish](https://github.com/XEngine/flarum-ext-turkish) by [XEngine](https://github.com/XEngine)
 * [Ukrainian](https://github.com/eikoninaru/flarum-ext-ukrainian)
+* [2016] [Malaysian](https://github.com/ahrasis/flarum-ext-malaysian)
+* [2016] [Norwegian Bokmål](https://github.com/pladask/flarum-ext-norwegian-bokmal)
+* [2016] [Norwegian Nynorsk](https://github.com/pladask/flarum-ext-norwegian-nynorsk)
 
 
 #### Authentication
-* [Discord Login](https://github.com/pnobbe/flarum-ext-oauth-discord) - Allows users to login using their Discord account.
 * [Flagrow Passport](https://github.com/flagrow/passport) - The Laravel passport compatible oauth extension for your Flarum forum.
-* [Google Login](https://github.com/johnhearfield/flarum-ext-oauth-google) - Allows users to login using their Google Account.
-* [Invite Only](https://github.com/dav-is/flarum-ext-inviteonly) - Allow Registration only if invited.
 * [ReFlar GitLab Login](https://gitlab.com/ReDevelopers/ReFlar/oauth-gitlab) - ReFlar GitLab Login.
 * [Single Sign On](https://github.com/wuethrich44/flarum-ext-sso) - Single Sign On for Flarum.
 * [SSOwat login](https://github.com/tituspijean/flarum-ext-auth-ssowat) - Allow users to log in through SSOwat.
 * [Steam Login](https://github.com/sijad/flarum-ext-auth-steam) - Allow user to login to Flarum with their Steam account.
 * [Two Factor](https://github.com/CDK2020/flarum-ext-twofactor) - A Flarum extension that increases security by adding TOTP two factor authentication.
 * [Wordpress Login](https://github.com/krombox/flarum-ext-auth-wordpress) - Allow users to log in with your Wordpress site.
+* [2016] [Discord Login](https://github.com/pnobbe/flarum-ext-oauth-discord) - Allows users to login using their Discord account.
+* [2016] [Google Login](https://github.com/johnhearfield/flarum-ext-oauth-google) - Allows users to login using their Google Account.
+* [2016] [Invite Only](https://github.com/dav-is/flarum-ext-inviteonly) - Allow Registration only if invited.
 
 
 #### Posting
@@ -82,8 +81,8 @@
 * [Notify](https://github.com/manelizzard/flarum-notify) - Get notified about forum activity in Slack, Hipchat, Gitter or Telegram.
 * [ReFlar User Management](https://gitlab.com/ReDevelopers/ReFlar/user-management) - Manage every aspect of your users, with style.
 * [Secure HTTPS](https://github.com/dav-is/flarum-ext-securehttps) - Changes all images using http to https.
-* [Syndication](https://github.com/AmauryCarrade/flarum-ext-syndication) - Brings RSS and Atom feeds to Flarum.
 * [Url Transliterator](https://github.com/Avatar4eg/flarum-ext-transliterator) - Transliterator for urls.
+* [2016] [Syndication](https://github.com/AmauryCarrade/flarum-ext-syndication) - Brings RSS and Atom feeds to Flarum.
 
 
 #### Social Media
@@ -110,17 +109,18 @@
 * [Flagrow Subscribed](https://github.com/flagrow/subscribed) - Better user subscriptions for your Flarum forum.
 * [Gravatar](https://github.com/0E800/flarum-gravatar) - Display gravatar if no avatar was uploaded by user.
 * [Links](https://github.com/sijad/flarum-ext-links) - Manage Flarum primary navigation links.
-* [OneSignal](https://github.com/Zurtr/flarum-ext-onesignal) - Adds Web Push notification feature to flarum.
 * [Pages](https://github.com/sijad/flarum-ext-pages) - Create custom pages with Flarum.
 * [Profile Image Crop](https://github.com/WiseClock/flarum-ext-profile-image-crop) - Adds the ability to crop when user uploads display picture.
 * [Search](https://github.com/ganuonglachanh/flarum-ganuonglachanh-search) - Allows to search by discusstion title.
-* [Sitemap](https://github.com/terabin/flarum-ext-sitemap) - Generate a Sitemap for Flarum automatically.
 * [Summaries](https://github.com/jordanjay29/flarum-ext-summaries) - Show summaries on all discussions.
+* [2016] [OneSignal](https://github.com/Zurtr/flarum-ext-onesignal) - Adds Web Push notification feature to flarum.
+* [2016] [Sitemap](https://github.com/terabin/flarum-ext-sitemap) - Generate a Sitemap for Flarum automatically.
 
 
 
 ## Resources
 
+* **[Official Documentation](http://flarum.org/docs)**
 * [Flarum API Client](https://github.com/flagrow/flarum-api-client) - The API client for working with your Flarum forum.
 * [Flarum Flockport Container](https://www.flockport.com/apps/flarum/) - Flockport is an App store for server apps like Flarum and the goal is to make it easy for end users to use these apps, without the need to install and configure php, mysql, nginx etc.
 * [Flarum on Docker](https://github.com/mondediefr/docker-flarum) by [Mondediefr](https://github.com/mondediefr)
