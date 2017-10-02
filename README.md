@@ -35,16 +35,16 @@
 
 
 #### Authentication
-* [Flagrow Passport](https://github.com/flagrow/passport) - The Laravel passport compatible oauth extension for your Flarum forum.
-* [ReFlar GitLab Login](https://gitlab.com/ReDevelopers/ReFlar/oauth-gitlab) - ReFlar GitLab Login.
-* [Single Sign On](https://github.com/wuethrich44/flarum-ext-sso) - Single Sign On for Flarum.
+* [Flagrow Passport](https://github.com/flagrow/passport) - The Laravel Passport compatible oauth extension for your Flarum forum.
+* [ReFlar GitLab Login](https://gitlab.com/ReDevelopers/ReFlar/oauth-gitlab) - Allows users to login using their GitLab account.
+* [Single Sign On](https://github.com/wuethrich44/flarum-ext-sso) - Single sign on for Flarum.
 * [SSOwat login](https://github.com/tituspijean/flarum-ext-auth-ssowat) - Allow users to log in through SSOwat.
 * [Steam Login](https://github.com/sijad/flarum-ext-auth-steam) - Allow user to login to Flarum with their Steam account.
 * [Two Factor](https://github.com/CDK2020/flarum-ext-twofactor) - A Flarum extension that increases security by adding TOTP two factor authentication.
-* [Wordpress Login](https://github.com/krombox/flarum-ext-auth-wordpress) - Allow users to log in with your Wordpress site.
-* [2016] [Discord Login](https://github.com/pnobbe/flarum-ext-oauth-discord) - Allows users to login using their Discord account.
-* [2016] [Google Login](https://github.com/johnhearfield/flarum-ext-oauth-google) - Allows users to login using their Google Account.
-* [2016] [Invite Only](https://github.com/dav-is/flarum-ext-inviteonly) - Allow Registration only if invited.
+* [Wordpress Login](https://github.com/krombox/flarum-ext-auth-wordpress) - Allow users to login with your WordPress site.
+* [2016] [Discord Login](https://github.com/pnobbe/flarum-ext-oauth-discord) - Allow users to login using their Discord account.
+* [2016] [Google Login](https://github.com/johnhearfield/flarum-ext-oauth-google) - Allow users to login using their Google account.
+* [2016] [Invite Only](https://github.com/dav-is/flarum-ext-inviteonly) - Allow registration only if invited.
 
 
 #### Posting
@@ -62,23 +62,23 @@
 * [Flagrow Upload](https://github.com/flagrow/upload) - An extension that handles file uploads intelligently for your forum.
 * [Post Copyright](https://github.com/WiseClock/flarum-ext-post-copyright) - Enables copyright settings on posts.
 * [ReFlar Gamification](https://gitlab.com/ReDevelopers/ReFlar/gamification) - Upvotes and downvotes for your Flarum community.
-* [ReFlar Reactions](https://gitlab.com/ReDevelopers/ReFlar/reactions) - A Flarum extension that adds reactions to your Flarum Community.
-* [Reply2See](https://github.com/WiseClock/flarum-ext-reply2see) - Adds a reply to see BBCODE.
+* [ReFlar Reactions](https://gitlab.com/ReDevelopers/ReFlar/reactions) - A Flarum extension that adds reactions to your Flarum community.
+* [Reply2See](https://github.com/WiseClock/flarum-ext-reply2see) - Adds a reply to see BBCode.
 * [Split](https://github.com/dav-is/flarum-ext-split) - Split a forum discussion into single discussions.
 * [Markdown Editor](https://github.com/ganuonglachanh/flarum-ext-markdown-editor) by [Ganuonglachanh](https://github.com/ganuonglachanh) - Simple toolbar buttons for easier editing of markdown in Flarum.
-* [Markdown Editor](https://github.com/XEngine/flarum-ext-markdown-editor) by [XEngine](https://github.com/XEngine) - A simple Markdown Editor for Flarum.
+* [Markdown Editor](https://github.com/XEngine/flarum-ext-markdown-editor) by [XEngine](https://github.com/XEngine) - A simple Markdown editor for Flarum.
 * [Quill Editor](https://github.com/esledov/flarum-ext-quill) - Quill WYSIWYG editor for Flarum.
 
 
 #### Admin Area
-* [Analytics](https://github.com/flagrow/flarum-ext-analytics) - A Flarum extension that provides your forum piwik's and google's analytics features.
-* [Dashboard](https://github.com/datitisev/flarum-ext-admindashboard) - This completely re-imagines the Admin interface.
-* [Event Tracking](https://github.com/SurfEdge/flarum-ext-event-tracking) - A Flarum Extension to Track Events for Google Analytics.
+* [Analytics](https://github.com/flagrow/flarum-ext-analytics) - A Flarum extension that provides your forum Piwik and Google Analytics features.
+* [Dashboard](https://github.com/datitisev/flarum-ext-admindashboard) - This completely re-imagines the admin interface.
+* [Event Tracking](https://github.com/SurfEdge/flarum-ext-event-tracking) - A Flarum Extension to track events for Google Analytics.
 * [Filter](https://github.com/CDK2020/flarum-ext-filter) - A Flarum extension that filters and flags posts by keywords.
 * [Flagrow Bazaar](https://github.com/flagrow/bazaar) - The marketplace extension that allows you to add and remove extensions without composer or a terminal.
 * [Flagrow Users List](https://github.com/flagrow/users-list) - A Flarum extension that adds users list to admin panel.
 * [Money](https://github.com/AntoineFr/flarum-ext-money) - Give money to your users for different actions.
-* [Notify](https://github.com/manelizzard/flarum-notify) - Get notified about forum activity in Slack, Hipchat, Gitter or Telegram.
+* [Notify](https://github.com/manelizzard/flarum-notify) - Get notified about forum activity in Slack, HipChat, Gitter or Telegram.
 * [ReFlar User Management](https://gitlab.com/ReDevelopers/ReFlar/user-management) - Manage every aspect of your users, with style.
 * [Secure HTTPS](https://github.com/dav-is/flarum-ext-securehttps) - Changes all images using http to https.
 * [Url Transliterator](https://github.com/Avatar4eg/flarum-ext-transliterator) - Transliterator for urls.
@@ -87,10 +87,10 @@
 
 #### Social Media
 * [Social Profile](https://github.com/dav-is/flarum-ext-socialprofile) - Allows addition of social media pages to your profile.
-* [Flarum Sharing](https://github.com/radixi0/flarum-ext-sharing) - A Flarum extension that adds share (to some popular social networks) buttons and <head> meta tags (Open Graph and Twitter Card) to make links to your forum look better.
+* [Flarum Sharing](https://github.com/radixi0/flarum-ext-sharing) - A Flarum extension that adds share (to some popular social networks) buttons and <head> meta tags (Open Graph and Twitter card) to make links to your forum look better.
 
 #### Theme Enhancements
-* [Devellogs black style](https://github.com/brarear/flarum-theme-devellogs) - devellogs.com Flarum Theme.
+* [Devellogs Black Style](https://github.com/brarear/flarum-theme-devellogs) - devellogs.com Flarum theme.
 * [Flarloader](https://github.com/EnDylan/Flarloader) - A loading bar for Flarum.
 * [Landing Page](https://discuss.flarum.org/d/4656) - Customizable landing page for non-logged in users.
 * [Pyhton Flarum Theme](https://github.com/flarumthemes/themes/tree/master/python)
@@ -98,7 +98,7 @@
 
 
 #### Others
-* [Email verification switch](https://github.com/isaced/flarum-ext-email-verification-switch) - Disable new registered user email verification, will be activated automatically.
+* [Email Verification Switch](https://github.com/isaced/flarum-ext-email-verification-switch) - Disable new registered user email verification, will be activated automatically.
 * [Faraday Motion Notifications](https://github.com/faraday-motion/flarum-faraday-motion-notifications) - Simple Flarum Extension that will automatically enable email notifications for the new registered users.
 * [Flagrow Ads](https://github.com/flagrow/ads) - Allows you to configure ads in several locations.
 * [Flagrow Byōbu](https://github.com/flagrow/byobu) - Well integrated, advanced private discussions.
@@ -107,14 +107,14 @@
 * [Flagrow Masquerade](https://github.com/flagrow/masquerade) - User profile builder extension for your Flarum forum.
 * [Flagrow Serve](https://github.com/flagrow/serve) - Add the serve command to Flarum. This will allow you to start Flarum into the PHP development server via a simple command.
 * [Flagrow Subscribed](https://github.com/flagrow/subscribed) - Better user subscriptions for your Flarum forum.
-* [Gravatar](https://github.com/0E800/flarum-gravatar) - Display gravatar if no avatar was uploaded by user.
+* [Gravatar](https://github.com/0E800/flarum-gravatar) - Display Gravatar if no avatar was uploaded by user.
 * [Links](https://github.com/sijad/flarum-ext-links) - Manage Flarum primary navigation links.
 * [Pages](https://github.com/sijad/flarum-ext-pages) - Create custom pages with Flarum.
 * [Profile Image Crop](https://github.com/WiseClock/flarum-ext-profile-image-crop) - Adds the ability to crop when user uploads display picture.
 * [Search](https://github.com/ganuonglachanh/flarum-ganuonglachanh-search) - Allows to search by discusstion title.
 * [Summaries](https://github.com/jordanjay29/flarum-ext-summaries) - Show summaries on all discussions.
 * [2016] [OneSignal](https://github.com/Zurtr/flarum-ext-onesignal) - Adds Web Push notification feature to flarum.
-* [2016] [Sitemap](https://github.com/terabin/flarum-ext-sitemap) - Generate a Sitemap for Flarum automatically.
+* [2016] [Sitemap](https://github.com/terabin/flarum-ext-sitemap) - Generate a sitemap for Flarum automatically.
 
 
 
@@ -125,7 +125,7 @@
 * [Flarum Flockport Container](https://www.flockport.com/apps/flarum/) - Flockport is an App store for server apps like Flarum and the goal is to make it easy for end users to use these apps, without the need to install and configure php, mysql, nginx etc.
 * [Flarum on Docker](https://github.com/mondediefr/docker-flarum) by [Mondediefr](https://github.com/mondediefr)
 * [Flarum on Docker](https://github.com/wiwatsrt/flarum-docker) by [Wiwatsrt](https://github.com/wiwatsrt)
-* [Flarum package for YunoHost](https://github.com/YunoHost-Apps/flarum_ynh) - Flarum, an open-source forum software, packaged for YunoHost, a self-hosting server operating server.
+* [Flarum Package for YunoHost](https://github.com/YunoHost-Apps/flarum_ynh) - Flarum, an open-source forum software, packaged for YunoHost, a self-hosting server operating server.
 * [Pockethold](https://discuss.flarum.org/d/5731) - Pockethold is above all, a tool for installing Flarum without shell access.
 * [Toolbelt](https://github.com/flagrow/toolbelt) - Toolbelt is a package meant for extension developers. It offers re-usable components and helper classes for both the back- and frontend of Flarum extensions.
 
@@ -134,16 +134,16 @@
 * [Flarum Management](https://discuss.flarum.org/d/5158) - Manage flarum installs.
 * [Flarum Userscript EasyOnTheEyes](https://github.com/moutonnoireu/flarum-userscript-eote) - Flarum is great but at night, your eyes might suffer from all this whitey colors. Here comes this userscript.
 * [Migration] [FluxBB to Flarum](https://github.com/mondediefr/fluxbb_to_flarum) - FluxBB to Flarum importer
-* [Migration] [MyBB to Flarum](https://github.com/MichaelBelgium/mybb_to_flarum) - A php migration script to convert a mybb forum to a fresh flarum install
-* [Migration] [NodeBB to Flarum](https://github.com/DeltaEvo/nodebb-plugin-import-flarum) - A Flarum to NodeBB exporter based on nodebb-plugin-import-ubb by Aziz Khoury
+* [Migration] [MyBB to Flarum](https://github.com/MichaelBelgium/mybb_to_flarum) - A php migration script to convert a MyBB forum to a fresh Flarum install
+* [Migration] [NodeBB to Flarum](https://github.com/DeltaEvo/nodebb-plugin-import-flarum) - A Flarum to NodeBB exporter
 * [Migration] [phpBB to Flarum](https://github.com/robrotheram/phpbb_to_flarum)
 * [Migration] [SMF2 to Flarum](https://github.com/ItalianSpaceAstronauticsAssociation/smf2_to_flarum) - SMF2 to Flarum DB importer
 
 
 #### Mobile App
 * [Flario](https://github.com/michaldev/flarumapp) - Android client for Flarum
-* [Flarum Community](https://github.com/SurfEdge/flarum-mobile-android) - A WebView based Android application which will embed your flarum forum inside an application.
-* [Flarum Mobile iOS](https://github.com/SurfEdge/flarum-mobile-ios) - A WebView based iOS mobile application which will embed your flarum forum inside an application.
+* [Flarum Community](https://github.com/SurfEdge/flarum-mobile-android) - A WebView based Android application which will embed your Flarum forum inside an application.
+* [Flarum Mobile iOS](https://github.com/SurfEdge/flarum-mobile-ios) - A WebView based iOS mobile application which will embed your Flarum forum inside an application.
 
 
 #### Tutorials
