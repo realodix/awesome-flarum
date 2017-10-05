@@ -6,14 +6,14 @@
 ## Extensions
 
 #### Languages
-* [Chinese](https://github.com/Csineneo/flarum-ext-simplified-chinese) (Simplified) by [Csineneo](https://github.com/Csineneo)
-* [Chinese](https://github.com/Flarum-Chinese/flarum-ext-simplified-chinese) (Simplified) by [Flarum-Chinese](https://github.com/Flarum-Chinese)
-* [Chinese](https://github.com/Flarum-Chinese/flarum-ext-simplified-chinese) (Traditional)
+* [Chinese](https://github.com/Csineneo/flarum-ext-simplified-chinese) (simplified) by [Csineneo](https://github.com/Csineneo)
+* [Chinese](https://github.com/Flarum-Chinese/flarum-ext-simplified-chinese) (simplified) by [Flarum-Chinese](https://github.com/Flarum-Chinese)
+* [Chinese](https://github.com/Flarum-Chinese/flarum-ext-simplified-chinese) (traditional)
 * [Dutch](https://github.com/rodymolenaar/flarum-ext-dutch)
 * [French](https://github.com/milescellar/flarum-ext-french)
 * [German](https://github.com/Kakifrucht/flarum-de)
-* [Hebrew](https://github.com/icecore2/Flarum-hebrew) by [icecore2](https://github.com/icecore2)
-* [Hebrew](https://github.com/itayganor/flabrew) by [itayganor](https://github.com/itayganor)
+* [Hebrew](https://github.com/icecore2/Flarum-hebrew) by [Icecore2](https://github.com/icecore2)
+* [Hebrew](https://github.com/itayganor/flabrew) by [Itayganor](https://github.com/itayganor)
 * [Indonesian](https://github.com/realodix/flarum-ext-indonesian)
 * [Italian](https://github.com/Nearata/flarum-ext-italian)
 * [Japanese](https://github.com/Felli/flarum-ext-japanese) by [Felli](https://github.com/Felli)
@@ -50,7 +50,7 @@
 #### Posting
 * [BBCode Alerts](https://github.com/0E800/flarum-ext-bbcode-alerts) - Add visual alerts / warnings to Flarum posts.
 * [BBCode Cards](https://github.com/0E800/flarum-ext-bbcode-cards) - Embed cards and articles inside Flarum post.
-* [BBCode FA](https://github.com/AntoineFr/flarum-ext-bbcode-fa) - Insert FontAwesome icons in your posts.
+* [BBCode FA](https://github.com/AntoineFr/flarum-ext-bbcode-fa) - Insert Font Awesome icons in your posts.
 * [BBCode Pastebin](https://github.com/0E800/flarum-ext-bbcode-pastebin) - Embed pastebin inside Flarum post.
 * [BBCode Progress Bars](https://github.com/0E800/flarum-ext-bbcode-bars) - Embed progress bars inside Flarum post.
 * [BBCode Special](https://github.com/0E800/flarum-ext-bbcode-special) - Add special BBCode text effects / objects to Flarum
@@ -68,6 +68,12 @@
 * [Markdown Editor](https://github.com/ganuonglachanh/flarum-ext-markdown-editor) by [Ganuonglachanh](https://github.com/ganuonglachanh) - Simple toolbar buttons for easier editing of markdown in Flarum.
 * [Markdown Editor](https://github.com/XEngine/flarum-ext-markdown-editor) by [XEngine](https://github.com/XEngine) - A simple Markdown editor for Flarum.
 * [Quill Editor](https://github.com/esledov/flarum-ext-quill) - Quill WYSIWYG editor for Flarum.
+* [2016] [AutoImage](https://github.com/s9e/flarum-ext-autoimage) - Automatically turn image links into images.
+* [2016] [AutoVideo](https://github.com/s9e/flarum-ext-autovideo) - Automatically turn video links into playable videos.
+* [2016] [Github Autolink](https://github.com/sijad/flarum-ext-github-autolink) - Convert references to Github issues and commits automatically into links.
+* [2016] [LaTeX](https://github.com/flagrow/flarum-ext-latex) - With flagrow-ext-latex you can render LaTeX mathematical expressions inside your forum just by typing them, in the same way you would do your TeX document.
+* [2016] [OpenGraph](https://github.com/ItalianSpaceAstronauticsAssociation/flarum-isaa-opengraph) - A Flarum extension for embedding opengraph content.
+* [2016] [Signature](https://github.com/XEngine/flarum-ext-signature) - Signature for Flarum.
 
 
 #### Admin Area
@@ -87,8 +93,7 @@
 
 #### Social Media
 * [Social Profile](https://github.com/dav-is/flarum-ext-socialprofile) - Allows addition of social media pages to your profile.
-* [Flarum Sharing](https://github.com/radixi0/flarum-ext-sharing) - A Flarum extension that adds share (to some popular social networks) buttons and <head> meta tags (Open Graph and Twitter card) to make links to your forum look better.
-
+* [Flarum Sharing](https://github.com/radixi0/flarum-ext-sharing) - A Flarum extension that adds share (to some popular social networks) buttons and ``<head>`` meta tags (Open Graph and Twitter card) to make links to your forum look better.
 #### Theme Enhancements
 * [Devellogs Black Style](https://github.com/brarear/flarum-theme-devellogs) - devellogs.com Flarum theme.
 * [Flarloader](https://github.com/EnDylan/Flarloader) - A loading bar for Flarum.
@@ -99,7 +104,7 @@
 
 #### Others
 * [Email Verification Switch](https://github.com/isaced/flarum-ext-email-verification-switch) - Disable new registered user email verification, will be activated automatically.
-* [Faraday Motion Notifications](https://github.com/faraday-motion/flarum-faraday-motion-notifications) - Simple Flarum Extension that will automatically enable email notifications for the new registered users.
+* [Faraday Motion Notifications](https://github.com/faraday-motion/flarum-faraday-motion-notifications) - Simple Flarum extension that will automatically enable email notifications for the new registered users.
 * [Flagrow Ads](https://github.com/flagrow/ads) - Allows you to configure ads in several locations.
 * [Flagrow Byōbu](https://github.com/flagrow/byobu) - Well integrated, advanced private discussions.
 * [Flagrow Console](https://github.com/flagrow/console) - Register custom commands into Flarum.
@@ -107,13 +112,14 @@
 * [Flagrow Masquerade](https://github.com/flagrow/masquerade) - User profile builder extension for your Flarum forum.
 * [Flagrow Serve](https://github.com/flagrow/serve) - Add the serve command to Flarum. This will allow you to start Flarum into the PHP development server via a simple command.
 * [Flagrow Subscribed](https://github.com/flagrow/subscribed) - Better user subscriptions for your Flarum forum.
+* [Flagrow User Directory](https://github.com/flagrow/user-directory) - An extension that generates a new url /users that provides a list of users, with the ability to sort. You can search through the users from the global search input field, a new item shows up "Search all users for ..".
 * [Gravatar](https://github.com/0E800/flarum-gravatar) - Display Gravatar if no avatar was uploaded by user.
 * [Links](https://github.com/sijad/flarum-ext-links) - Manage Flarum primary navigation links.
 * [Pages](https://github.com/sijad/flarum-ext-pages) - Create custom pages with Flarum.
 * [Profile Image Crop](https://github.com/WiseClock/flarum-ext-profile-image-crop) - Adds the ability to crop when user uploads display picture.
 * [Search](https://github.com/ganuonglachanh/flarum-ganuonglachanh-search) - Allows to search by discusstion title.
 * [Summaries](https://github.com/jordanjay29/flarum-ext-summaries) - Show summaries on all discussions.
-* [2016] [OneSignal](https://github.com/Zurtr/flarum-ext-onesignal) - Adds Web Push notification feature to flarum.
+* [2016] [OneSignal](https://github.com/Zurtr/flarum-ext-onesignal) - Adds web push notification feature to Flarum.
 * [2016] [Sitemap](https://github.com/terabin/flarum-ext-sitemap) - Generate a sitemap for Flarum automatically.
 
 
@@ -131,7 +137,7 @@
 
 #### Utilities
 * [Convert your beta 7 compatible extension to work on beta 8](https://discuss.flarum.org/d/6573)
-* [Flarum Management](https://discuss.flarum.org/d/5158) - Manage flarum installs.
+* [Flarum Management](https://discuss.flarum.org/d/5158) - Manage Flarum installs.
 * [Flarum Userscript EasyOnTheEyes](https://github.com/moutonnoireu/flarum-userscript-eote) - Flarum is great but at night, your eyes might suffer from all this whitey colors. Here comes this userscript.
 * [Migration] [FluxBB to Flarum](https://github.com/mondediefr/fluxbb_to_flarum) - FluxBB to Flarum importer
 * [Migration] [MyBB to Flarum](https://github.com/MichaelBelgium/mybb_to_flarum) - A php migration script to convert a MyBB forum to a fresh Flarum install
@@ -149,12 +155,14 @@
 #### Tutorials
 * [Coaster CMS + Flarum](https://discuss.flarum.org/d/6299) - Have a blog/cms platform with Flarum integration. If possible, have Flarum use Coaster CMS authentication and/or have Coaster CMS use Flarum authentication.
 * [Configuration of vhost in Caddy Server](https://discuss.flarum.org/d/5107)
+* [CPanel Flarum SSH Install Steps](https://discuss.flarum.org/d/1342)
 * [Extension development tips](https://discuss.flarum.org/d/5512)
 * [Extension development using composer repositories path](https://discuss.flarum.org/d/1608)
 * [Flarum installation guide for dummies](https://discuss.flarum.org/d/1951)
 * [Force http or https using JS](https://discuss.flarum.org/d/4828)
-* [How I implemented "Cross Authentication" with Flarum](https://discuss.flarum.org/d/2808)
+* [How I implemented "cross authentication" with Flarum](https://discuss.flarum.org/d/2808)
 * [How to install Flarum community software](https://www.youtube.com/watch?v=kiVm2-W601s)
+* [How to install Flarum forum on 000webhost](https://www.000webhost.com/forum/t/how-to-install-flarum-forum-on-000webhost/85156)
 * [How to install Flarum forum on Microsoft Azure](https://thesarfaraz.com/d/7)
 * [How to install Flarum in Vultr](https://discuss.flarum.org/d/6854)
 * [How to install Flarum on CloudWays](https://www.cloudways.com/blog/install-flarum-forum-on-cloud-hosting/)
@@ -164,7 +172,7 @@
 * [How to migrate an OAuth account to regular account](https://discuss.flarum.org/d/5744)
 * [How to migrate Flarum to another server](https://discuss.flarum.org/d/2753)
 * [How to pass PHP variables to the admin front-end easily](https://discuss.flarum.org/d/2885)
-* [How to use the latest font-awesome icons](https://discuss.flarum.org/d/5902)
+* [How to use the latest Font Awesome icons](https://discuss.flarum.org/d/5902)
 * [Installing Flarum on GoDaddy](https://discuss.flarum.org/d/1548)
 * [Integrating Laravel and Flarum](https://medium.com/@woganmay/integrating-laravel-and-flarum-fb973f2629b5)
 * [Nginx] [Flarum + Cloudflare full SSL](https://discuss.flarum.org/d/6046) - Enable full SSL in CloudFlare
