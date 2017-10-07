@@ -82,6 +82,8 @@
 * [Event Tracking](https://github.com/SurfEdge/flarum-ext-event-tracking) - A Flarum Extension to track events for Google Analytics.
 * [Filter](https://github.com/CDK2020/flarum-ext-filter) - A Flarum extension that filters and flags posts by keywords.
 * [Flagrow Bazaar](https://github.com/flagrow/bazaar) - The marketplace extension that allows you to add and remove extensions without composer or a terminal.
+* [Flagrow Linguist](https://github.com/flagrow/linguist) - Customize translations with ease.
+* [Flagrow Mason](https://github.com/flagrow/mason) - The discussion custom fields builder.
 * [Flagrow Users List](https://github.com/flagrow/users-list) - A Flarum extension that adds users list to admin panel.
 * [Money](https://github.com/AntoineFr/flarum-ext-money) - Give money to your users for different actions.
 * [Notify](https://github.com/manelizzard/flarum-notify) - Get notified about forum activity in Slack, HipChat, Gitter or Telegram.
