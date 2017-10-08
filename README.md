@@ -96,7 +96,10 @@
 #### Social Media
 * [Social Profile](https://github.com/dav-is/flarum-ext-socialprofile) - Allows addition of social media pages to your profile.
 * [Flarum Sharing](https://github.com/radixi0/flarum-ext-sharing) - A Flarum extension that adds share (to some popular social networks) buttons and ``<head>`` meta tags (Open Graph and Twitter card) to make links to your forum look better.
+
+
 #### Theme Enhancements
+* [Color Circles](https://github.com/clarkwinkelmann/flarum-ext-circle-groups) - Add a color circle around avatars based on user group.
 * [Devellogs Black Style](https://github.com/brarear/flarum-theme-devellogs) - devellogs.com Flarum theme.
 * [Flarloader](https://github.com/EnDylan/Flarloader) - A loading bar for Flarum.
 * [Landing Page](https://discuss.flarum.org/d/4656) - Customizable landing page for non-logged in users.
@@ -136,6 +139,7 @@
 * [Flarum Package for YunoHost](https://github.com/YunoHost-Apps/flarum_ynh) - Flarum, an open-source forum software, packaged for YunoHost, a self-hosting server operating server.
 * [Pockethold](https://discuss.flarum.org/d/5731) - Pockethold is above all, a tool for installing Flarum without shell access.
 * [Toolbelt](https://github.com/flagrow/toolbelt) - Toolbelt is a package meant for extension developers. It offers re-usable components and helper classes for both the back- and frontend of Flarum extensions.
+
 
 #### Utilities
 * [Convert your beta 7 compatible extension to work on beta 8](https://discuss.flarum.org/d/6573)
