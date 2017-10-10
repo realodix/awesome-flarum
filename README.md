@@ -38,7 +38,7 @@
 * [Flagrow Passport](https://github.com/flagrow/passport) - The Laravel Passport compatible oauth extension for your Flarum forum.
 * [ReFlar GitLab Login](https://gitlab.com/ReDevelopers/ReFlar/oauth-gitlab) - Allows users to login using their GitLab account.
 * [Single Sign On](https://github.com/wuethrich44/flarum-ext-sso) - Single sign on for Flarum.
-* [SSOwat login](https://github.com/tituspijean/flarum-ext-auth-ssowat) - Allow users to log in through SSOwat.
+* [SSOwat login](https://github.com/tituspijean/flarum-ext-auth-ssowat) - Allow users to login through SSOwat.
 * [Steam Login](https://github.com/sijad/flarum-ext-auth-steam) - Allow user to login to Flarum with their Steam account.
 * [Two Factor](https://github.com/CDK2020/flarum-ext-twofactor) - A Flarum extension that increases security by adding TOTP two factor authentication.
 * [Wordpress Login](https://github.com/krombox/flarum-ext-auth-wordpress) - Allow users to login with your WordPress site.
@@ -67,7 +67,7 @@
 * [Split](https://github.com/dav-is/flarum-ext-split) - Split a forum discussion into single discussions.
 * [Markdown Editor](https://github.com/ganuonglachanh/flarum-ext-markdown-editor) by [Ganuonglachanh](https://github.com/ganuonglachanh) - Simple toolbar buttons for easier editing of markdown in Flarum.
 * [Markdown Editor](https://github.com/XEngine/flarum-ext-markdown-editor) by [XEngine](https://github.com/XEngine) - A simple Markdown editor for Flarum.
-* [Quill Editor](https://github.com/esledov/flarum-ext-quill) - Quill WYSIWYG editor for Flarum.
+* [Quill Editor](https://github.com/esledov/flarum-ext-quill) - Quill WYSIWYG (what you see is what you get) editor for Flarum.
 * [2016] [AutoImage](https://github.com/s9e/flarum-ext-autoimage) - Automatically turn image links into images.
 * [2016] [AutoVideo](https://github.com/s9e/flarum-ext-autovideo) - Automatically turn video links into playable videos.
 * [2016] [Github Autolink](https://github.com/sijad/flarum-ext-github-autolink) - Convert references to Github issues and commits automatically into links.
@@ -79,7 +79,7 @@
 #### Admin Area
 * [Analytics](https://github.com/flagrow/flarum-ext-analytics) - A Flarum extension that provides your forum Piwik and Google Analytics features.
 * [Dashboard](https://github.com/datitisev/flarum-ext-admindashboard) - This completely re-imagines the admin interface.
-* [Event Tracking](https://github.com/SurfEdge/flarum-ext-event-tracking) - A Flarum Extension to track events for Google Analytics.
+* [Event Tracking](https://github.com/SurfEdge/flarum-ext-event-tracking) - A Flarum extension to track events for Google Analytics.
 * [Filter](https://github.com/CDK2020/flarum-ext-filter) - A Flarum extension that filters and flags posts by keywords.
 * [Flagrow Bazaar](https://github.com/flagrow/bazaar) - The marketplace extension that allows you to add and remove extensions without composer or a terminal.
 * [Flagrow Linguist](https://github.com/flagrow/linguist) - Customize translations with ease.
