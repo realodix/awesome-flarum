@@ -147,8 +147,7 @@
 * [Flarum Userscript EasyOnTheEyes](https://github.com/moutonnoireu/flarum-userscript-eote) - Flarum is great but at night, your eyes might suffer from all this whitey colors. Here comes this userscript.
 * [Migration] [FluxBB to Flarum](https://github.com/mondediefr/fluxbb_to_flarum) - FluxBB to Flarum importer
 * [Migration] [MyBB to Flarum](https://github.com/MichaelBelgium/mybb_to_flarum) - A php migration script to convert a MyBB forum to a fresh Flarum install
-* [Migration] [NodeBB to Flarum](https://github.com/DeltaEvo/nodebb-plugin-import-flarum) - A Flarum to NodeBB exporter
-* [Migration] [phpBB to Flarum](https://github.com/robrotheram/phpbb_to_flarum)
+* [Migration] [phpBB to Flarum](https://github.com/robrotheram/phpbb_to_flarum) - Migration Script from PHPBB to Flarum.
 * [Migration] [SMF2 to Flarum](https://github.com/ItalianSpaceAstronauticsAssociation/smf2_to_flarum) - SMF2 to Flarum DB importer
 
 
