@@ -32,6 +32,7 @@
 * [2016] [Malaysian](https://github.com/ahrasis/flarum-ext-malaysian)
 * [2016] [Norwegian Bokmål](https://github.com/pladask/flarum-ext-norwegian-bokmal)
 * [2016] [Norwegian Nynorsk](https://github.com/pladask/flarum-ext-norwegian-nynorsk)
+* [2016] [Persian](https://github.com/sijad/flarum-ext-persian)
 
 
 #### Authentication
