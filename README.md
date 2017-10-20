@@ -133,6 +133,7 @@
 ## Resources
 
 * **[Official Documentation](http://flarum.org/docs)**
+* **[Flarum API Documentation (PHP & JS)](https://discuss.flarum.org/d/4421)**
 * [Flarum API client](https://github.com/flagrow/flarum-api-client) - The API client for working with your Flarum forum.
 * [Flarum Flockport Container](https://www.flockport.com/apps/flarum/) - Flockport is an App store for server apps like Flarum and the goal is to make it easy for end users to use these apps, without the need to install and configure php, mysql, nginx etc.
 * [Flarum on Docker](https://github.com/mondediefr/docker-flarum) by [Mondediefr](https://github.com/mondediefr)
@@ -146,14 +147,14 @@
 * [Convert your beta 7 compatible extension to work on beta 8](https://discuss.flarum.org/d/6573)
 * [Flarum Management](https://discuss.flarum.org/d/5158) - Manage Flarum installs.
 * [Flarum Userscript EasyOnTheEyes](https://github.com/moutonnoireu/flarum-userscript-eote) - Flarum is great but at night, your eyes might suffer from all this whitey colors. Here comes this userscript.
-* [Migration] [FluxBB to Flarum](https://github.com/mondediefr/fluxbb_to_flarum) - FluxBB to Flarum importer
-* [Migration] [MyBB to Flarum](https://github.com/MichaelBelgium/mybb_to_flarum) - A php migration script to convert a MyBB forum to a fresh Flarum install
-* [Migration] [phpBB to Flarum](https://github.com/robrotheram/phpbb_to_flarum) - Migration Script from PHPBB to Flarum.
-* [Migration] [SMF2 to Flarum](https://github.com/ItalianSpaceAstronauticsAssociation/smf2_to_flarum) - SMF2 to Flarum DB importer
+* [Migration] [FluxBB to Flarum](https://github.com/mondediefr/fluxbb_to_flarum) - FluxBB to Flarum importer.
+* [Migration] [MyBB to Flarum](https://github.com/MichaelBelgium/mybb_to_flarum) - A php migration script to convert a MyBB forum to a fresh Flarum install.
+* [Migration] [phpBB to Flarum](https://github.com/robrotheram/phpbb_to_flarum) - Migration script from PHPBB to Flarum.
+* [Migration] [SMF2 to Flarum](https://github.com/ItalianSpaceAstronauticsAssociation/smf2_to_flarum) - SMF2 to Flarum DB importer.
 
 
 #### Mobile App
-* [Flario](https://github.com/michaldev/flarumapp) - Android client for Flarum
+* [Flario](https://github.com/michaldev/flarumapp) - Android client for Flarum.
 * [Flarum Community](https://github.com/SurfEdge/flarum-mobile-android) - A WebView based Android application which will embed your Flarum forum inside an application.
 * [Flarum Mobile iOS](https://github.com/SurfEdge/flarum-mobile-ios) - A WebView based iOS mobile application which will embed your Flarum forum inside an application.
 
