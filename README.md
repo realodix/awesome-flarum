@@ -6,47 +6,48 @@
 ## Extensions
 
 #### Languages
+* [Albania (sq)](https://github.com/tinaira/flarum-ext-albania)
+* [Arabic (ar)](https://github.com/hichem2h/flarum-ext-arabic)
 * [Chinese](https://github.com/Csineneo/flarum-ext-simplified-chinese) (simplified) by [Csineneo](https://github.com/Csineneo)
 * [Chinese](https://github.com/Flarum-Chinese/flarum-ext-simplified-chinese) (simplified) by [Flarum-Chinese](https://github.com/Flarum-Chinese)
 * [Chinese](https://github.com/Flarum-Chinese/flarum-ext-simplified-chinese) (traditional)
-* [Dutch](https://github.com/rodymolenaar/flarum-ext-dutch)
-* [French](https://github.com/milescellar/flarum-ext-french)
-* [German](https://github.com/Kakifrucht/flarum-de)
-* [Hebrew](https://github.com/icecore2/Flarum-hebrew) by [Icecore2](https://github.com/icecore2)
-* [Hebrew](https://github.com/itayganor/flabrew) by [Itayganor](https://github.com/itayganor)
-* [Indonesian](https://github.com/realodix/flarum-ext-indonesian)
+* [Dutch (nl)](https://github.com/rodymolenaar/flarum-ext-dutch)
+* [French (fr)](https://github.com/milescellar/flarum-ext-french)
+* [German (de)](https://github.com/Kakifrucht/flarum-de)
+* [Hebrew (he)](https://github.com/icecore2/Flarum-hebrew) by [Icecore2](https://github.com/icecore2)
+* [Hebrew (he)](https://github.com/itayganor/flabrew) by [Itayganor](https://github.com/itayganor)
+* [Indonesian (id)](https://github.com/realodix/flarum-ext-indonesian)
 * [Italian](https://github.com/Nearata/flarum-ext-italian)
 * [Japanese](https://github.com/Felli/flarum-ext-japanese) by [Felli](https://github.com/Felli)
 * [Japanese](https://github.com/naga0ka/flarum-ext-japanese) by [Naga0ka](https://github.com/naga0ka)
-* [Korean](https://github.com/Comocozy/flarum-ext-korean)
+* [Korean (kr)](https://github.com/Comocozy/flarum-ext-korean)
+* [Persian](https://github.com/sijad/flarum-ext-persian)
 * [Polish](https://github.com/Veriael/flarum-polish)
-* [Portuguese](https://github.com/lcbcruz/flarum-portuguese)
+* [Portuguese (pt-PT)](https://github.com/lcbcruz/flarum-portuguese)
 * [Romanian](https://github.com/bmalex88/flarum-ext-romanian)
 * [Russian](https://gitlab.com/metastore/flarum/language/russian/flarum-core)
-* [Spanish](https://github.com/FlarumES/Spanish)
-* [Swedish](https://github.com/heidarKadkhoda/flarum-ext-swedish)
-* [Thailand](https://github.com/brarear/flarum-ext-thai)
+* [Spanish (es)](https://github.com/FlarumES/Spanish)
+* [Swedish (sv)](https://github.com/heidarKadkhoda/flarum-ext-swedish)
 * [Turkish](https://github.com/enverarslan/flarum-ext-turkish) by [Enverarslan](https://github.com/enverarslan)
 * [Turkish](https://github.com/XEngine/flarum-ext-turkish) by [XEngine](https://github.com/XEngine)
 * [Ukrainian](https://github.com/eikoninaru/flarum-ext-ukrainian)
 * [2016] [Brazilian Portuguese (pt-BR)](https://github.com/iacchus/flarum-brazilian-portuguese)
 * [2016] [Malaysian](https://github.com/ahrasis/flarum-ext-malaysian)
-* [2016] [Norwegian Bokmål](https://github.com/pladask/flarum-ext-norwegian-bokmal)
-* [2016] [Norwegian Nynorsk](https://github.com/pladask/flarum-ext-norwegian-nynorsk)
-* [2016] [Persian](https://github.com/sijad/flarum-ext-persian)
+* [2016] [Norwegian Bokmål (nb)](https://github.com/pladask/flarum-ext-norwegian-bokmal)
+* [2016] [Norwegian Nynorsk (nn)](https://github.com/pladask/flarum-ext-norwegian-nynorsk)
 
 
 #### Authentication
 * [Flagrow Passport](https://github.com/flagrow/passport) - The Laravel Passport compatible oauth extension for your Flarum forum.
+* [Invite Only](https://github.com/dav-is/flarum-ext-inviteonly) - Allow registration only if invited.
 * [ReFlar GitLab Login](https://gitlab.com/ReDevelopers/ReFlar/oauth-gitlab) - Allows users to login using their GitLab account.
+* [ReFlar Two Factor](https://github.com/ReFlar/twofactor) - A Flarum extension that increases security by adding TOTP and Twillio two factor authentication.
 * [Single Sign On](https://github.com/wuethrich44/flarum-ext-sso) - Single sign on for Flarum.
 * [SSOwat login](https://github.com/tituspijean/flarum-ext-auth-ssowat) - Allow users to login through SSOwat.
 * [Steam Login](https://github.com/sijad/flarum-ext-auth-steam) - Allow user to login to Flarum with their Steam account.
-* [Two Factor](https://github.com/CDK2020/flarum-ext-twofactor) - A Flarum extension that increases security by adding TOTP two factor authentication.
 * [Wordpress Login](https://github.com/krombox/flarum-ext-auth-wordpress) - Allow users to login with your WordPress site.
 * [2016] [Discord Login](https://github.com/pnobbe/flarum-ext-oauth-discord) - Allow users to login using their Discord account.
 * [2016] [Google Login](https://github.com/johnhearfield/flarum-ext-oauth-google) - Allow users to login using their Google account.
-* [2016] [Invite Only](https://github.com/dav-is/flarum-ext-inviteonly) - Allow registration only if invited.
 
 
 #### Posting
@@ -91,6 +92,7 @@
 * [Flagrow Users List](https://github.com/flagrow/users-list) - A Flarum extension that adds users list to admin panel.
 * [Money](https://github.com/AntoineFr/flarum-ext-money) - Give money to your users for different actions.
 * [Notify](https://github.com/manelizzard/flarum-notify) - Get notified about forum activity in Slack, HipChat, Gitter or Telegram.
+* [ReFlar Pretty mai](https://github.com/reflar/pretty-mail) - A Flarum extension that allows you to make custom html templates for emails.
 * [ReFlar User Management](https://gitlab.com/ReDevelopers/ReFlar/user-management) - Manage every aspect of your users, with style.
 * [Secure HTTPS](https://github.com/dav-is/flarum-ext-securehttps) - Changes all images using http to https.
 * [Url Transliterator](https://github.com/Avatar4eg/flarum-ext-transliterator) - Transliterator for urls.
@@ -108,10 +110,11 @@
 * [Flarloader](https://github.com/EnDylan/Flarloader) - A loading bar for Flarum.
 * [Landing Page](https://discuss.flarum.org/d/4656) - Customizable landing page for non-logged in users.
 * [Pyhton Flarum Theme](https://github.com/flarumthemes/themes/tree/master/python)
+* [ReFlar Night mode](https://github.com/ReFlar/nightmode) - Turn your flarum forum to dark as user.
 * [Xiuno4](https://github.com/wfdaj/xiuno4-theme-flarum)
 
-
 #### Others
+* [Cookie Consent](https://github.com/PartialDev/partialdev-cookie-consent) - This extension adds a customizable Cookie Consent pop-up to your Flarum installation.
 * [Email Verification Switch](https://github.com/isaced/flarum-ext-email-verification-switch) - Disable new registered user email verification, will be activated automatically.
 * [Faraday Motion Notifications](https://github.com/faraday-motion/flarum-faraday-motion-notifications) - Simple Flarum extension that will automatically enable email notifications for the new registered users.
 * [Flagrow Byōbu](https://github.com/flagrow/byobu) - Well integrated, advanced private discussions.
@@ -123,14 +126,15 @@
 * [Flagrow User Directory](https://github.com/flagrow/user-directory) - An extension that generates a new url /users that provides a list of users, with the ability to sort. You can search through the users from the global search input field, a new item shows up "Search all users for ..".
 * [Gravatar](https://github.com/0E800/flarum-gravatar) - Display Gravatar if no avatar was uploaded by user.
 * [Links](https://github.com/sijad/flarum-ext-links) - Manage Flarum primary navigation links.
+* [Online](https://github.com/AntoineFr/flarum-ext-online) - Display online users on the left sidebar.
 * [Pages](https://github.com/sijad/flarum-ext-pages) - Create custom pages with Flarum.
 * [Profile Image Crop](https://github.com/WiseClock/flarum-ext-profile-image-crop) - Adds the ability to crop when user uploads display picture.
 * [Profile views](https://github.com/MichaelBelgium/flarum-profile-views) - This is an extension for the flarum forum software where you can enable and track how much times a profile has been viewed.
 * [Search](https://github.com/ganuonglachanh/flarum-ganuonglachanh-search) - Allows to search by discusstion title.
 * [SEO friendly slugs for Flarum](https://github.com/Zeokat/flarum-ext-seoslugs) - Use friendly URLs (aka transliteration) in slugs.
+* [Sitemap](https://github.com/FlarumChina/flarum-ext-sitemap-chinese) - Generate a Sitemap for Flarum automatically.
 * [Summaries](https://github.com/jordanjay29/flarum-ext-summaries) - Show summaries on all discussions.
-* [2016] [OneSignal](https://github.com/Zurtr/flarum-ext-onesignal) - Adds web push notification feature to Flarum.
-* [2016] [Sitemap](https://github.com/terabin/flarum-ext-sitemap) - Generate a sitemap for Flarum automatically.
+* [Web Push Notification](https://github.com/DogSports/flarum-ext-web-push-notification) - Adds Web Push notification feature to flarum with OneSignal service.
 
 
 
@@ -150,6 +154,7 @@
 
 #### Utilities
 * [Convert your beta 7 compatible extension to work on beta 8](https://discuss.flarum.org/d/6573)
+* [Create Flarum Extension by ReFlar](https://discuss.flarum.org/d/11333)
 * [Flarum Management](https://discuss.flarum.org/d/5158) - Manage Flarum installs.
 * [Flarum Userscript EasyOnTheEyes](https://github.com/moutonnoireu/flarum-userscript-eote) - Flarum is great but at night, your eyes might suffer from all this whitey colors. Here comes this userscript.
 * [Migration] [FluxBB to Flarum](https://github.com/mondediefr/fluxbb_to_flarum) - FluxBB to Flarum importer.
