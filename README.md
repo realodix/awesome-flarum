@@ -41,11 +41,12 @@
 * [Flagrow Passport](https://github.com/flagrow/passport) - The Laravel Passport compatible oauth extension for your Flarum forum.
 * [Invite Only](https://github.com/dav-is/flarum-ext-inviteonly) - Allow registration only if invited.
 * [ReFlar GitLab Login](https://gitlab.com/ReDevelopers/ReFlar/oauth-gitlab) - Allows users to login using their GitLab account.
-* [ReFlar Two Factor](https://github.com/ReFlar/twofactor) - A Flarum extension that increases security by adding TOTP and Twillio two factor authentication.
+* [ReFlar Two Factor](https://github.com/ReFlar/twofactor) - A Flarum extension that increases security by adding TOTP (Google Authenticator) and Twillio two factor authentication.
 * [Single Sign On](https://github.com/wuethrich44/flarum-ext-sso) - Single sign on for Flarum.
 * [SSOwat login](https://github.com/tituspijean/flarum-ext-auth-ssowat) - Allow users to login through SSOwat.
 * [Steam Login](https://github.com/sijad/flarum-ext-auth-steam) - Allow user to login to Flarum with their Steam account.
 * [Wordpress Login](https://github.com/krombox/flarum-ext-auth-wordpress) - Allow users to login with your WordPress site.
+* [Flagrow Telegram](https://github.com/flagrow/telegram) - This extension adds a "Log in with Telegram" button that uses the new Telegram Login widget and add an option to receive notifications via Telegram as well.
 * [2016] [Discord Login](https://github.com/pnobbe/flarum-ext-oauth-discord) - Allow users to login using their Discord account.
 * [2016] [Google Login](https://github.com/johnhearfield/flarum-ext-oauth-google) - Allow users to login using their Google account.
 
@@ -88,6 +89,7 @@
 * [Flagrow Ads](https://github.com/flagrow/ads) - Allows you to configure ads in several locations.
 * [Flagrow Bazaar](https://github.com/flagrow/bazaar) - The marketplace extension that allows you to add and remove extensions without composer or a terminal.
 * [Flagrow Linguist](https://github.com/flagrow/linguist) - Customize translations with ease.
+* [Flagrow Mail Drivers](https://github.com/flagrow/mail-drivers) - Send email via Mailgun, Mandrill or SES api.
 * [Flagrow Mason](https://github.com/flagrow/mason) - The discussion custom fields builder.
 * [Flagrow Users List](https://github.com/flagrow/users-list) - A Flarum extension that adds users list to admin panel.
 * [Money](https://github.com/AntoineFr/flarum-ext-money) - Give money to your users for different actions.
@@ -123,7 +125,9 @@
 * [Flagrow Masquerade](https://github.com/flagrow/masquerade) - User profile builder extension for your Flarum forum.
 * [Flagrow Serve](https://github.com/flagrow/serve) - Add the serve command to Flarum. This will allow you to start Flarum into the PHP development server via a simple command.
 * [Flagrow Subscribed](https://github.com/flagrow/subscribed) - Better user subscriptions for your Flarum forum.
+* [Flagrow Terms](https://github.com/flagrow/terms) - Ask your users to accept TOS and Privacy Policy.
 * [Flagrow User Directory](https://github.com/flagrow/user-directory) - An extension that generates a new url /users that provides a list of users, with the ability to sort. You can search through the users from the global search input field, a new item shows up "Search all users for ..".
+* [Frontpage](https://github.com/fixer112/flarum-frontpage) - Flarum extension to mark discussion as frontpage.
 * [Gravatar](https://github.com/0E800/flarum-gravatar) - Display Gravatar if no avatar was uploaded by user.
 * [Links](https://github.com/sijad/flarum-ext-links) - Manage Flarum primary navigation links.
 * [Online](https://github.com/AntoineFr/flarum-ext-online) - Display online users on the left sidebar.
@@ -154,7 +158,7 @@
 
 #### Utilities
 * [Convert your beta 7 compatible extension to work on beta 8](https://discuss.flarum.org/d/6573)
-* [Create Flarum Extension by ReFlar](https://discuss.flarum.org/d/11333)
+* [Flarum Extension Generator by ReFlar](https://github.com/ReFlar/extension-generator) - Create a Flarum extension from a boilerplate in minutes!
 * [Flarum Management](https://discuss.flarum.org/d/5158) - Manage Flarum installs.
 * [Flarum Userscript EasyOnTheEyes](https://github.com/moutonnoireu/flarum-userscript-eote) - Flarum is great but at night, your eyes might suffer from all this whitey colors. Here comes this userscript.
 * [Migration] [FluxBB to Flarum](https://github.com/mondediefr/fluxbb_to_flarum) - FluxBB to Flarum importer.
