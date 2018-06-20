@@ -88,7 +88,10 @@
 * [Event Tracking](https://github.com/SurfEdge/flarum-ext-event-tracking) - A Flarum extension to track events for Google Analytics.
 * [Filter](https://github.com/CDK2020/flarum-ext-filter) - A Flarum extension that filters and flags posts by keywords.
 * [Flagrow Ads](https://github.com/flagrow/ads) - Allows you to configure ads in several locations.
+* [Flagrow Affiliation Links](https://github.com/flagrow/affiliation-links) - Automatically turn links into custom affiliate or redirect links.
+* [Flagrow Amazon Affiliation](https://github.com/flagrow/amazon-affiliation) - Add your Amazon Affiliate tag to Amazon links.
 * [Flagrow Bazaar](https://github.com/flagrow/bazaar) - The marketplace extension that allows you to add and remove extensions without composer or a terminal.
+* [Flagrow Direct Links](https://github.com/flagrow/direct-links) - Adds direct links to various Flarum actions.
 * [Flagrow Linguist](https://github.com/flagrow/linguist) - Customize translations with ease.
 * [Flagrow Mail Drivers](https://github.com/flagrow/mail-drivers) - Send email via Mailgun, Mandrill or SES api.
 * [Flagrow Mason](https://github.com/flagrow/mason) - The discussion custom fields builder.
@@ -96,6 +99,7 @@
 * [Money](https://github.com/AntoineFr/flarum-ext-money) - Give money to your users for different actions.
 * [Notify](https://github.com/manelizzard/flarum-notify) - Get notified about forum activity in Slack, HipChat, Gitter or Telegram.
 * [ReFlar Pretty mai](https://github.com/reflar/pretty-mail) - A Flarum extension that allows you to make custom html templates for emails.
+* [ReFlar UnCache](https://github.com/ReFlar/UnCache) - Automatically clear the cache when you enable a new extension.
 * [ReFlar User Management](https://gitlab.com/ReDevelopers/ReFlar/user-management) - Manage every aspect of your users, with style.
 * [Secure HTTPS](https://github.com/dav-is/flarum-ext-securehttps) - Changes all images using http to https.
 * [Url Transliterator](https://github.com/Avatar4eg/flarum-ext-transliterator) - Transliterator for urls.
@@ -104,7 +108,8 @@
 
 #### Social Media
 * [Social Profile](https://github.com/dav-is/flarum-ext-socialprofile) - Allows addition of social media pages to your profile.
-* [Flarum Sharing](https://github.com/radixi0/flarum-ext-sharing) - A Flarum extension that adds share (to some popular social networks) buttons and ``<head>`` meta tags (Open Graph and Twitter card) to make links to your forum look better.
+* [Flarum Sharing](https://github.com/radixi0/flarum-ext-sharing) by [radixi0](https://github.com/radixi0) - A Flarum extension that adds share (to some popular social networks) buttons and ``<head>`` meta tags (Open Graph and Twitter card) to make links to your forum look better.
+* [Flarum Sharing](https://github.com/ganuonglachanh/flarum-ext-sharing) by [ganuonglachanh](https://github.com/ganuonglachanh) - A Flarum extension that adds share (to some popular social networks) buttons and ``<head>`` meta tags (Open Graph and Twitter card) to make links to your forum look better.
 
 
 #### Theme Enhancements
