@@ -37,18 +37,20 @@
 * [2016] [Norwegian Nynorsk (nn)](https://github.com/pladask/flarum-ext-norwegian-nynorsk)
 
 
-#### Authentication
+#### Auth
+* [Discord Login](https://github.com/pnobbe/flarum-ext-oauth-discord) - Allow users to login using their Discord account.
 * [Flagrow Passport](https://github.com/flagrow/passport) - The Laravel Passport compatible oauth extension for your Flarum forum.
+* [Flagrow Telegram](https://github.com/flagrow/telegram) - Telegram login and notifications for Flarum.
+* [Google Login](https://github.com/johnhearfield/flarum-ext-oauth-google) - Allow users to login using their Google account.
+* [Instagram Login](https://github.com/Extum/flarum-ext-auth-instagram) - Login using Instagram on your Flarum forum.
 * [Invite Only](https://github.com/dav-is/flarum-ext-inviteonly) - Allow registration only if invited.
 * [ReFlar GitLab Login](https://gitlab.com/ReDevelopers/ReFlar/oauth-gitlab) - Allows users to login using their GitLab account.
-* [ReFlar Two Factor](https://github.com/ReFlar/twofactor) - A Flarum extension that increases security by adding TOTP (Google Authenticator) and Twillio two factor authentication.
-* [Single Sign On](https://github.com/wuethrich44/flarum-ext-sso) - Single sign on for Flarum.
+* [ReFlar Two Factor](https://github.com/ReFlar/twofactor) - Increases security by adding TOTP and Twillio two factor authentication.
 * [SSOwat login](https://github.com/tituspijean/flarum-ext-auth-ssowat) - Allow users to login through SSOwat.
+* [Single Sign On](https://github.com/wuethrich44/flarum-ext-sso) - Single sign on for Flarum.
 * [Steam Login](https://github.com/sijad/flarum-ext-auth-steam) - Allow user to login to Flarum with their Steam account.
 * [Wordpress Login](https://github.com/krombox/flarum-ext-auth-wordpress) - Allow users to login with your WordPress site.
-* [Flagrow Telegram](https://github.com/flagrow/telegram) - This extension adds a "Log in with Telegram" button that uses the new Telegram Login widget and add an option to receive notifications via Telegram as well.
-* [2016] [Discord Login](https://github.com/pnobbe/flarum-ext-oauth-discord) - Allow users to login using their Discord account.
-* [2016] [Google Login](https://github.com/johnhearfield/flarum-ext-oauth-google) - Allow users to login using their Google account.
+* [Yahoo Login](https://github.com/Extum/flarum-ext-auth-yahoo) - Login to your forum using their Yahoo account.
 
 
 #### Posting
@@ -69,17 +71,18 @@
 * [Flagrow Upload](https://github.com/flagrow/upload) - An extension that handles file uploads intelligently for your forum.
 * [Geotags](https://github.com/avatar4eg/flarum-ext-geotags) - A Flarum extension that adds places for your posts (with editor button, list of places on each post and markdown string with name of place in text).
 * [Github Autolink](https://github.com/sijad/flarum-ext-github-autolink) - Convert references to Github issues and commits automatically into links.
+* [Markdown Editor](https://github.com/Extum/flarum-ext-markdown-editor) by [Extum](https://github.com/Extum) - A simple Markdown editor for Flarum.
 * [Markdown Editor](https://github.com/ganuonglachanh/flarum-ext-markdown-editor) by [Ganuonglachanh](https://github.com/ganuonglachanh) - Simple toolbar buttons for easier editing of markdown in Flarum.
-* [Markdown Editor](https://github.com/XEngine/flarum-ext-markdown-editor) by [XEngine](https://github.com/XEngine) - A simple Markdown editor for Flarum.
+* [Old Title](https://github.com/Extum/flarum-ext-old-title) - Show the old title too if you change a discussion title.
 * [Post Copyright](https://github.com/WiseClock/flarum-ext-post-copyright) - Enables copyright settings on posts.
 * [Quill Editor](https://github.com/esledov/flarum-ext-quill) - Quill WYSIWYG (what you see is what you get) editor for Flarum.
 * [ReFlar Gamification](https://gitlab.com/ReDevelopers/ReFlar/gamification) - Upvotes and downvotes for your Flarum community.
 * [ReFlar Reactions](https://gitlab.com/ReDevelopers/ReFlar/reactions) - A Flarum extension that adds reactions to your Flarum community.
 * [Reply2See](https://github.com/WiseClock/flarum-ext-reply2see) - Adds a reply to see BBCode.
+* [Signature](https://github.com/Extum/flarum-ext-signature) - Signature support to your Flarum forum.
 * [Split](https://github.com/dav-is/flarum-ext-split) - Split a forum discussion into single discussions.
 * [2016] [LaTeX](https://github.com/flagrow/flarum-ext-latex) - With flagrow-ext-latex you can render LaTeX mathematical expressions inside your forum just by typing them, in the same way you would do your TeX document.
 * [2016] [OpenGraph](https://github.com/ItalianSpaceAstronauticsAssociation/flarum-isaa-opengraph) - A Flarum extension for embedding opengraph content.
-* [2016] [Signature](https://github.com/XEngine/flarum-ext-signature) - Signature for Flarum.
 
 
 #### Admin Area
@@ -117,6 +120,7 @@
 * [Devellogs Black Style](https://github.com/brarear/flarum-theme-devellogs) - devellogs.com Flarum theme.
 * [Flarloader](https://github.com/EnDylan/Flarloader) - A loading bar for Flarum.
 * [Landing Page](https://discuss.flarum.org/d/4656) - Customizable landing page for non-logged in users.
+* [Material Design by Extum](https://github.com/Extum/flarum-ext-material) - Materialize your forum with this Flarum extension that uses the latest guidelines.
 * [Pyhton Flarum Theme](https://github.com/flarumthemes/themes/tree/master/python)
 * [ReFlar Night mode](https://github.com/ReFlar/nightmode) - Turn your flarum forum to dark as user.
 * [Xiuno4](https://github.com/wfdaj/xiuno4-theme-flarum)
@@ -145,13 +149,16 @@
 * [SEO friendly slugs for Flarum](https://github.com/Zeokat/flarum-ext-seoslugs) - Use friendly URLs (aka transliteration) in slugs.
 * [Sitemap](https://github.com/FlarumChina/flarum-ext-sitemap-chinese) - Generate a Sitemap for Flarum automatically.
 * [Summaries](https://github.com/jordanjay29/flarum-ext-summaries) - Show summaries on all discussions.
+* [Time Machine](https://github.com/Extum/flarum-ext-time-machine) - Modify the time of your posts, user registrations and more by travelling back in time.
+* [Topic Count](https://github.com/Extum/flarum-ext-topic-count) - Send webhooks to your Discord server from your Flarum forum.
+* [User Bio](https://github.com/Extum/flarum-ext-user-bio) - Add user bio.
 * [Web Push Notification](https://github.com/DogSports/flarum-ext-web-push-notification) - Adds Web Push notification feature to flarum with OneSignal service.
 
 
 
 ## Resources
 
-* **[Official Documentation](http://flarum.org/docs)**
+* **[Official Documentation](https://flarum.org/docs/)**
 * **[Flarum API Documentation (PHP & JS)](https://discuss.flarum.org/d/4421)**
 * **[Free Flarum hosting on an expert platform by FreeFlarum.com](https://www.freeflarum.com/)**
 * [Flarum API client](https://github.com/flagrow/flarum-api-client) - The API client for working with your Flarum forum.
@@ -226,6 +233,3 @@ Found an awesome Flarum extension and and resource? Send me a pull request!
 1. Please make an individual pull request for each suggestion
 2. Use the following format for links: \[NAME\]\(URL\) - Description
 3. New categories or improvements to the existing categorization are welcome
-
-## License
-Released under the MIT License. Please see the [LICENSE](https://github.com/realodix/flarum-extension-list/blob/master/LICENSE) file.
