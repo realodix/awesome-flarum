@@ -81,7 +81,6 @@
 * [Reply2See](https://github.com/WiseClock/flarum-ext-reply2see) - Adds a reply to see BBCode.
 * [Signature](https://github.com/Extum/flarum-ext-signature) - Signature support to your Flarum forum.
 * [Split](https://github.com/dav-is/flarum-ext-split) - Split a forum discussion into single discussions.
-* [2016] [LaTeX](https://github.com/flagrow/flarum-ext-latex) - With flagrow-ext-latex you can render LaTeX mathematical expressions inside your forum just by typing them, in the same way you would do your TeX document.
 * [2016] [OpenGraph](https://github.com/ItalianSpaceAstronauticsAssociation/flarum-isaa-opengraph) - A Flarum extension for embedding opengraph content.
 
 
