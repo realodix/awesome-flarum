@@ -11,26 +11,26 @@
 * [Chinese (zh)](https://github.com/Csineneo/flarum-ext-simplified-chinese) by [Csineneo](https://github.com/Csineneo)
 * [Chinese (zh)](https://github.com/Flarum-Chinese/flarum-ext-simplified-chinese) by [Flarum-Chinese](https://github.com/Flarum-Chinese)
 * [Chinese (zh)](https://github.com/FlarumChina/flarum-ext-simplified-chinese-pro) by [FlarumChina](https://github.com/FlarumChina)
-* [Dutch (nl)](https://github.com/rodymolenaar/flarum-ext-dutch)
 * [French (fr)](https://github.com/milescellar/flarum-ext-french)
 * [German (de)](https://github.com/Kakifrucht/flarum-de)
-* [Hebrew (he)](https://github.com/icecore2/Flarum-hebrew) by [Icecore2](https://github.com/icecore2)
-* [Hebrew (he)](https://github.com/itayganor/flabrew) by [Itayganor](https://github.com/itayganor)
 * [Indonesian (id)](https://github.com/realodix/flarum-ext-indonesian)
 * [Italian (it)](https://github.com/Nearata/flarum-ext-italian)
 * [Japanese (ja_jp)](https://github.com/Felli/flarum-ext-japanese) by [Felli](https://github.com/Felli)
 * [Japanese (ja)](https://github.com/naga0ka/flarum-ext-japanese) by [Naga0ka](https://github.com/naga0ka)
-* [Korean (kr)](https://github.com/Comocozy/flarum-ext-korean)
 * [Persian (fa)](https://github.com/sijad/flarum-ext-persian)
-* [Polish (pl)](https://github.com/Veriael/flarum-polish)
-* [Portuguese (pt-PT)](https://github.com/lcbcruz/flarum-portuguese)
-* [Romanian (ro)](https://github.com/bmalex88/flarum-ext-romanian)
 * [Russian (ru)](https://gitlab.com/metastore/flarum/language/russian/flarum-core)
 * [Spanish (es)](https://github.com/FlarumES/Spanish)
-* [Swedish (sv)](https://github.com/heidarKadkhoda/flarum-ext-swedish)
-* [Turkish (tr)](https://github.com/enverarslan/flarum-ext-turkish) by [Enverarslan](https://github.com/enverarslan)
-* [Turkish (tr)](https://github.com/XEngine/flarum-ext-turkish) by [XEngine](https://github.com/XEngine)
 * [Ukrainian (uk)](https://github.com/eikoninaru/flarum-ext-ukrainian)
+* [2017] [Dutch (nl)](https://github.com/rodymolenaar/flarum-ext-dutch)
+* [2017] [Hebrew (he)](https://github.com/icecore2/Flarum-hebrew) by [Icecore2](https://github.com/icecore2)
+* [2017] [Hebrew (he)](https://github.com/itayganor/flabrew) by [Itayganor](https://github.com/itayganor)
+* [2017] [Korean (kr)](https://github.com/Comocozy/flarum-ext-korean)
+* [2017] [Polish (pl)](https://github.com/priard/flarum-polish)
+* [2017] [Portuguese (pt-PT)](https://github.com/lcbcruz/flarum-portuguese)
+* [2017] [Romanian (ro)](https://github.com/bmalex88/flarum-ext-romanian)
+* [2017] [Swedish (sv)](https://github.com/heidarKadkhoda/flarum-ext-swedish)
+* [2017] [Turkish (tr)](https://github.com/enverarslan/flarum-ext-turkish) by [Enverarslan](https://github.com/enverarslan)
+* [2017] [Turkish (tr)](https://github.com/XEngine/flarum-ext-turkish) by [XEngine](https://github.com/XEngine)
 * [2016] [Brazilian Portuguese (pt-BR)](https://github.com/iacchus/flarum-brazilian-portuguese)
 * [2016] [Malaysian (my)](https://github.com/ahrasis/flarum-ext-malaysian)
 * [2016] [Norwegian Bokmål (nb)](https://github.com/pladask/flarum-ext-norwegian-bokmal)
@@ -44,7 +44,7 @@
 * [Google Login](https://github.com/johnhearfield/flarum-ext-oauth-google) - Allow users to login using their Google account.
 * [Instagram Login](https://github.com/Extum/flarum-ext-auth-instagram) - Login using Instagram on your Flarum forum.
 * [Invite Only](https://github.com/dav-is/flarum-ext-inviteonly) - Allow registration only if invited.
-* [ReFlar GitLab Login](https://gitlab.com/ReDevelopers/ReFlar/oauth-gitlab) - Allows users to login using their GitLab account.
+* [ReFlar GitLab Login](https://github.com/ReFlar/oauth-gitlab) - Allows users to login using their GitLab account.
 * [ReFlar Two Factor](https://github.com/ReFlar/twofactor) - Increases security by adding TOTP and Twillio two factor authentication.
 * [SSOwat login](https://github.com/tituspijean/flarum-ext-auth-ssowat) - Allow users to login through SSOwat.
 * [Single Sign On](https://github.com/wuethrich44/flarum-ext-sso) - Single sign on for Flarum.
@@ -55,40 +55,37 @@
 
 #### Posting
 * [Auto More](https://github.com/noriods/automore) - Automatically clicks the 'load more' button when it comes into view.
-* [AutoImage](https://github.com/s9e/flarum-ext-autoimage) - Automatically turn image links into images.
-* [AutoVideo](https://github.com/s9e/flarum-ext-autovideo) - Automatically turn video links into playable videos.
-* [BBCode Alerts](https://github.com/0E800/flarum-ext-bbcode-alerts) - Add visual alerts / warnings to Flarum posts.
-* [BBCode Cards](https://github.com/0E800/flarum-ext-bbcode-cards) - Embed cards and articles inside Flarum post.
-* [BBCode FA](https://github.com/AntoineFr/flarum-ext-bbcode-fa) - Insert Font Awesome icons in your posts.
-* [BBCode Pastebin](https://github.com/0E800/flarum-ext-bbcode-pastebin) - Embed pastebin inside Flarum post.
-* [BBCode Progress Bars](https://github.com/0E800/flarum-ext-bbcode-bars) - Embed progress bars inside Flarum post.
-* [BBCode Special](https://github.com/0E800/flarum-ext-bbcode-special) - Add special BBCode text effects / objects to Flarum
 * [Best Answer](https://github.com/wiwatsrt/flarum-ext-best-answer) - A Flarum extension for select post best answer.
-* [Comic Sans](https://github.com/clarkwinkelmann/flarum-ext-comicsans) - Turn text into Comic Sans for no reason.
 * [Discussion views](https://github.com/MichaelBelgium/flarum-discussion-views) - This is an extension for the flarum forum software where you can enable and track how much times a discussion has been viewed.
-* [Emoji Picker](https://github.com/clarkwinkelmann/flarum-ext-emojionearea) - Add EmojiOne Area emoji picker to Flarum.
 * [Flagrow Split](https://github.com/flagrow/split) - Separate posts from one discussion into its own, splits discussions.
 * [Flagrow Upload](https://github.com/flagrow/upload) - An extension that handles file uploads intelligently for your forum.
-* [Geotags](https://github.com/avatar4eg/flarum-ext-geotags) - A Flarum extension that adds places for your posts (with editor button, list of places on each post and markdown string with name of place in text).
 * [Github Autolink](https://github.com/sijad/flarum-ext-github-autolink) - Convert references to Github issues and commits automatically into links.
-* [Markdown Editor](https://github.com/Extum/flarum-ext-markdown-editor) by [Extum](https://github.com/Extum) - A simple Markdown editor for Flarum.
-* [Markdown Editor](https://github.com/ganuonglachanh/flarum-ext-markdown-editor) by [Ganuonglachanh](https://github.com/ganuonglachanh) - Simple toolbar buttons for easier editing of markdown in Flarum.
 * [Old Title](https://github.com/Extum/flarum-ext-old-title) - Show the old title too if you change a discussion title.
-* [Post Copyright](https://github.com/WiseClock/flarum-ext-post-copyright) - Enables copyright settings on posts.
-* [Quill Editor](https://github.com/esledov/flarum-ext-quill) - Quill WYSIWYG (what you see is what you get) editor for Flarum.
-* [ReFlar Gamification](https://gitlab.com/ReDevelopers/ReFlar/gamification) - Upvotes and downvotes for your Flarum community.
-* [ReFlar Reactions](https://gitlab.com/ReDevelopers/ReFlar/reactions) - A Flarum extension that adds reactions to your Flarum community.
+* [ReFlar Gamification](https://github.com/ReFlar/gamification) - Upvotes and downvotes for your Flarum community.
+* [ReFlar Reactions](https://github.com/ReFlar/reactions) - A Flarum extension that adds reactions to your Flarum community.
 * [Reply2See](https://github.com/WiseClock/flarum-ext-reply2see) - Adds a reply to see BBCode.
 * [Signature](https://github.com/Extum/flarum-ext-signature) - Signature support to your Flarum forum.
-* [Split](https://github.com/dav-is/flarum-ext-split) - Split a forum discussion into single discussions.
+* [2017] [AutoImage](https://github.com/s9e/flarum-ext-autoimage) - Automatically turn image links into images.
+* [2017] [AutoVideo](https://github.com/s9e/flarum-ext-autovideo) - Automatically turn video links into playable videos.
+* [2017] [BBCode Alerts](https://github.com/0E800/flarum-ext-bbcode-alerts) - Add visual alerts / warnings to Flarum posts.
+* [2017] [BBCode Cards](https://github.com/0E800/flarum-ext-bbcode-cards) - Embed cards and articles inside Flarum post.
+* [2017] [BBCode FA](https://github.com/AntoineFr/flarum-ext-bbcode-fa) - Insert Font Awesome icons in your posts.
+* [2017] [BBCode Pastebin](https://github.com/0E800/flarum-ext-bbcode-pastebin) - Embed pastebin inside Flarum post.
+* [2017] [BBCode Progress Bars](https://github.com/0E800/flarum-ext-bbcode-bars) - Embed progress bars inside Flarum post.
+* [2017] [BBCode Special](https://github.com/0E800/flarum-ext-bbcode-special) - Add special BBCode text effects / objects to Flarum
+* [2017] [Comic Sans](https://github.com/clarkwinkelmann/flarum-ext-comicsans) - Turn text into Comic Sans for no reason.
+* [2017] [Emoji Picker](https://github.com/clarkwinkelmann/flarum-ext-emojionearea) - Add EmojiOne Area emoji picker to Flarum.
+* [2017] [Geotags](https://github.com/avatar4eg/flarum-ext-geotags) - A Flarum extension that adds places for your posts (with editor button, list of places on each post and markdown string with name of place in text).
+* [2017] [Markdown Editor](https://github.com/ganuonglachanh/flarum-ext-markdown-editor) - Simple toolbar buttons for easier editing of markdown in Flarum.
+* [2017] [Post Copyright](https://github.com/WiseClock/flarum-ext-post-copyright) - Enables copyright settings on posts.
+* [2017] [Quill Editor](https://github.com/esledov/flarum-ext-quill) - Quill WYSIWYG (what you see is what you get) editor for Flarum.
+* [2017] [Split](https://github.com/dav-is/flarum-ext-split) - Split a forum discussion into single discussions.
 * [2016] [OpenGraph](https://github.com/ItalianSpaceAstronauticsAssociation/flarum-isaa-opengraph) - A Flarum extension for embedding opengraph content.
 
 
 #### Admin Area
 * [Analytics](https://github.com/flagrow/flarum-ext-analytics) - A Flarum extension that provides your forum Piwik and Google Analytics features.
 * [Dashboard](https://github.com/datitisev/flarum-ext-admindashboard) - This completely re-imagines the admin interface.
-* [Event Tracking](https://github.com/SurfEdge/flarum-ext-event-tracking) - A Flarum extension to track events for Google Analytics.
-* [Filter](https://github.com/CDK2020/flarum-ext-filter) - A Flarum extension that filters and flags posts by keywords.
 * [Flagrow Ads](https://github.com/flagrow/ads) - Allows you to configure ads in several locations.
 * [Flagrow Affiliation Links](https://github.com/flagrow/affiliation-links) - Automatically turn links into custom affiliate or redirect links.
 * [Flagrow Amazon Affiliation](https://github.com/flagrow/amazon-affiliation) - Add your Amazon Affiliate tag to Amazon links.
@@ -99,12 +96,13 @@
 * [Flagrow Mason](https://github.com/flagrow/mason) - The discussion custom fields builder.
 * [Flagrow Users List](https://github.com/flagrow/users-list) - A Flarum extension that adds users list to admin panel.
 * [Money](https://github.com/AntoineFr/flarum-ext-money) - Give money to your users for different actions.
-* [Notify](https://github.com/manelizzard/flarum-notify) - Get notified about forum activity in Slack, HipChat, Gitter or Telegram.
 * [ReFlar Pretty mai](https://github.com/reflar/pretty-mail) - A Flarum extension that allows you to make custom html templates for emails.
 * [ReFlar UnCache](https://github.com/ReFlar/UnCache) - Automatically clear the cache when you enable a new extension.
-* [ReFlar User Management](https://gitlab.com/ReDevelopers/ReFlar/user-management) - Manage every aspect of your users, with style.
 * [Secure HTTPS](https://github.com/dav-is/flarum-ext-securehttps) - Changes all images using http to https.
-* [Url Transliterator](https://github.com/Avatar4eg/flarum-ext-transliterator) - Transliterator for urls.
+* [2017] [Event Tracking](https://github.com/SurfEdge/flarum-ext-event-tracking) - A Flarum extension to track events for Google Analytics.
+* [2017] [Filter](https://github.com/CDK2020/flarum-ext-filter) - A Flarum extension that filters and flags posts by keywords.
+* [2017] [Notify](https://github.com/manelizzard/flarum-notify) - Get notified about forum activity in Slack, HipChat, Gitter or Telegram.
+* [2017] [Url Transliterator](https://github.com/Avatar4eg/flarum-ext-transliterator) - Transliterator for urls.
 * [2016] [Syndication](https://github.com/AmauryCarrade/flarum-ext-syndication) - Brings RSS and Atom feeds to Flarum.
 
 
@@ -116,18 +114,14 @@
 
 #### Theme Enhancements
 * [Color Circles](https://github.com/clarkwinkelmann/flarum-ext-circle-groups) - Add a color circle around avatars based on user group.
-* [Devellogs Black Style](https://github.com/brarear/flarum-theme-devellogs) - devellogs.com Flarum theme.
 * [Flarloader](https://github.com/EnDylan/Flarloader) - A loading bar for Flarum.
 * [Landing Page](https://discuss.flarum.org/d/4656) - Customizable landing page for non-logged in users.
 * [Material Design by Extum](https://github.com/Extum/flarum-ext-material) - Materialize your forum with this Flarum extension that uses the latest guidelines.
-* [Pyhton Flarum Theme](https://github.com/flarumthemes/themes/tree/master/python)
 * [ReFlar Night mode](https://github.com/ReFlar/nightmode) - Turn your flarum forum to dark as user.
 * [Xiuno4](https://github.com/wfdaj/xiuno4-theme-flarum)
 
 #### Others
 * [Cookie Consent](https://github.com/PartialDev/partialdev-cookie-consent) - This extension adds a customizable Cookie Consent pop-up to your Flarum installation.
-* [Email Verification Switch](https://github.com/isaced/flarum-ext-email-verification-switch) - Disable new registered user email verification, will be activated automatically.
-* [Faraday Motion Notifications](https://github.com/faraday-motion/flarum-faraday-motion-notifications) - Simple Flarum extension that will automatically enable email notifications for the new registered users.
 * [Flagrow Byōbu](https://github.com/flagrow/byobu) - Well integrated, advanced private discussions.
 * [Flagrow Console](https://github.com/flagrow/console) - Register custom commands into Flarum.
 * [Flagrow Fonts](https://github.com/flagrow/fonts) - Easily add fonts to your Flarum.
@@ -137,22 +131,22 @@
 * [Flagrow Terms](https://github.com/flagrow/terms) - Ask your users to accept TOS and Privacy Policy.
 * [Flagrow User Directory](https://github.com/flagrow/user-directory) - An extension that generates a new url /users that provides a list of users, with the ability to sort. You can search through the users from the global search input field, a new item shows up "Search all users for ..".
 * [Frontpage](https://github.com/fixer112/flarum-frontpage) - Flarum extension to mark discussion as frontpage.
-* [Gravatar](https://github.com/0E800/flarum-gravatar) - Display Gravatar if no avatar was uploaded by user.
 * [Links](https://github.com/sijad/flarum-ext-links) - Manage Flarum primary navigation links.
 * [Online](https://github.com/AntoineFr/flarum-ext-online) - Display online users on the left sidebar.
 * [Pages](https://github.com/sijad/flarum-ext-pages) - Create custom pages with Flarum.
-* [Profile Image Crop](https://github.com/WiseClock/flarum-ext-profile-image-crop) - Adds the ability to crop when user uploads display picture.
 * [Profile views](https://github.com/MichaelBelgium/flarum-profile-views) - This is an extension for the flarum forum software where you can enable and track how much times a profile has been viewed.
 * [ReFlar Koseki](https://github.com/ReFlar/koseki) - Tidy up your Flarum forum with a structured hierarchical layout.
 * [Search](https://github.com/ganuonglachanh/flarum-ganuonglachanh-search) - Allows to search by discusstion title.
 * [SEO friendly slugs for Flarum](https://github.com/Zeokat/flarum-ext-seoslugs) - Use friendly URLs (aka transliteration) in slugs.
-* [Sitemap](https://github.com/FlarumChina/flarum-ext-sitemap-chinese) - Generate a Sitemap for Flarum automatically.
-* [Summaries](https://github.com/jordanjay29/flarum-ext-summaries) - Show summaries on all discussions.
+* [Sitemap](https://github.com/terabin/flarum-ext-sitemap) - Generate a Sitemap for Flarum automatically.
 * [Time Machine](https://github.com/Extum/flarum-ext-time-machine) - Modify the time of your posts, user registrations and more by travelling back in time.
 * [Topic Count](https://github.com/Extum/flarum-ext-topic-count) - Send webhooks to your Discord server from your Flarum forum.
-* [User Bio](https://github.com/Extum/flarum-ext-user-bio) - Add user bio.
 * [Web Push Notification](https://github.com/DogSports/flarum-ext-web-push-notification) - Adds Web Push notification feature to flarum with OneSignal service.
-
+* [2017] [Email Verification Switch](https://github.com/isaced/flarum-ext-email-verification-switch) - Disable new registered user email verification, will be activated automatically.
+* [2017] [Faraday Motion Notifications](https://github.com/faraday-motion/flarum-faraday-motion-notifications) - Simple Flarum extension that will automatically enable email notifications for the new registered users.
+* [2017] [Gravatar](https://github.com/0E800/flarum-gravatar) - Display Gravatar if no avatar was uploaded by user.
+* [2017] [Profile Image Crop](https://github.com/WiseClock/flarum-ext-profile-image-crop) - Adds the ability to crop when user uploads display picture.
+* [2017] [Summaries](https://github.com/jordanjay29/flarum-ext-summaries) - Show summaries on all discussions.
 
 
 ## Resources
