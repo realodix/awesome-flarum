@@ -7,30 +7,39 @@
 
 #### Languages
 * [Albania (sq)](https://github.com/tinaira/flarum-ext-albania)
-* [Arabic (ar)](https://github.com/hichem2h/flarum-ext-arabic)
-* [Chinese (zh)](https://github.com/Csineneo/flarum-ext-simplified-chinese) by [Csineneo](https://github.com/Csineneo)
-* [Chinese (zh)](https://github.com/Flarum-Chinese/flarum-ext-simplified-chinese) by [Flarum-Chinese](https://github.com/Flarum-Chinese)
-* [Chinese (zh)](https://github.com/FlarumChina/flarum-ext-simplified-chinese-pro) by [FlarumChina](https://github.com/FlarumChina)
+* [Arabic](https://github.com/hichem2h/flarum-ext-arabic) by Hichem2h
+* [Arabic](https://github.com/ziymed/lang-arabic) by Ziymed
+* [Bengali](https://github.com/jubayed/flarum-ext-bengali)
+* [Chinese (zh)](https://github.com/Csineneo/flarum-ext-simplified-chinese) by Csineneo
+* [Chinese (zh)](https://github.com/Flarum-Chinese/flarum-ext-simplified-chinese) by Flarum-Chinese
+* [Chinese (zh)](https://github.com/FlarumChina/flarum-ext-simplified-chinese-pro) by FlarumChina
 * [French (fr)](https://github.com/milescellar/flarum-ext-french)
 * [German (de)](https://github.com/Kakifrucht/flarum-de)
+* [Greek)](https://github.com/kryonoglou/flarum-ext-greek)
+* [Hungarian)](https://github.com/manaszon/flarum-ext-hungarian)
 * [Indonesian (id)](https://github.com/realodix/flarum-ext-indonesian)
 * [Italian (it)](https://github.com/Nearata/flarum-ext-italian)
-* [Japanese (ja_jp)](https://github.com/Felli/flarum-ext-japanese) by [Felli](https://github.com/Felli)
-* [Japanese (ja)](https://github.com/naga0ka/flarum-ext-japanese) by [Naga0ka](https://github.com/naga0ka)
+* [Japanese (ja_jp)](https://github.com/Felli/flarum-ext-japanese) by Felli
+* [Japanese (ja)](https://github.com/naga0ka/flarum-ext-japanese) by Naga0ka
 * [Persian (fa)](https://github.com/sijad/flarum-ext-persian)
+* [Polish (pl)](https://github.com/bepropl/lang-polish) by Bepropl
+* [Polish (pl)](https://github.com/modInfo/flarum-i18n-polish) by ModInfo
 * [Russian (ru)](https://gitlab.com/metastore/flarum/language/russian/flarum-core)
 * [Spanish (es)](https://github.com/FlarumES/Spanish)
+* [Swedish](https://github.com/nlssn/flarum-ext-swedish) by Nlssn
+* [Turkish (tr)](https://github.com/nrucel/flarum-turkish) by Nrucel
 * [Ukrainian (uk)](https://github.com/eikoninaru/flarum-ext-ukrainian)
 * [2017] [Dutch (nl)](https://github.com/rodymolenaar/flarum-ext-dutch)
-* [2017] [Hebrew (he)](https://github.com/icecore2/Flarum-hebrew) by [Icecore2](https://github.com/icecore2)
-* [2017] [Hebrew (he)](https://github.com/itayganor/flabrew) by [Itayganor](https://github.com/itayganor)
+* [2017] [Hebrew (he)](https://github.com/icecore2/Flarum-hebrew) by Icecore2
+* [2017] [Hebrew (he)](https://github.com/itayganor/flabrew) by Itayganor
 * [2017] [Korean (kr)](https://github.com/Comocozy/flarum-ext-korean)
-* [2017] [Polish (pl)](https://github.com/priard/flarum-polish)
+* [2017] [Polish (pl)](https://github.com/lukaszflorczak/flarum-ext-polish) by LukaszFlorczak
+* [2017] [Polish (pl)](https://github.com/priard/flarum-polish) by Priard
 * [2017] [Portuguese (pt-PT)](https://github.com/lcbcruz/flarum-portuguese)
 * [2017] [Romanian (ro)](https://github.com/bmalex88/flarum-ext-romanian)
-* [2017] [Swedish (sv)](https://github.com/heidarKadkhoda/flarum-ext-swedish)
-* [2017] [Turkish (tr)](https://github.com/enverarslan/flarum-ext-turkish) by [Enverarslan](https://github.com/enverarslan)
-* [2017] [Turkish (tr)](https://github.com/XEngine/flarum-ext-turkish) by [XEngine](https://github.com/XEngine)
+* [2017] [Swedish](https://github.com/heidarKadkhoda/flarum-ext-swedish) by HeidarKadkhoda
+* [2017] [Turkish (tr)](https://github.com/enverarslan/flarum-ext-turkish) by Enverarslan
+* [2017] [Turkish (tr)](https://github.com/XEngine/flarum-ext-turkish) by XEngine
 * [2016] [Brazilian Portuguese (pt-BR)](https://github.com/iacchus/flarum-brazilian-portuguese)
 * [2016] [Malaysian (my)](https://github.com/ahrasis/flarum-ext-malaysian)
 * [2016] [Norwegian Bokmål (nb)](https://github.com/pladask/flarum-ext-norwegian-bokmal)
