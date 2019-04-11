@@ -127,16 +127,17 @@
 
 
 #### Theme Enhancements
-* [Color Circles](https://github.com/clarkwinkelmann/flarum-ext-circle-groups) - Add a color circle around avatars based on user group.
-* [Flarloader](https://github.com/EnDylan/Flarloader) - A loading bar for Flarum.
 * [Landing Page](https://discuss.flarum.org/d/4656) - Customizable landing page for non-logged in users.
 * [Material Design by Extum](https://github.com/Extum/flarum-ext-material) - Materialize your forum with this Flarum extension that uses the latest guidelines.
 * [ReFlar Night mode](https://github.com/ReFlar/nightmode) - Turn your flarum forum to dark as user.
 * [Xiuno4](https://github.com/wfdaj/xiuno4-theme-flarum)
+* [2017] [Color Circles](https://github.com/clarkwinkelmann/flarum-ext-circle-groups) - Add a color circle around avatars based on user group.
+* [2017] [Flarloader](https://github.com/EnDylan/Flarloader) - A loading bar for Flarum.
 
 #### Others
 * [Catch the fish](https://github.com/clarkwinkelmann/catch-the-fish) - Watch your users catch as many fishes as they can.
 * [Cookie Consent](https://github.com/PartialDev/partialdev-cookie-consent) - Customizable cookie consent notice for your Flarum installation.
+* [Email Verification Switch](https://github.com/isaced/flarum-ext-email-verification-switch) - Disable new registered user email verification, will be activated automatically.
 * [Flagrow Byōbu](https://github.com/flagrow/byobu) - Well integrated, advanced private discussions.
 * [Flagrow Console](https://github.com/flagrow/console) - Register custom commands into Flarum.
 * [Flagrow Fonts](https://github.com/flagrow/fonts) - Easily add fonts to your Flarum.
@@ -156,15 +157,14 @@
 * [SEO](https://github.com/v17development/flarum-seo) - Adds SEO tags for your Flarum forum.
 * [sitemap] [Flagrow Sitemap](https://github.com/flagrow/sitemap) - Generate a sitemap.
 * [sitemap] [Sitemap](https://github.com/terabin/flarum-ext-sitemap) - Generate a Sitemap for Flarum automatically.
+* [Summaries](https://github.com/jordanjay29/flarum-ext-summaries) - Show summaries on all discussions.
 * [Time Machine](https://github.com/Extum/flarum-ext-time-machine) - Modify the time of your posts, user registrations and more by travelling back in time.
 * [Topic Count](https://github.com/Extum/flarum-ext-topic-count) - Send webhooks to your Discord server from your Flarum forum.
 * [Userbars](https://github.com/oaklinq/flarum-ext-userbars) - Puts 5 randomly selected userbars under each post.
 * [Web Push Notification](https://github.com/DogSports/flarum-ext-web-push-notification) - Adds Web Push notification feature to flarum with OneSignal service.
-* [2017] [Email Verification Switch](https://github.com/isaced/flarum-ext-email-verification-switch) - Disable new registered user email verification, will be activated automatically.
 * [2017] [Faraday Motion Notifications](https://github.com/faraday-motion/flarum-faraday-motion-notifications) - Simple Flarum extension that will automatically enable email notifications for the new registered users.
 * [2017] [Gravatar](https://github.com/0E800/flarum-gravatar) - Display Gravatar if no avatar was uploaded by user.
 * [2017] [Profile Image Crop](https://github.com/WiseClock/flarum-ext-profile-image-crop) - Adds the ability to crop when user uploads display picture.
-* [2017] [Summaries](https://github.com/jordanjay29/flarum-ext-summaries) - Show summaries on all discussions.
 
 
 ## Resources
