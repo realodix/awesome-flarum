@@ -5,7 +5,7 @@
 
 ## Extensions
 
-#### Languages
+### Languages
 * [Albania (sq)](https://github.com/tinaira/flarum-ext-albania)
 * [Arabic (ar)](https://github.com/hichem2h/flarum-ext-arabic) by Hichem2h
 * [Arabic (ar)](https://github.com/ziymed/lang-arabic) by Ziymed
@@ -48,7 +48,7 @@
 * [Abandoned] [Swedish](https://github.com/nlssn/flarum-ext-swedish) by Nlssn
 
 
-#### Auth
+### Auth
 * [Discord Login](https://github.com/pnobbe/flarum-ext-oauth-discord) - Allow users to login using their Discord account.
 * [Flagrow Passport](https://github.com/flagrow/passport) - The Laravel Passport compatible oauth extension for your Flarum forum.
 * [Flagrow Telegram](https://github.com/flagrow/telegram) - Telegram login and notifications for Flarum.
@@ -65,7 +65,7 @@
 * [2017] [ReFlar GitLab Login](https://gitlab.com/ReDevelopers/ReFlar/oauth-gitlab) - Login using your GitLab account.
 
 
-#### Posting
+### Posting
 * [Auto More](https://github.com/noriods/automore) - Automatically clicks the 'load more' button when it comes into view.
 * [BBCode Alerts](https://github.com/0E800/flarum-ext-bbcode-alerts) - Add visual alerts / warnings to Flarum posts.
 * [Best Answer](https://github.com/wiwatsrt/flarum-ext-best-answer) - A Flarum extension for select post best answer.
@@ -97,7 +97,7 @@
 * [2016] [OpenGraph](https://github.com/ItalianSpaceAstronauticsAssociation/flarum-isaa-opengraph) - A Flarum extension for embedding opengraph content.
 
 
-#### Admin Area
+### Admin Area
 * [Analytics](https://github.com/flagrow/flarum-ext-analytics) - A Flarum extension that provides your forum Piwik and Google Analytics features.
 * [Dashboard](https://github.com/datitisev/flarum-ext-admindashboard) - This completely re-imagines the admin interface.
 * [Flagrow Ads](https://github.com/flagrow/ads) - Allows you to configure ads in several locations.
@@ -120,13 +120,13 @@
 * [2017] [Url Transliterator](https://github.com/Avatar4eg/flarum-ext-transliterator) - Transliterator for urls.
 
 
-#### Social Media
+### Social Media
 * [Social Profile](https://github.com/dav-is/flarum-ext-socialprofile) - Allows addition of social media pages to your profile.
 * [Flarum Sharing](https://github.com/radixi0/flarum-ext-sharing) by [radixi0](https://github.com/radixi0) - A Flarum extension that adds share (to some popular social networks) buttons and ``<head>`` meta tags (Open Graph and Twitter card) to make links to your forum look better.
 * [Flarum Sharing](https://github.com/ganuonglachanh/flarum-ext-sharing) by [ganuonglachanh](https://github.com/ganuonglachanh) - A Flarum extension that adds share (to some popular social networks) buttons and ``<head>`` meta tags (Open Graph and Twitter card) to make links to your forum look better.
 
 
-#### Theme Enhancements
+### Theme Enhancements
 * [Landing Page](https://discuss.flarum.org/d/4656) - Customizable landing page for non-logged in users.
 * [Material Design by Extum](https://github.com/Extum/flarum-ext-material) - Materialize your forum with this Flarum extension that uses the latest guidelines.
 * [ReFlar Night mode](https://github.com/ReFlar/nightmode) - Turn your flarum forum to dark as user.
@@ -134,7 +134,7 @@
 * [2017] [Color Circles](https://github.com/clarkwinkelmann/flarum-ext-circle-groups) - Add a color circle around avatars based on user group.
 * [2017] [Flarloader](https://github.com/EnDylan/Flarloader) - A loading bar for Flarum.
 
-#### Others
+### Others
 * [Catch the fish](https://github.com/clarkwinkelmann/catch-the-fish) - Watch your users catch as many fishes as they can.
 * [Cookie Consent](https://github.com/PartialDev/partialdev-cookie-consent) - Customizable cookie consent notice for your Flarum installation.
 * [Email Verification Switch](https://github.com/isaced/flarum-ext-email-verification-switch) - Disable new registered user email verification, will be activated automatically.
@@ -181,7 +181,7 @@
 * [Toolbelt](https://github.com/flagrow/toolbelt) - Toolbelt is a package meant for extension developers. It offers re-usable components and helper classes for both the back- and frontend of Flarum extensions.
 
 
-#### Utilities
+### Utilities
 * [Convert your beta 7 compatible extension to work on beta 8](https://discuss.flarum.org/d/6573)
 * [Flarum Extension Generator by ReFlar](https://github.com/ReFlar/extension-generator) - Create a Flarum extension from a boilerplate in minutes!
 * [Flarum Management](https://discuss.flarum.org/d/5158) - Manage Flarum installs.
@@ -192,13 +192,13 @@
 * [Migration] [SMF2 to Flarum](https://github.com/ItalianSpaceAstronauticsAssociation/smf2_to_flarum) - SMF2 to Flarum DB importer.
 
 
-#### Mobile App
+### Mobile App
 * [Flario](https://github.com/michaldev/flarumapp) - Android client for Flarum.
 * [Flarum Community](https://github.com/SurfEdge/flarum-mobile-android) - A WebView based Android application which will embed your Flarum forum inside an application.
 * [Flarum Mobile iOS](https://github.com/SurfEdge/flarum-mobile-ios) - A WebView based iOS mobile application which will embed your Flarum forum inside an application.
 
 
-#### Tutorials
+### Tutorials
 * [Coaster CMS + Flarum](https://discuss.flarum.org/d/6299) - Have a blog/cms platform with Flarum integration. If possible, have Flarum use Coaster CMS authentication and/or have Coaster CMS use Flarum authentication.
 * [Configuration of vhost in Caddy Server](https://discuss.flarum.org/d/5107)
 * [CPanel Flarum SSH Install Steps](https://discuss.flarum.org/d/1342)
@@ -240,7 +240,7 @@
 
 Found an awesome Flarum extension and and resource? Send me a pull request!
 
-#### Guidelines
+### Guidelines
 1. Please make an individual pull request for each suggestion
 2. Use the following format for links: \[NAME\]\(URL\) - Description
 3. New categories or improvements to the existing categorization are welcome
