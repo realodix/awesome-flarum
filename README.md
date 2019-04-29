@@ -145,7 +145,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [BBBBCode](https://github.com/zerosonesfun/bbbbcode) - Big Beautiful BBCode.
 * [Best Answer](https://github.com/wiwatsrt/flarum-ext-best-answer) - Select post best answer.
 * [Comic Sans](https://github.com/clarkwinkelmann/flarum-ext-comicsans) - Turn text into Comic Sans for no reason.
-* [Emoji Picker](https://github.com/clarkwinkelmann/flarum-ext-emojionearea) - Add EmojiOne Area emoji picker.
+* [Emoji Picker](https://github.com/clarkwinkelmann/flarum-ext-emojionearea) - Add EmojioneArea emoji picker.
 * [Flagrow Byōbu](https://github.com/flagrow/byobu) - Well integrated, advanced private discussions.
 * [Flagrow Split](https://github.com/flagrow/split) - Separate posts from one discussion into its own, splits discussions.
 * [FoF BBCode Details](https://github.com/FriendsOfFlarum/bbcode-details) - Details BBCode.
@@ -200,7 +200,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [Flagrow Bazaar](https://github.com/flagrow/bazaar) - The marketplace extension that allows you to add and remove extensions without composer or a terminal.
 * [Flagrow Linguist](https://github.com/flagrow/linguist) - Customize translations with ease.
 * [Flagrow Mason](https://github.com/flagrow/mason) - The discussion custom fields builder.
-* [Flagrow User Directory](https://github.com/flagrow/user-directory) - Generates a new url /users that provides a list of users, with the ability to sort. You can search through the users from the global search input field, a new item shows up "Search all users for ..".
+* [Flagrow User Directory](https://github.com/flagrow/user-directory) - Generates a new URL / users that provides a list of users, with the ability to sort. You can search through the users from the global search input field, a new item shows up "Search all users for ..".
 * [Keyboard Shortcuts](https://github.com/oaklinq/flarum-ext-keyboard-shortcuts) - Adds keyboard shortcuts.
 * [List Users](https://github.com/velcis/user-list) - List registered users in admin panel.
 * [Money](https://github.com/AntoineFr/flarum-ext-money) - Give money to your users for different actions.
@@ -209,7 +209,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2018]` [Flagrow Ads](https://github.com/flagrow/ads) - Allows you to configure ads in several locations.
 * `[2018]` [Flagrow Mail Drivers](https://github.com/flagrow/mail-drivers) - Send email via Mailgun, Mandrill or SES api.
 * `[2018]` [Flagrow Users List](https://github.com/flagrow/users-list) - Adds users list to admin panel.
-* `[2018]` [ReFlar Pretty mail](https://github.com/reflar/pretty-mail) - Allows you to make custom html templates for emails.
+* `[2018]` [ReFlar Pretty mail](https://github.com/reflar/pretty-mail) - Allows you to make custom HTML templates for emails.
 * `[2018]` [ReFlar UnCache](https://github.com/ReFlar/UnCache) - Automatically clear the cache when you enable a new extension.
 * `[2017]` [Event Tracking](https://github.com/SurfEdge/flarum-ext-event-tracking) - Track events for Google Analytics.
 * `[2017]` [Filter](https://github.com/CDK2020/flarum-ext-filter) - Filters and flags posts by keywords.
@@ -248,14 +248,14 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [FoF Social Profile](https://github.com/FriendsOfFlarum/socialprofile) - Add custom social media pages to your user profile.
 * [FoF User Bio](https://github.com/FriendsOfFlarum/user-bio) - Add the user bio back into Flarum.
 * `[2018]` [Flagrow Masquerade](https://github.com/flagrow/masquerade) - User profile builder extension for your forum.
-* `[2018]` [Flagrow Terms](https://github.com/flagrow/terms) - Ask your users to accept TOS and Privacy Policy.
+* `[2018]` [Flagrow Terms](https://github.com/flagrow/terms) - Ask your users to accept TOS and privacy policy.
 * `[2018]` [FoF Default Group](https://github.com/FriendsOfFlarum/default-group) - Assign a default group to new users automatically.
 * `[2018]` [FoF Spamblock](https://github.com/FriendsOfFlarum/spamblock) - Mark user as spammer, suspending them & hiding their posts and discussions.
 * `[2018]` [Online](https://github.com/AntoineFr/flarum-ext-online) - Display online users on the left sidebar.
 
 
 ### Custom Page
-* [FoF Custom Footer](https://github.com/FriendsOfFlarum/custom-footer) - Allows the Addition of a Custom Footer.
+* [FoF Custom Footer](https://github.com/FriendsOfFlarum/custom-footer) - Allows the addition of a custom footer.
 * [FoF FrontPage](https://github.com/FriendsOfFlarum/frontpage) - Push discussions to the front of your Flarum forum index.
 * [FoF Pages](https://github.com/FriendsOfFlarum/pages) - Create custom pages with Flarum.
 * [ReFlar Inject Mithril Components](https://github.com/ReFlar/inject-mithril-components) - Inject [Mithril](https://mithril.js.org/) components into your pages using native HTML.
