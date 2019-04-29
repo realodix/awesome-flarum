@@ -129,6 +129,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2018]` [SSOwat login](https://github.com/tituspijean/flarum-ext-auth-ssowat) - Allow users to login through SSOwat.
 * `[2018]` [Wordpress Login](https://github.com/krombox/flarum-ext-auth-wordpress) - Allow users to login with your WordPress site.
 * `[2018]` [Yahoo Login](https://github.com/Extum/flarum-ext-auth-yahoo) - Login to your forum using their Yahoo account.
+* `[2017]` [Auth Redirect](https://github.com/empewoow/flarum-ext-auth-redirect) - Redirect authentication methods; login, logout, and register links.
 
 
 ### Discussion
@@ -167,10 +168,16 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 
 
 ### Media
+* [Auto Image and Video](https://github.com/CleverLoginName/flarum-ext-autoimage-autovideo) - Automatically turn image links into images & video links into videos.
 * [Fajuu - Icons Changer](https://github.com/Fajuu/flarum-icons) - Adds the ability to change the style of icons and change the individual icons.
+* [FancyBox](https://github.com/squeevee/flarum-ext-fancybox) - Image formatting and lightbox modal using FancyBox. (see [fancyapps.com/fancybox](https://fancyapps.com/fancybox)).
 * [Flagrow Upload](https://github.com/flagrow/upload) - An extension that handles file uploads intelligently for your forum.
 * [FoF Profile Image Crop](https://github.com/FriendsOfFlarum/profile-image-crop) - Allow cropping when uploading profile picture.
+* [ImgOss Upload](https://github.com/xiaoheheyo/flarum-imgupload-oss) - Simple image upload from the Flarum editor.
+* [Imgur Upload](https://github.com/matteocontrini/flarum-imgur-upload) by Matteocontrini - Simple image upload from the Flarum editor.
+* `[2018]` [AutoImage](https://github.com/ozzzzam/flarum-ext-autoimage) - Automatically turn image links into images.
 * `[2017]` [Gravatar](https://github.com/0E800/flarum-gravatar) - Display Gravatar if no avatar was uploaded by user.
+* `[2017]` [Imgur Upload](https://github.com/matpompili/flarum-imgur-upload) by Matpompili - Enable the upload of images to imgur directly from the Composer.
 
 
 ### Admin Area
@@ -206,6 +213,8 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [FoF Links](https://github.com/FriendsOfFlarum/links) - Manage Flarum primary navigation links.
 * `[2018]` [Flagrow Amazon Affiliation](https://github.com/flagrow/amazon-affiliation) - Add your Amazon Affiliate tag to Amazon links.
 * `[2018]` [Flagrow Direct Links](https://github.com/flagrow/direct-links) - Adds direct links to various Flarum actions.
+* `[2018]` [FoF Secure HTTPS](https://github.com/FriendsOfFlarum/secure-https) - Changes all images using http to https.
+* `[2018]` [Follow Links BBCODE](https://github.com/sijad/flarum-ext-github-autolink) - Remove nofollow attribute from links using BBCODE.
 * `[2018]` [Github Autolink](https://github.com/sijad/flarum-ext-github-autolink) - Convert references to Github issues and commits automatically into links.
 
 
