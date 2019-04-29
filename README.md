@@ -11,6 +11,8 @@
   - [Media](#media)
   - [Admin Area](#admin-area)
   - [Sharing](#sharing)
+  - [User](#user)
+  - [Custom Page](#custom-page)
   - [SEO](#seo)
   - [Link](#link)
   - [Theme Enhancements](#theme-enhancements)
@@ -111,16 +113,22 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 
 
 ### Authentication & Authorization
+* [Auth0 Login](https://github.com/helmgast/flarum-auth0) - Allow users to log in with Auth0.
 * [Email Verification Switch](https://github.com/isaced/flarum-ext-email-verification-switch) - Disable new registered user email verification, will be activated automatically.
+* [Eve Login](https://github.com/instkffff/auth-eve) - Allow users to log in with EveOnline.
 * [Flagrow Impersonate](https://github.com/flagrow/impersonate) - Login as other users of your forum.
+* [FoF reCAPTCHA](https://github.com/FriendsOfFlarum/recaptcha) - Increase your forum's security with Google reCAPTCHA.
 * [Google Login](https://github.com/johnhearfield/flarum-ext-oauth-google) - Allow users to login using their Google account.
 * [LDAP login](https://github.com/tituspijean/flarum-ext-auth-ldap) - Allow users to log in through LDAP.
 * [NomisCZ Steam Login](https://github.com/NomisCZ/flarum-ext-auth-steam) - Allow users to log in with Steam.
 * [ReFlar Doorman](https://github.com/ReFlar/doorman) - Only allow certain people to join your forum.
 * [Single Sign On](https://github.com/wuethrich44/flarum-ext-sso) - Single sign on for Flarum.
+* [Wechat Login](https://github.com/Yanlong-LI/flarum-ext-auth-wechat) - Allow users to log in with WeChat.
+* `[2018]` [CAS Login](https://github.com/ddawx123/flarum-ext-auth-cas) - Allow users to log in with CAS.
 * `[2018]` [Discord Login](https://github.com/pnobbe/flarum-ext-oauth-discord) - Allow users to login using their Discord account.
 * `[2018]` [Flagrow Passport](https://github.com/flagrow/passport) - The Laravel Passport compatible oauth extension for your Flarum forum.
 * `[2018]` [Flagrow Telegram](https://github.com/flagrow/telegram) - Telegram login and notifications for Flarum.
+* `[2018]` [Frappe Login](https://github.com/srdgame/flarum-ext-auth-frappe) - Allow users to log in with Frappe.
 * `[2018]` [Instagram Login](https://github.com/Extum/flarum-ext-auth-instagram) - Login using Instagram on your Flarum forum.
 * `[2018]` [Invite Only](https://github.com/dav-is/flarum-ext-inviteonly) - Allow registration only if invited.
 * `[2018]` [ReFlar GitLab Login](https://github.com/ReFlar/oauth-gitlab) - Login using your GitLab account.
@@ -132,6 +140,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 
 
 ### Discussion
+* [Advanced Pusher](https://github.com/ZhiShiQ/FlarumPusher) - See new discussions and posts in real-time using Pusher. This repo is modified based on [flarum/pusher](https://github.com/flarum/pusher).
 * [Auto More](https://github.com/noriods/automore) - Automatically clicks the 'load more' button when it comes into view.
 * [BBBBCode](https://github.com/zerosonesfun/bbbbcode) - Big Beautiful BBCode.
 * [Best Answer](https://github.com/wiwatsrt/flarum-ext-best-answer) - A Flarum extension for select post best answer.
@@ -139,17 +148,22 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [Emoji Picker](https://github.com/clarkwinkelmann/flarum-ext-emojionearea) - Add EmojiOne Area emoji picker to Flarum.
 * [Flagrow Byōbu](https://github.com/flagrow/byobu) - Well integrated, advanced private discussions.
 * [Flagrow Split](https://github.com/flagrow/split) - Separate posts from one discussion into its own, splits discussions.
+* [FoF BBCode Details](https://github.com/FriendsOfFlarum/bbcode-details) - Details BBCode for Flarum.
 * [FoF Formatting](https://github.com/FriendsOfFlarum/formatting) - Customize TextFormatter with plugins through the admin interface.
 * [FoF Merge Discussions](https://github.com/FriendsOfFlarum/merge-discussions) - Merge two or more discussions into one.
 * [FoF Prevent Necrobumping](https://github.com/FriendsOfFlarum/prevent-necrobumping) - Warn before necrobumping old discussions.
 * [Markdown Tables](https://github.com/KevID/flarum-pipetables) - Active markdown tables.
 * [ReFlar Reactions](https://github.com/ReFlar/reactions) - A Flarum extension that adds reactions to your Flarum community.
+* [Spoiler BBCode](https://github.com/oaklinq/flarum-ext-spoiler-bbcode) - Adds a [Spoiler] BBCode.
 * [Summaries](https://github.com/jordanjay29/flarum-ext-summaries) - Show summaries on all discussions.
+* [Super Sticky](https://github.com/velcis/super-sticky) - Pin discussions to the top of the top of the list.
 * [Userbars](https://github.com/oaklinq/flarum-ext-userbars) - Puts 5 randomly selected userbars under each post.
 * `[2018]` [BBCode Alerts](https://github.com/0E800/flarum-ext-bbcode-alerts) - Add visual alerts / warnings to Flarum posts.
 * `[2018]` [Discussion views](https://github.com/MichaelBelgium/flarum-discussion-views) - This is an extension for the flarum forum software where you can enable and track how much times a discussion has been viewed.
+* `[2018]` [Emoji for BBCode WYSIWYG Editor](https://github.com/EricYChu/flarum-ext-bbcode-emoji) - Convert text and unicode emoji into Twemoji. Only for BBCode WYSIWYG Editor extension.
 * `[2018]` [Frontpage](https://github.com/fixer112/flarum-frontpage) - Flarum extension to mark discussion as frontpage.
 * `[2018]` [Old Title](https://github.com/Extum/flarum-ext-old-title) - Show the old title too if you change a discussion title.
+* `[2018]` [Post Notification](https://github.com/tpokorra/flarum-ext-post-notification) - Send email notification for each post written or modified.
 * `[2018]` [ReFlar Gamification](https://github.com/ReFlar/gamification) - Upvotes and downvotes for your Flarum community.
 * `[2018]` [Reply2See](https://github.com/WiseClock/flarum-ext-reply2see) - Adds a reply to see BBCode.
 * `[2018]` [Signature](https://github.com/Extum/flarum-ext-signature) - Signature support to your Flarum forum.
@@ -175,6 +189,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [ImgOss Upload](https://github.com/xiaoheheyo/flarum-imgupload-oss) - Simple image upload from the Flarum editor.
 * [Imgur Upload](https://github.com/matteocontrini/flarum-imgur-upload) by Matteocontrini - Simple image upload from the Flarum editor.
 * `[2018]` [AutoImage](https://github.com/ozzzzam/flarum-ext-autoimage) - Automatically turn image links into images.
+* `[2018]` [Chords](https://github.com/zerosonesfun/flarum-ext-chords) - Post basic sheet music on your Flarum.
 * `[2017]` [Gravatar](https://github.com/0E800/flarum-gravatar) - Display Gravatar if no avatar was uploaded by user.
 * `[2017]` [Imgur Upload](https://github.com/matpompili/flarum-imgur-upload) by Matpompili - Enable the upload of images to imgur directly from the Composer.
 
@@ -185,7 +200,8 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [Flagrow Bazaar](https://github.com/flagrow/bazaar) - The marketplace extension that allows you to add and remove extensions without composer or a terminal.
 * [Flagrow Linguist](https://github.com/flagrow/linguist) - Customize translations with ease.
 * [Flagrow Mason](https://github.com/flagrow/mason) - The discussion custom fields builder.
-* [Keyboard Shortcuts](https://github.com/oaklinq/flarum-ext-keyboard-shortcuts) - Adds Keyboard Shortcuts.
+* [Keyboard Shortcuts](https://github.com/oaklinq/flarum-ext-keyboard-shortcuts) - Adds keyboard shortcuts.
+* [List Users](https://github.com/velcis/user-list) - List registered users in admin panel.
 * [Money](https://github.com/AntoineFr/flarum-ext-money) - Give money to your users for different actions.
 * [Notify](https://github.com/manelizzard/flarum-notify) - Get notified about forum activity in Slack, HipChat, Gitter or Telegram.
 * [Syndication](https://github.com/AmauryCarrade/flarum-ext-syndication) - Brings RSS and Atom feeds to Flarum.
@@ -202,17 +218,19 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 
 ### SEO
 * [SEO friendly slugs for Flarum](https://github.com/Zeokat/flarum-ext-seoslugs) - Use friendly URLs (aka transliteration) in slugs.
-* [SEO](https://github.com/v17development/flarum-seo) - Adds SEO tags for your Flarum forum.
+* [SEO](https://github.com/v17development/flarum-seo) - Adds SEO tags for your forum.
 * `[2018]` [Flagrow Sitemap](https://github.com/flagrow/sitemap) - Generate a sitemap.
 * `[2018]` [Sitemap](https://github.com/terabin/flarum-ext-sitemap) - Generate a Sitemap for Flarum automatically.
 
 
 ### Link
+* [Canonical URL](https://github.com/migratetoflarum/canonical) - Create redirects to the canonical url of your forum.
 * [Flagrow Affiliation Links](https://github.com/flagrow/affiliation-links) - Automatically turn links into custom affiliate or redirect links.
 * [FoF Links](https://github.com/FriendsOfFlarum/links) - Manage Flarum primary navigation links.
 * `[2018]` [Flagrow Amazon Affiliation](https://github.com/flagrow/amazon-affiliation) - Add your Amazon Affiliate tag to Amazon links.
 * `[2018]` [Flagrow Direct Links](https://github.com/flagrow/direct-links) - Adds direct links to various Flarum actions.
 * `[2018]` [FoF Secure HTTPS](https://github.com/FriendsOfFlarum/secure-https) - Changes all images using http to https.
+* `[2018]` [FoF URL Transliterator](https://github.com/FriendsOfFlarum/transliterator) - Transliterate non-ASCII characters in discussion URL.
 * `[2018]` [Follow Links BBCODE](https://github.com/sijad/flarum-ext-github-autolink) - Remove nofollow attribute from links using BBCODE.
 * `[2018]` [Github Autolink](https://github.com/sijad/flarum-ext-github-autolink) - Convert references to Github issues and commits automatically into links.
 
@@ -222,6 +240,21 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2018]` [Flarum Sharing](https://github.com/radixi0/flarum-ext-sharing) by [radixi0](https://github.com/radixi0) - A Flarum extension that adds share (to some popular social networks) buttons and ``<head>`` meta tags (Open Graph and Twitter card) to make links to your forum look better.
 * `[2018]` [Social Profile](https://github.com/dav-is/flarum-ext-socialprofile) - Allows addition of social media pages to your profile.
 * `[2018]` [Topic Count](https://github.com/Extum/flarum-ext-topic-count) - Send webhooks to your Discord server from your Flarum forum.
+
+### User
+* [Contact](https://github.com/ffRunKey/contact) - Add user contact information.
+* [FoF Default User Preferences](https://github.com/FriendsOfFlarum/default-user-preferences) - Enable emails for replies and mentions by default in user preferences.
+* [FoF Social Profile](https://github.com/FriendsOfFlarum/socialprofile) - Add custom social media pages to your user profile.
+* [FoF User Bio](https://github.com/FriendsOfFlarum/user-bio) - Add the user bio back into Flarum.
+* `[2018]` [FoF Default Group](https://github.com/FriendsOfFlarum/default-group) - Assign a default group to new users automatically.
+* `[2018]` [FoF Spamblock](https://github.com/FriendsOfFlarum/spamblock) - Mark user as spammer, suspending them & hiding their posts and discussions.
+
+
+### Custom Page
+* [FoF Custom Footer](https://github.com/FriendsOfFlarum/custom-footer) - Allows the Addition of a Custom Footer.
+* [FoF FrontPage](https://github.com/FriendsOfFlarum/frontpage) - Push discussions to the front of your Flarum forum index.
+* [FoF Pages](https://github.com/FriendsOfFlarum/pages) - Create custom pages with Flarum.
+* [ReFlar Inject Mithril Components](https://github.com/ReFlar/inject-mithril-components) - Inject Mithril components into your pages using native HTML.
 
 
 ### Theme Enhancements
@@ -236,13 +269,19 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2017]` [Flarloader](https://github.com/EnDylan/Flarloader) - A loading bar for Flarum.
 
 ### Others
+* [Algolia Search](https://github.com/VasylTech/flarum-algolia-search) - Replace the default Flarum search with Algolia search.
 * [Catch the fish](https://github.com/clarkwinkelmann/catch-the-fish) - Watch your users catch as many fishes as they can.
+* [Categories](https://github.com/Bokt/flarum-categories) - Old school hierarchical categories.
 * [Cookie Consent](https://github.com/PartialDev/partialdev-cookie-consent) - Customizable cookie consent notice for your Flarum installation.
 * [Flagrow Console](https://github.com/flagrow/console) - Register custom commands into Flarum.
 * [Flagrow Subscribed](https://github.com/flagrow/subscribed) - Better user subscriptions for your Flarum forum.
 * [Flagrow User Directory](https://github.com/flagrow/user-directory) - An extension that generates a new url /users that provides a list of users, with the ability to sort. You can search through the users from the global search input field, a new item shows up "Search all users for ..".
-* [FoF Pages](https://github.com/FriendsOfFlarum/pages) - Create custom pages with Flarum.
+* [Flarum Multi Tenancy](https://github.com/ahrasis/multenex) - Multi Tenancy for Flarum on single install and database.
+* [FoF Sentry](https://github.com/FriendsOfFlarum/sentry) - Flarum integration for [Sentry](https://sentry.io).
 * [Profile views](https://github.com/MichaelBelgium/flarum-profile-views) - This is an extension for the flarum forum software where you can enable and track how much times a profile has been viewed.
+* [Queue](https://github.com/ZhiShiQ/FlarumQueue) - Add asyn job queue handle feature to laravel with laravel queue.
+* [Redis Connector](https://github.com/ZhiShiQ/FlarumRedis) - Allow user to bind with wechat.
+* [ReFlar Pwned Passwords](https://github.com/ReFlar/pwned-passwords) - Check passwords against the [Have I Been Pwned](https://haveibeenpwned.com/) password database.
 * `[2018]` [Flagrow Fonts](https://github.com/flagrow/fonts) - Easily add fonts to your Flarum.
 * `[2018]` [Flagrow Masquerade](https://github.com/flagrow/masquerade) - User profile builder extension for your Flarum forum.
 * `[2018]` [Flagrow Serve](https://github.com/flagrow/serve) - Add the serve command to Flarum. This will allow you to start Flarum into the PHP development server via a simple command.
