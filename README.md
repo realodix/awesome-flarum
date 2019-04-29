@@ -56,7 +56,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [Persian (fa)](https://github.com/persianfla/flarum-ext-persian) by Persianfla
 * [Persian (fa)](https://github.com/sijad/flarum-ext-persian) by Sijad
 * [Polish (pl)](https://github.com/bepropl/lang-polish) by Bepropl
-* [Russian (ru)](https://gitlab.com/metastore/flarum/language/russian/flarum-core) by Metastore
 * [Russian (ru)](https://gitlab.com/marketplace-flarum/languages/flarum-l10n-core-russian) by [Flarum Marketplace](https://gitlab.com/marketplace-flarum)
 * [Spanish (es)](https://github.com/darkfoxdeveloper/flarum-ext-spanish) by Darkfoxdeveloper
 * [Thailand (th)](https://github.com/drsaluml/flarum-ext-thai) by Drsaluml
