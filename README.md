@@ -5,9 +5,10 @@
 ## Table of Contents
 
 - [Extensions](#extensions)
-  - [Translations](#translations)
+  - [Language Pack](#language-pack)
   - [Authentication & Authorization](##authentication--authorization)
   - [Discussion](#discussion)
+  - [Media](#media)
   - [Admin Area](#admin-area)
   - [Sharing](#sharing)
   - [SEO](#seo)
@@ -33,14 +34,14 @@ The repository looks obsolete, there may be incompatibilities with the latest ve
 * **`[2016]`** - Last updated in 2016.
 
 
-### Translations
+### Language Pack
 Flarum comes with an English language pack; however, the Flarum Community has produced a large number of translations other languages — find yours here.
 
 * [Arabic (ar)](https://github.com/ziymed/lang-arabic) by Ziymed
 * [Brazilian Portuguese (pt-BR)](https://github.com/DynastyKing/flarum-lang-ptbr) by DynastyKing
 * [Brazilian Portuguese (pt-BR)](https://github.com/tiuram0n/flaneo-ext-brazilian-portuguese) by Tiuram0n
 * [Dutch (nl)](https://github.com/MichaelBelgium/flarum-dutch) by MichaelBelgium
-* [French (fr)](https://github.com/milescellar/flarum-ext-french)
+* [French (fr)](https://github.com/milescellar/lang-french)
 * [Hungarian (hu)](https://github.com/manaszon/flarum-ext-hungarian)
 * [Indonesian (id)](https://github.com/realodix/flarum-ext-indonesian)
 * [Italian (it)](https://github.com/Nearata/flarum-ext-italian)
@@ -48,7 +49,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [Malaysian (my)](https://github.com/ahrasis/bahasa-melayu)
 * [Persian (fa)](https://github.com/sijad/flarum-ext-persian)
 * [Polish (pl)](https://github.com/bepropl/lang-polish) by Bepropl
-* [Russian (ru)](https://gitlab.com/metastore/flarum/language/russian/flarum-core)
+* [Russian (ru)](https://gitlab.com/metastore/flarum/language/russian/flarum-core) by Metastore
 * [Spanish (es)](https://github.com/darkfoxdeveloper/flarum-ext-spanish) by Darkfoxdeveloper
 * [Thailand (th)](https://github.com/wiwatsrt/flarum-ext-thai)
 * [Ukrainian (uk)](https://github.com/eikoninaru/flarum-ext-ukrainian)
@@ -63,6 +64,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2018]` [Japanese (ja)](https://github.com/naga0ka/flarum-ext-japanese) by Naga0ka
 * `[2018]` [Japanese (ja)](https://github.com/setsunaMC/flarum-ext-japanese) by SetsunaMC
 * `[2018]` [Polish (pl)](https://github.com/modInfo/flarum-i18n-polish) by ModInfo
+* `[2018]` [Russian (ru)](https://github.com/factory-04/flarum-l10n-forum) by Factory-04
 * `[2018]` [Spanish (es)](https://github.com/FlarumES/Spanish) by FlarumES
 * `[2018]` [Turkish (tr)](https://github.com/nrucel/flarum-turkish) by Nrucel
 * `[2017]` [Dutch (nl)](https://github.com/rodymolenaar/flarum-ext-dutch) by Rodymolenaar
@@ -113,15 +115,13 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [Flagrow Split](https://github.com/flagrow/split) - Separate posts from one discussion into its own, splits discussions.
 * [FoF Formatting](https://github.com/FriendsOfFlarum/formatting) - Customize TextFormatter with plugins through the admin interface.
 * [FoF Merge Discussions](https://github.com/FriendsOfFlarum/merge-discussions) - Merge two or more discussions into one.
-* [FoF Pages](https://github.com/FriendsOfFlarum/pages) - Create custom pages with Flarum.
 * [FoF Prevent Necrobumping](https://github.com/FriendsOfFlarum/prevent-necrobumping) - Warn before necrobumping old discussions.
-* [Markdown Tables](https://github.com/KevID/flarum-pipetables) by @KevID - Active markdown tables.
+* [Markdown Tables](https://github.com/KevID/flarum-pipetables) - Active markdown tables.
 * [ReFlar Reactions](https://github.com/ReFlar/reactions) - A Flarum extension that adds reactions to your Flarum community.
 * [Summaries](https://github.com/jordanjay29/flarum-ext-summaries) - Show summaries on all discussions.
 * [Userbars](https://github.com/oaklinq/flarum-ext-userbars) - Puts 5 randomly selected userbars under each post.
 * `[2018]` [BBCode Alerts](https://github.com/0E800/flarum-ext-bbcode-alerts) - Add visual alerts / warnings to Flarum posts.
 * `[2018]` [Discussion views](https://github.com/MichaelBelgium/flarum-discussion-views) - This is an extension for the flarum forum software where you can enable and track how much times a discussion has been viewed.
-* `[2018]` [Flagrow Sitemap](https://github.com/flagrow/sitemap) - Generate a sitemap.
 * `[2018]` [Frontpage](https://github.com/fixer112/flarum-frontpage) - Flarum extension to mark discussion as frontpage.
 * `[2018]` [Old Title](https://github.com/Extum/flarum-ext-old-title) - Show the old title too if you change a discussion title.
 * `[2018]` [ReFlar Gamification](https://github.com/ReFlar/gamification) - Upvotes and downvotes for your Flarum community.
@@ -138,6 +138,13 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2017]` [Quill Editor](https://github.com/esledov/flarum-ext-quill) - Quill WYSIWYG (what you see is what you get) editor for Flarum.
 * `[2017]` [Split](https://github.com/dav-is/flarum-ext-split) - Split a forum discussion into single discussions.
 * `[2016]` [OpenGraph](https://github.com/ItalianSpaceAstronauticsAssociation/flarum-isaa-opengraph) - A Flarum extension for embedding opengraph content.
+
+
+### Media
+* [Fajuu - Icons Changer](https://github.com/Fajuu/flarum-icons) - Adds the ability to change the style of icons and change the individual icons.
+* [Flagrow Upload](https://github.com/flagrow/upload) - An extension that handles file uploads intelligently for your forum.
+* [FoF Profile Image Crop](https://github.com/FriendsOfFlarum/profile-image-crop) - Allow cropping when uploading profile picture.
+* `[2017]` [Gravatar](https://github.com/0E800/flarum-gravatar) - Display Gravatar if no avatar was uploaded by user.
 
 
 ### Admin Area
@@ -199,9 +206,8 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [Cookie Consent](https://github.com/PartialDev/partialdev-cookie-consent) - Customizable cookie consent notice for your Flarum installation.
 * [Flagrow Console](https://github.com/flagrow/console) - Register custom commands into Flarum.
 * [Flagrow Subscribed](https://github.com/flagrow/subscribed) - Better user subscriptions for your Flarum forum.
-* [Flagrow Upload](https://github.com/flagrow/upload) - An extension that handles file uploads intelligently for your forum.
 * [Flagrow User Directory](https://github.com/flagrow/user-directory) - An extension that generates a new url /users that provides a list of users, with the ability to sort. You can search through the users from the global search input field, a new item shows up "Search all users for ..".
-* [FoF Pages](https://github.com/sijad/flarum-ext-pages) - Create custom static pages in Flarum.
+* [FoF Pages](https://github.com/FriendsOfFlarum/pages) - Create custom pages with Flarum.
 * [Profile views](https://github.com/MichaelBelgium/flarum-profile-views) - This is an extension for the flarum forum software where you can enable and track how much times a profile has been viewed.
 * `[2018]` [Flagrow Fonts](https://github.com/flagrow/fonts) - Easily add fonts to your Flarum.
 * `[2018]` [Flagrow Masquerade](https://github.com/flagrow/masquerade) - User profile builder extension for your Flarum forum.
@@ -212,8 +218,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2018]` [Time Machine](https://github.com/Extum/flarum-ext-time-machine) - Modify the time of your posts, user registrations and more by travelling back in time.
 * `[2018]` [Web Push Notification](https://github.com/KevID/flarum-ext-web-push-notification) - Adds Web Push notification feature to flarum with OneSignal service.
 * `[2017]` [Faraday Motion Notifications](https://github.com/faraday-motion/flarum-faraday-motion-notifications) - Simple Flarum extension that will automatically enable email notifications for the new registered users.
-* `[2017]` [Gravatar](https://github.com/0E800/flarum-gravatar) - Display Gravatar if no avatar was uploaded by user.
-* `[2017]` [Profile Image Crop](https://github.com/WiseClock/flarum-ext-profile-image-crop) - Adds the ability to crop when user uploads display picture.
 * `[Archived]` [ReFlar Koseki](https://github.com/ReFlar/koseki) - Tidy up your Flarum forum with a structured hierarchical layout.
 
 
