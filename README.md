@@ -11,6 +11,7 @@
   - [Admin Area](#admin-area)
   - [Sharing](#sharing)
   - [SEO](#seo)
+  - [Link](#link)
   - [Theme Enhancements](#theme-enhancements)
   - [Others](#others)
 - [Resources](#resources)
@@ -114,8 +115,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [FoF Merge Discussions](https://github.com/FriendsOfFlarum/merge-discussions) - Merge two or more discussions into one.
 * [FoF Pages](https://github.com/FriendsOfFlarum/pages) - Create custom pages with Flarum.
 * [FoF Prevent Necrobumping](https://github.com/FriendsOfFlarum/prevent-necrobumping) - Warn before necrobumping old discussions.
-* [Markdown Tables](https://github.com/KevID/flarum-pipetables) by KevID - Active markdown tables.
-* [Markdown Tables](https://github.com/oaklinq/flarum-ext-pipetables) by Oaklinq - Active markdown tables.
+* [Markdown Tables](https://github.com/KevID/flarum-pipetables) by @KevID - Active markdown tables.
 * [ReFlar Reactions](https://github.com/ReFlar/reactions) - A Flarum extension that adds reactions to your Flarum community.
 * [Summaries](https://github.com/jordanjay29/flarum-ext-summaries) - Show summaries on all discussions.
 * [Userbars](https://github.com/oaklinq/flarum-ext-userbars) - Puts 5 randomly selected userbars under each post.
@@ -123,13 +123,10 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2018]` [Discussion views](https://github.com/MichaelBelgium/flarum-discussion-views) - This is an extension for the flarum forum software where you can enable and track how much times a discussion has been viewed.
 * `[2018]` [Flagrow Sitemap](https://github.com/flagrow/sitemap) - Generate a sitemap.
 * `[2018]` [Frontpage](https://github.com/fixer112/flarum-frontpage) - Flarum extension to mark discussion as frontpage.
-* `[2018]` [Github Autolink](https://github.com/sijad/flarum-ext-github-autolink) - Convert references to Github issues and commits automatically into links.
 * `[2018]` [Old Title](https://github.com/Extum/flarum-ext-old-title) - Show the old title too if you change a discussion title.
 * `[2018]` [ReFlar Gamification](https://github.com/ReFlar/gamification) - Upvotes and downvotes for your Flarum community.
 * `[2018]` [Reply2See](https://github.com/WiseClock/flarum-ext-reply2see) - Adds a reply to see BBCode.
 * `[2018]` [Signature](https://github.com/Extum/flarum-ext-signature) - Signature support to your Flarum forum.
-* `[2017]` [AutoImage](https://github.com/s9e/flarum-ext-autoimage) - Automatically turn image links into images.
-* `[2017]` [AutoVideo](https://github.com/s9e/flarum-ext-autovideo) - Automatically turn video links into playable videos.
 * `[2017]` [BBCode Cards](https://github.com/0E800/flarum-ext-bbcode-cards) - Embed cards and articles inside Flarum post.
 * `[2017]` [BBCode FA](https://github.com/AntoineFr/flarum-ext-bbcode-fa) - Insert Font Awesome icons in your posts.
 * `[2017]` [BBCode Pastebin](https://github.com/0E800/flarum-ext-bbcode-pastebin) - Embed pastebin inside Flarum post.
@@ -146,7 +143,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 ### Admin Area
 * [Analytics](https://github.com/flagrow/flarum-ext-analytics) - A Flarum extension that provides your forum Piwik and Google Analytics features.
 * [Dashboard](https://github.com/datitisev/flarum-ext-admindashboard) - This completely re-imagines the admin interface.
-* [Flagrow Affiliation Links](https://github.com/flagrow/affiliation-links) - Automatically turn links into custom affiliate or redirect links.
 * [Flagrow Bazaar](https://github.com/flagrow/bazaar) - The marketplace extension that allows you to add and remove extensions without composer or a terminal.
 * [Flagrow Linguist](https://github.com/flagrow/linguist) - Customize translations with ease.
 * [Flagrow Mason](https://github.com/flagrow/mason) - The discussion custom fields builder.
@@ -155,8 +151,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [Notify](https://github.com/manelizzard/flarum-notify) - Get notified about forum activity in Slack, HipChat, Gitter or Telegram.
 * [Syndication](https://github.com/AmauryCarrade/flarum-ext-syndication) - Brings RSS and Atom feeds to Flarum.
 * `[2018]` [Flagrow Ads](https://github.com/flagrow/ads) - Allows you to configure ads in several locations.
-* `[2018]` [Flagrow Amazon Affiliation](https://github.com/flagrow/amazon-affiliation) - Add your Amazon Affiliate tag to Amazon links.
-* `[2018]` [Flagrow Direct Links](https://github.com/flagrow/direct-links) - Adds direct links to various Flarum actions.
 * `[2018]` [Flagrow Mail Drivers](https://github.com/flagrow/mail-drivers) - Send email via Mailgun, Mandrill or SES api.
 * `[2018]` [Flagrow Users List](https://github.com/flagrow/users-list) - A Flarum extension that adds users list to admin panel.
 * `[2018]` [ReFlar Pretty mail](https://github.com/reflar/pretty-mail) - A Flarum extension that allows you to make custom html templates for emails.
@@ -172,6 +166,14 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [SEO](https://github.com/v17development/flarum-seo) - Adds SEO tags for your Flarum forum.
 * `[2018]` [Flagrow Sitemap](https://github.com/flagrow/sitemap) - Generate a sitemap.
 * `[2018]` [Sitemap](https://github.com/terabin/flarum-ext-sitemap) - Generate a Sitemap for Flarum automatically.
+
+
+### Link
+* [Flagrow Affiliation Links](https://github.com/flagrow/affiliation-links) - Automatically turn links into custom affiliate or redirect links.
+* [FoF Links](https://github.com/FriendsOfFlarum/links) - Manage Flarum primary navigation links.
+* `[2018]` [Flagrow Amazon Affiliation](https://github.com/flagrow/amazon-affiliation) - Add your Amazon Affiliate tag to Amazon links.
+* `[2018]` [Flagrow Direct Links](https://github.com/flagrow/direct-links) - Adds direct links to various Flarum actions.
+* `[2018]` [Github Autolink](https://github.com/sijad/flarum-ext-github-autolink) - Convert references to Github issues and commits automatically into links.
 
 
 ### Sharing
@@ -199,7 +201,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [Flagrow Subscribed](https://github.com/flagrow/subscribed) - Better user subscriptions for your Flarum forum.
 * [Flagrow Upload](https://github.com/flagrow/upload) - An extension that handles file uploads intelligently for your forum.
 * [Flagrow User Directory](https://github.com/flagrow/user-directory) - An extension that generates a new url /users that provides a list of users, with the ability to sort. You can search through the users from the global search input field, a new item shows up "Search all users for ..".
-* [FoF Links](https://github.com/FriendsOfFlarum/links) - Manage Flarum primary navigation links.
 * [FoF Pages](https://github.com/sijad/flarum-ext-pages) - Create custom static pages in Flarum.
 * [Profile views](https://github.com/MichaelBelgium/flarum-profile-views) - This is an extension for the flarum forum software where you can enable and track how much times a profile has been viewed.
 * `[2018]` [Flagrow Fonts](https://github.com/flagrow/fonts) - Easily add fonts to your Flarum.
