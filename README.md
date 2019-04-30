@@ -48,6 +48,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [Czech (cs)](https://github.com/ogioncz/flarum-ext-czech) by Ogioncz
 * [Czech (cs)](https://github.com/PepaR/flarum-ext-czech) by PepaR
 * [Dutch (nl)](https://github.com/MichaelBelgium/flarum-dutch) by MichaelBelgium
+* [Dutch (nl)](https://github.com/PurpleObject/flarum-dutch) by PurpleObject
 * [French (fr)](https://github.com/milescellar/lang-french)
 * [Hungarian (hu)](https://github.com/manaszon/flarum-ext-hungarian) by Manaszon
 * [Indonesian (id)](https://github.com/realodix/flarum-ext-indonesian)
@@ -90,7 +91,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2018]` [Turkish (tr)](https://github.com/cagatayldzz/lang-turkish) by Cagatayldzz
 * `[2018]` [Turkish (tr)](https://github.com/nrucel/flarum-turkish) by Nrucel
 * `[2018]` [Vietnamese (vi)](https://github.com/ganuonglachanh/flarum-ext-vietnamese)
-* `[2017]` [Dutch (nl)](https://github.com/rodymolenaar/flarum-ext-dutch) by Rodymolenaar
 * `[2017]` [Galician (gl)](https://github.com/albertedevigo/flarum-ext-galician)
 * `[2017]` [Hebrew (he)](https://github.com/icecore2/Flarum-hebrew) by Icecore2
 * `[2017]` [Hebrew (he)](https://github.com/itayganor/flabrew) by Itayganor
