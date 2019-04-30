@@ -81,7 +81,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2018]` [Hungarian (hu)](https://github.com/janosvirag91/flarum-ext-hungarian) by Janosvirag91
 * `[2018]` [Japanese (ja)](https://github.com/naga0ka/flarum-ext-japanese) by Naga0ka
 * `[2018]` [Japanese (ja)](https://github.com/setsunaMC/flarum-ext-japanese) by SetsunaMC
-* `[2018]` [Korean (kr)](https://github.com/Baw-Appie/flarum-lang-korean) by Baw-Appie
+* `[2018]` [Korean (kr)](https://gitlab.com/Baw-Appie/flarum-lang-korean) by Baw-Appie
 * `[2018]` [Mongolian (mn)](https://github.com/ulziibox/flarum-ext-mongolian)
 * `[2018]` [Myanmar (mm)](https://github.com/o92/flarum-ext-myanmar)
 * `[2018]` [Polish (pl)](https://github.com/modInfo/flarum-i18n-polish) by ModInfo
@@ -94,14 +94,9 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2017]` [Galician (gl)](https://github.com/albertedevigo/flarum-ext-galician)
 * `[2017]` [Hebrew (he)](https://github.com/icecore2/Flarum-hebrew) by Icecore2
 * `[2017]` [Hebrew (he)](https://github.com/itayganor/flabrew) by Itayganor
-* `[2017]` [Korean (kr)](https://github.com/Comocozy/flarum-ext-korean) by Comocozy
-* `[2017]` [Polish (pl)](https://github.com/lukaszflorczak/flarum-ext-polish) by LukaszFlorczak
-* `[2017]` [Polish (pl)](https://github.com/priard/flarum-polish) by Priard
 * `[2017]` [Portuguese (pt)](https://github.com/lcbcruz/flarum-portuguese)
 * `[2017]` [Romanian (ro)](https://github.com/bmalex88/flarum-ext-romanian)
 * `[2017]` [Swedish (sv)](https://github.com/heidarKadkhoda/flarum-ext-swedish)
-* `[2017]` [Turkish (tr)](https://github.com/enverarslan/flarum-ext-turkish) by Enverarslan
-* `[2017]` [Turkish (tr)](https://github.com/XEngine/flarum-ext-turkish) by XEngine
 * `[2016]` [Bulgarian (bg)](https://github.com/dyanakiev/flarum-ext-bulgarian)
 * `[2016]` [Danish (da)](https://github.com/berteltorp/Flarum-da-DK)
 * `[2016]` [Finnish (fi)](https://github.com/markokaartinen/flarum-ext-finnish)
