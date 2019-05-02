@@ -44,17 +44,19 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [Bosnian (bs)](https://github.com/ahmic/flarum-lang-bosnian)
 * [Brazilian Portuguese (pt-BR)](https://github.com/DynastyKing/flarum-lang-ptbr) by DynastyKing
 * [Brazilian Portuguese (pt-BR)](https://github.com/tiuram0n/flaneo-ext-brazilian-portuguese) by Tiuram0n
+* [Chinese (zh-hans)](https://github.com/Csineneo/lang-simplified-chinese) by Csineneo
+* [Chinese (zh-hant)](https://github.com/Csineneo/lang-traditional-chinese) by Csineneo
 * [Czech (cs)](https://github.com/ogioncz/flarum-ext-czech) by Ogioncz
 * [Czech (cs)](https://github.com/PepaR/flarum-ext-czech) by PepaR
 * [Dutch (nl)](https://github.com/MichaelBelgium/flarum-dutch) by MichaelBelgium
 * [Dutch (nl)](https://github.com/PurpleObject/flarum-dutch) by PurpleObject
-* [<img src="https://i.imgur.com/AOUzlSa.png" width="13" title="Forum"/>](https://discuss.flarum.org/d/615) [French (fr)](https://github.com/milescellar/lang-french)
+* [French (fr)](https://github.com/milescellar/lang-french)
 * [Hungarian (hu)](https://github.com/manaszon/flarum-ext-hungarian) by Manaszon
-* [<img src="https://i.imgur.com/AOUzlSa.png" width="13" title="Forum"/>](https://discuss.flarum.org/d/1358) [Indonesian (id)](https://github.com/realodix/flarum-ext-indonesian)
+* [Indonesian (id)](https://github.com/realodix/flarum-ext-indonesian)
 * [Italian (it)](https://github.com/Nearata/lang-italian)
 * [Japanese (ja)](https://github.com/Felli/flarum-ext-japanese) by Felli
 * [Japanese (ja)](https://github.com/maa123/flarum-ext-japanese) by Maa123
-* [<img src="https://i.imgur.com/AOUzlSa.png" width="13" title="Forum"/>](https://discuss.flarum.org/d/3787) [Malaysian (my)](https://github.com/ahrasis/bahasa-melayu)
+* [Malaysian (my)](https://github.com/ahrasis/bahasa-melayu)
 * [Norwegian (no)](https://github.com/Menomenta/flarum-ext-norwegian)
 * [Persian (fa)](https://github.com/persianfla/flarum-ext-persian) by Persianfla
 * [Persian (fa)](https://github.com/sijad/flarum-ext-persian) by Sijad
@@ -70,7 +72,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2018]` [Arabic (ar)](https://github.com/hichem2h/flarum-ext-arabic) by Hichem2h
 * `[2018]` [Bengali (bn)](https://github.com/jubayed/flarum-ext-bengali)
 * `[2018]` [Brazilian Portuguese (pt-BR)](https://github.com/renato/flarum-ext-brazilian-portuguese) by Renato
-* `[2018]` [Chinese (zh)](https://github.com/Csineneo/flarum-ext-simplified-chinese) by Csineneo
 * `[2018]` [Chinese (zh)](https://github.com/Flarum-Chinese/flarum-ext-simplified-chinese) by Flarum-Chinese
 * `[2018]` [Chinese (zh)](https://github.com/FlarumChina/flarum-ext-simplified-chinese-pro) by FlarumChina
 * `[2018]` [Georgian (ge)](https://github.com/giagabo/flarum-ext-georgian)
@@ -84,7 +85,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2018]` [Mongolian (mn)](https://github.com/ulziibox/flarum-ext-mongolian)
 * `[2018]` [Myanmar (mm)](https://github.com/o92/flarum-ext-myanmar)
 * `[2018]` [Polish (pl)](https://github.com/modInfo/flarum-i18n-polish) by ModInfo
-* `[2018]` [<img src="https://i.imgur.com/AOUzlSa.png" width="13" title="Forum"/>](https://discuss.flarum.org/d/1545) [Russian (ru)](https://github.com/factory-04/flarum-l10n-forum) by Factory-04
+* `[2018]` [Russian (ru)](https://github.com/factory-04/flarum-l10n-forum) by Factory-04
 * `[2018]` [Slovenian (si)](https://github.com/JuiceN2/flarum-ext-slovenian)
 * `[2018]` [Spanish (es)](https://github.com/FlarumES/Spanish) by FlarumES
 * `[2018]` [Turkish (tr)](https://github.com/cagatayldzz/lang-turkish) by Cagatayldzz
@@ -111,7 +112,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [Auth0 Login](https://github.com/helmgast/flarum-auth0) - Allow users to log in with Auth0.
 * [Eve Login](https://github.com/instkffff/auth-eve) - Allow users to log in with EveOnline.
 * [Flagrow Impersonate](https://github.com/flagrow/impersonate) - Login as other users of your forum.
-* [<img src="https://i.imgur.com/AOUzlSa.png" width="13" title="Forum"/>](https://discuss.flarum.org/d/18399) [FoF reCAPTCHA](https://github.com/FriendsOfFlarum/recaptcha) - Increase your forum's security with Google reCAPTCHA.
+* [FoF reCAPTCHA](https://github.com/FriendsOfFlarum/recaptcha) - Increase your forum's security with Google reCAPTCHA.
 * [Google Login](https://github.com/johnhearfield/flarum-ext-oauth-google) - Allow users to login using their Google account.
 * [LDAP login](https://github.com/tituspijean/flarum-ext-auth-ldap) - Allow users to log in through LDAP.
 * [NomisCZ Steam Login](https://github.com/NomisCZ/flarum-ext-auth-steam) - Allow users to log in with Steam.
@@ -140,12 +141,12 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [Best Answer](https://github.com/wiwatsrt/flarum-ext-best-answer) - Select post best answer.
 * [Comic Sans](https://github.com/clarkwinkelmann/flarum-ext-comicsans) - Turn text into Comic Sans for no reason.
 * [Emoji Picker](https://github.com/clarkwinkelmann/flarum-ext-emojionearea) - Add EmojioneArea emoji picker.
-* [<img src="https://i.imgur.com/AOUzlSa.png" width="13" title="Forum"/>](https://discuss.flarum.org/d/4762) [Flagrow Byōbu](https://github.com/flagrow/byobu) - Well integrated, advanced private discussions.
+* [Flagrow Byōbu](https://github.com/flagrow/byobu) - Well integrated, advanced private discussions.
 * [Flagrow Split](https://github.com/flagrow/split) - Separate posts from one discussion into its own, splits discussions.
-* [<img src="https://i.imgur.com/AOUzlSa.png" width="13" title="Forum"/>](https://discuss.flarum.org/d/18796) [FoF BBCode Details](https://github.com/FriendsOfFlarum/bbcode-details) - Details BBCode.
-* [<img src="https://i.imgur.com/AOUzlSa.png" width="13" title="Forum"/>](https://discuss.flarum.org/d/17770) [FoF Formatting](https://github.com/FriendsOfFlarum/formatting) - Customize TextFormatter with plugins through the admin interface.
-* [<img src="https://i.imgur.com/AOUzlSa.png" width="13" title="Forum"/>](https://discuss.flarum.org/d/19460) [FoF Merge Discussions](https://github.com/FriendsOfFlarum/merge-discussions) - Merge two or more discussions into one.
-* [<img src="https://i.imgur.com/AOUzlSa.png" width="13" title="Forum"/>](https://discuss.flarum.org/d/18312) [FoF Prevent Necrobumping](https://github.com/FriendsOfFlarum/prevent-necrobumping) - Warn before necrobumping old discussions.
+* [FoF BBCode Details](https://github.com/FriendsOfFlarum/bbcode-details) - Details BBCode.
+* [FoF Formatting](https://github.com/FriendsOfFlarum/formatting) - Customize TextFormatter with plugins through the admin interface.
+* [FoF Merge Discussions](https://github.com/FriendsOfFlarum/merge-discussions) - Merge two or more discussions into one.
+* [FoF Prevent Necrobumping](https://github.com/FriendsOfFlarum/prevent-necrobumping) - Warn before necrobumping old discussions.
 * [Markdown Tables](https://github.com/KevID/flarum-pipetables) - Active markdown tables.
 * [ReFlar Reactions](https://github.com/ReFlar/reactions) - Adds reactions to your community.
 * [Spoiler BBCode](https://github.com/oaklinq/flarum-ext-spoiler-bbcode) - Adds a ``[Spoiler]`` BBCode.
@@ -172,7 +173,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2017]` [Markdown Editor](https://github.com/ganuonglachanh/flarum-ext-markdown-editor) - Simple toolbar buttons for easier editing of markdown.
 * `[2017]` [Post Copyright](https://github.com/WiseClock/flarum-ext-post-copyright) - Enables copyright settings on posts.
 * `[2017]` [Quill Editor](https://github.com/esledov/flarum-ext-quill) - Quill WYSIWYG (what you see is what you get) editor.
-* `[2017]` [Split](https://github.com/dav-is/flarum-ext-split) - Split a forum discussion into single discussions.
 * `[2016]` [OpenGraph](https://github.com/ItalianSpaceAstronauticsAssociation/flarum-isaa-opengraph) - Embedding opengraph content.
 
 
@@ -180,7 +180,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [Auto Image and Video](https://github.com/CleverLoginName/flarum-ext-autoimage-autovideo) - Automatically turn image links into images & video links into videos.
 * [Fajuu - Icons Changer](https://github.com/Fajuu/flarum-icons) - Adds the ability to change the style of icons and change the individual icons.
 * [FancyBox](https://github.com/squeevee/flarum-ext-fancybox) - Image formatting and lightbox modal using FancyBox. (see [fancyapps.com/fancybox](https://fancyapps.com/fancybox)).
-* [<img src="https://i.imgur.com/AOUzlSa.png" width="13" title="Forum"/>](https://discuss.flarum.org/d/4154) [Flagrow Upload](https://github.com/flagrow/upload) - An extension that handles file uploads intelligently for your forum.
+* [Flagrow Upload](https://github.com/flagrow/upload) - An extension that handles file uploads intelligently for your forum.
 * [FoF Profile Image Crop](https://github.com/FriendsOfFlarum/profile-image-crop) - Allow cropping when uploading profile picture.
 * [ImgOss Upload](https://github.com/xiaoheheyo/flarum-imgupload-oss) - Simple image upload from the Flarum editor.
 * [Imgur Upload](https://github.com/matteocontrini/flarum-imgur-upload) by Matteocontrini - Simple image upload from the Flarum editor.
@@ -193,7 +193,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 ### Admin Area
 * [Analytics](https://github.com/flagrow/flarum-ext-analytics) - Provides your forum Piwik and Google Analytics features.
 * [Dashboard](https://github.com/datitisev/flarum-ext-admindashboard) - This completely re-imagines the admin interface.
-* [<img src="https://i.imgur.com/AOUzlSa.png" width="13" title="Forum"/>](https://discuss.flarum.org/d/5151) [Flagrow Bazaar](https://github.com/flagrow/bazaar) - The marketplace extension that allows you to add and remove extensions without composer or a terminal.
+* [Flagrow Bazaar](https://github.com/flagrow/bazaar) - The marketplace extension that allows you to add and remove extensions without composer or a terminal.
 * [Flagrow Linguist](https://github.com/flagrow/linguist) - Customize translations with ease.
 * [Flagrow Mason](https://github.com/flagrow/mason) - The discussion custom fields builder.
 * [Flagrow User Directory](https://github.com/flagrow/user-directory) - Generates a new URL / users that provides a list of users, with the ability to sort. You can search through the users from the global search input field, a new item shows up "Search all users for ..".
@@ -220,11 +220,11 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 ### Link
 * [Canonical URL](https://github.com/migratetoflarum/canonical) - Create redirects to the canonical url of your forum.
 * [Flagrow Affiliation Links](https://github.com/flagrow/affiliation-links) - Automatically turn links into custom affiliate or redirect links.
-* [<img src="https://i.imgur.com/AOUzlSa.png" width="13" title="Forum"/>](https://discuss.flarum.org/d/18335) [FoF Links](https://github.com/FriendsOfFlarum/links) - Manage Flarum primary navigation links.
+* [FoF Links](https://github.com/FriendsOfFlarum/links) - Manage Flarum primary navigation links.
 * `[2018]` [Flagrow Amazon Affiliation](https://github.com/flagrow/amazon-affiliation) - Add your Amazon Affiliate tag to Amazon links.
 * `[2018]` [Flagrow Direct Links](https://github.com/flagrow/direct-links) - Adds direct links to various Flarum actions.
-* `[2018]` [<img src="https://i.imgur.com/AOUzlSa.png" width="13" title="Forum"/>](https://discuss.flarum.org/d/17771) [FoF Secure HTTPS](https://github.com/FriendsOfFlarum/secure-https) - Changes all images using http to https.
-* `[2018]` [<img src="https://i.imgur.com/AOUzlSa.png" width="13" title="Forum"/>](https://discuss.flarum.org/d/18074) [FoF URL Transliterator](https://github.com/FriendsOfFlarum/transliterator) - Transliterate non-ASCII characters in discussion URL.
+* `[2018]` [FoF Secure HTTPS](https://github.com/FriendsOfFlarum/secure-https) - Changes all images using http to https.
+* `[2018]` [FoF URL Transliterator](https://github.com/FriendsOfFlarum/transliterator) - Transliterate non-ASCII characters in discussion URL.
 * `[2018]` [Follow Links BBCODE](https://github.com/sijad/flarum-ext-github-autolink) - Remove nofollow attribute from links using BBCODE.
 * `[2018]` [GitHub Autolink](https://github.com/sijad/flarum-ext-github-autolink) - Convert references to GitHub issues and commits automatically into links.
 
@@ -238,14 +238,14 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 ### User
 * [Contact](https://github.com/ffRunKey/contact) - Add user contact information.
 * [Flagrow Subscribed](https://github.com/flagrow/subscribed) - Better user subscriptions for your forum.
-* [<img src="https://i.imgur.com/AOUzlSa.png" width="13" title="Forum"/>](https://discuss.flarum.org/d/18607) [FoF Default User Preferences](https://github.com/FriendsOfFlarum/default-user-preferences) - Enable emails for replies and mentions by default in user preferences.
-* [<img src="https://i.imgur.com/AOUzlSa.png" width="13" title="Forum"/>](https://discuss.flarum.org/d/18775) [FoF Social Profile](https://github.com/FriendsOfFlarum/socialprofile) - Add custom social media pages to your user profile.
-* [<img src="https://i.imgur.com/AOUzlSa.png" width="13" title="Forum"/>](https://discuss.flarum.org/d/17775) [FoF User Bio](https://github.com/FriendsOfFlarum/user-bio) - Add the user bio back into Flarum.
+* [FoF Default User Preferences](https://github.com/FriendsOfFlarum/default-user-preferences) - Enable emails for replies and mentions by default in user preferences.
+* [FoF Social Profile](https://github.com/FriendsOfFlarum/socialprofile) - Add custom social media pages to your user profile.
+* [FoF User Bio](https://github.com/FriendsOfFlarum/user-bio) - Add the user bio back into Flarum.
 * `[2018]` [Avataaars](https://github.com/ReFlar/Avataaars) - Make a beautiful personal avatar easily.
 * `[2018]` [Flagrow Masquerade](https://github.com/flagrow/masquerade) - User profile builder extension for your forum.
 * `[2018]` [Flagrow Terms](https://github.com/flagrow/terms) - Ask your users to accept TOS and privacy policy.
-* `[2018]` [<img src="https://i.imgur.com/AOUzlSa.png" width="13" title="Forum"/>](https://discuss.flarum.org/d/18158) [FoF Default Group](https://github.com/FriendsOfFlarum/default-group) - Assign a default group to new users automatically.
-* `[2018]` [<img src="https://i.imgur.com/AOUzlSa.png" width="13" title="Forum"/>](https://discuss.flarum.org/d/17772) [FoF Spamblock](https://github.com/FriendsOfFlarum/spamblock) - Mark user as spammer, suspending them & hiding their posts and discussions.
+* `[2018]` [FoF Default Group](https://github.com/FriendsOfFlarum/default-group) - Assign a default group to new users automatically.
+* `[2018]` [FoF Spamblock](https://github.com/FriendsOfFlarum/spamblock) - Mark user as spammer, suspending them & hiding their posts and discussions.
 * `[2018]` [Online](https://github.com/AntoineFr/flarum-ext-online) - Display online users on the left sidebar.
 * `[2018]` [ReFlar Clean Profile Posts](https://github.com/ReFlar/clean-profile-posts) - Removes the initial posts of discussions from the user's profile posts list.
 
@@ -261,9 +261,9 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 
 
 ### Custom Page
-* [<img src="https://i.imgur.com/AOUzlSa.png" width="13" title="Forum"/>](https://discuss.flarum.org/d/17774) [FoF Custom Footer](https://github.com/FriendsOfFlarum/custom-footer) - Allows the addition of a custom footer.
-* [<img src="https://i.imgur.com/AOUzlSa.png" width="13" title="Forum"/>](https://discuss.flarum.org/d/19256) [FoF FrontPage](https://github.com/FriendsOfFlarum/frontpage) - Push discussions to the front of your Flarum forum index.
-* [<img src="https://i.imgur.com/AOUzlSa.png" width="13" title="Forum"/>](https://discuss.flarum.org/d/18301) [FoF Pages](https://github.com/FriendsOfFlarum/pages) - Create custom pages with Flarum.
+* [FoF Custom Footer](https://github.com/FriendsOfFlarum/custom-footer) - Allows the addition of a custom footer.
+* [FoF FrontPage](https://github.com/FriendsOfFlarum/frontpage) - Push discussions to the front of your Flarum forum index.
+* [FoF Pages](https://github.com/FriendsOfFlarum/pages) - Create custom pages with Flarum.
 * [Landing Page](https://github.com/johnhearfield/flarum-ext-landing-page) - Customizable landing page for non-logged in users.
 * [ReFlar Inject Mithril Components](https://github.com/ReFlar/inject-mithril-components) - Inject [Mithril](https://mithril.js.org/) components into your pages using native HTML.
 * `[2018]` [Flagrow HTML Errors](https://github.com/flagrow/html-errors) - Add custom HTML error pages.
