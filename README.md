@@ -181,7 +181,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 
 
 ### Media ([:top:](#table-of-contents))
-* [Auto Image and Video](https://github.com/CleverLoginName/flarum-ext-autoimage-autovideo) - Automatically turn image links into images & video links into videos.
 * [Fajuu - Icons Changer](https://github.com/Fajuu/flarum-icons) - Adds the ability to change the style of icons and change the individual icons.
 * [FancyBox](https://github.com/squeevee/flarum-ext-fancybox) - Image formatting and lightbox modal using FancyBox. (see [fancyapps.com/fancybox](https://fancyapps.com/fancybox)).
 * [Flagrow Upload](https://github.com/flagrow/upload) - An extension that handles file uploads intelligently for your forum.
