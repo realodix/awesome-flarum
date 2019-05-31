@@ -181,7 +181,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [Imgur Upload](https://github.com/matteocontrini/flarum-imgur-upload) by Matteocontrini - Simple image upload from the Flarum editor.
 * `[2018]` [AutoImage](https://github.com/ozzzzam/flarum-ext-autoimage) - Automatically turn image links into images.
 * `[2018]` [Chords](https://github.com/zerosonesfun/flarum-ext-chords) - Post basic sheet music.
-* `[2017]` [Imgur Upload](https://github.com/matpompili/flarum-imgur-upload) by Matpompili - Enable the upload of images to imgur directly from the Composer.
 
 
 ### Admin Area ([:top:](#table-of-contents))
