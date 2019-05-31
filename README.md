@@ -168,7 +168,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2018]` [ReFlar LaTeX](https://github.com/ReFlar/latex) - Renders LaTeX expressions.
 * `[2018]` [Reply2See](https://github.com/WiseClock/flarum-ext-reply2see) - Adds a reply to see BBCode.
 * `[2018]` [Signature](https://github.com/Extum/flarum-ext-signature) - Signature support to your forum.
-* `[2017]` [BBCode Cards](https://github.com/0E800/flarum-ext-bbcode-cards) - Embed cards and articles inside discussion posts.
 * `[2017]` [BBCode FA](https://github.com/AntoineFr/flarum-ext-bbcode-fa) - Insert Font Awesome icons in your posts.
 * `[2017]` [BBCode Pastebin](https://github.com/0E800/flarum-ext-bbcode-pastebin) - Embed Pastebin.com inside discussion posts.
 * `[2017]` [BBCode Progress Bars](https://github.com/0E800/flarum-ext-bbcode-bars) - Embed progress bars inside Flarum post.
