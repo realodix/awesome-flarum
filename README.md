@@ -196,7 +196,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2018]` [Flagrow Ads](https://github.com/flagrow/ads) - Allows you to configure ads in several locations.
 * `[2018]` [Flagrow Users List](https://github.com/flagrow/users-list) - Adds users list to admin panel.
 * `[2018]` [ReFlar UnCache](https://github.com/ReFlar/UnCache) - Automatically clear the cache when you enable a new extension.
-* `[2017]` [Event Tracking](https://github.com/SurfEdge/flarum-ext-event-tracking) - Track events for Google Analytics.
 
 
 ### SEO ([:top:](#table-of-contents))
