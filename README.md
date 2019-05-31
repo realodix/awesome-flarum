@@ -298,7 +298,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2018]` [Search](https://github.com/ganuonglachanh/flarum-ganuonglachanh-search) - Allows to search by discusstion title.
 * `[2018]` [Time Machine](https://github.com/Extum/flarum-ext-time-machine) - Modify the time of your posts, user registrations and more by travelling back in time.
 * `[2018]` [Web Push Notification](https://github.com/KevID/flarum-ext-web-push-notification) - Adds Web Push notification feature to flarum with OneSignal service.
-* `[2017]` [Faraday Motion Notifications](https://github.com/faraday-motion/flarum-faraday-motion-notifications) - Automatically enable email notifications for the new registered users.
 * `[Archived]` [ReFlar Koseki](https://github.com/ReFlar/koseki) - Tidy up your forum with a structured hierarchical layout.
 
 
