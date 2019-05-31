@@ -135,7 +135,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2018]` [SSOwat login](https://github.com/tituspijean/flarum-ext-auth-ssowat) - Allow users to login through SSOwat.
 * `[2018]` [Wordpress Login](https://github.com/krombox/flarum-ext-auth-wordpress) - Allow users to login with your WordPress site.
 * `[2018]` [Yahoo Login](https://github.com/Extum/flarum-ext-auth-yahoo) - Login to your forum using their Yahoo account.
-* `[2017]` [Auth Redirect](https://github.com/empewoow/flarum-ext-auth-redirect) - Redirect authentication methods; login, logout, and register links.
 
 
 ### Discussion ([:top:](#table-of-contents))
