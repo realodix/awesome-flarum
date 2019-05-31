@@ -170,7 +170,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2018]` [Signature](https://github.com/Extum/flarum-ext-signature) - Signature support to your forum.
 * `[2017]` [BBCode FA](https://github.com/AntoineFr/flarum-ext-bbcode-fa) - Insert Font Awesome icons in your posts.
 * `[2017]` [BBCode Progress Bars](https://github.com/0E800/flarum-ext-bbcode-bars) - Embed progress bars inside Flarum post.
-* `[2017]` [BBCode Special](https://github.com/0E800/flarum-ext-bbcode-special) - Add special BBCode text effects / objects.
 * `[2017]` [Quill Editor](https://github.com/esledov/flarum-ext-quill) - Quill WYSIWYG (what you see is what you get) editor.
 
 
