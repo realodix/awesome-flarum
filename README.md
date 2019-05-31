@@ -168,7 +168,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2018]` [ReFlar LaTeX](https://github.com/ReFlar/latex) - Renders LaTeX expressions.
 * `[2018]` [Reply2See](https://github.com/WiseClock/flarum-ext-reply2see) - Adds a reply to see BBCode.
 * `[2018]` [Signature](https://github.com/Extum/flarum-ext-signature) - Signature support to your forum.
-* `[2017]` [BBCode FA](https://github.com/AntoineFr/flarum-ext-bbcode-fa) - Insert Font Awesome icons in your posts.
 * `[2017]` [Quill Editor](https://github.com/esledov/flarum-ext-quill) - Quill WYSIWYG (what you see is what you get) editor.
 
 
