@@ -201,12 +201,12 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 
 
 ### Media ([:top:](#table-of-contents))
+* [AutoImage](https://github.com/s9e/flarum-ext-autoimage) - Automatically turn image links into images.
 * [Chords](https://github.com/zerosonesfun/flarum-ext-chords) - Post basic sheet music.
 * [Fajuu - Icons Changer](https://github.com/Fajuu/flarum-icons) - Adds the ability to change the style of icons and change the individual icons.
 * [FancyBox](https://github.com/squeevee/flarum-ext-fancybox) - Image formatting and lightbox modal using FancyBox. (see [fancyapps.com/fancybox](https://fancyapps.com/fancybox)).
 * [ImgOss Upload](https://github.com/xiaoheheyo/flarum-imgupload-oss) - Simple image upload from the Flarum editor.
 * [Imgur Upload](https://github.com/matteocontrini/flarum-imgur-upload) by Matteocontrini - Simple image upload from the Flarum editor.
-* `[2018]` [AutoImage](https://github.com/ozzzzam/flarum-ext-autoimage) - Automatically turn image links into images.
 
 
 ### Admin Area ([:top:](#table-of-contents))
