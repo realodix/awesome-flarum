@@ -213,7 +213,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [Bazaar](https://github.com/extiverse/bazaar) - The marketplace extension that allows you to add and remove extensions without composer or a terminal.
 * [Dashboard](https://github.com/datitisev/flarum-ext-admindashboard) - This completely re-imagines the admin interface.
 * [Keyboard Shortcuts](https://github.com/oaklinq/flarum-ext-keyboard-shortcuts) - Adds keyboard shortcuts.
-* [List Users](https://github.com/velcis/user-list) - List registered users in admin panel.
 * [Money](https://github.com/AntoineFr/flarum-ext-money) - Give money to your users for different actions.
 * [Notify](https://github.com/manelizzard/flarum-notify) - Get notified about forum activity in Slack, HipChat, Gitter or Telegram.
 * [Syndication](https://github.com/AmauryCarrade/flarum-ext-syndication) - Brings RSS and Atom feeds.
