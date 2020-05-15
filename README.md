@@ -88,21 +88,30 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [Arabic (ar)](https://github.com/ziymed/lang-arabic) by Ziymed
 * [Brazilian Portuguese (pt-BR)](https://github.com/tiuram0n/flaneo-ext-brazilian-portuguese) by Tiuram0n
 * [Chinese (zh-hans)](https://github.com/Csineneo/lang-simplified-chinese) by Csineneo
+* [Chinese (zh-hans)](https://github.com/Littlegolden/flarum-lang-simplified-chinese) by CLittlegolden
 * [Chinese (zh-hant)](https://github.com/Csineneo/lang-traditional-chinese) by Csineneo
 * [Dutch (nl)](https://github.com/MichaelBelgium/flarum-dutch) by MichaelBelgium
-* [French (fr)](https://github.com/milescellar/lang-french)
+* [French (fr)](https://github.com/milescellar/lang-french) by Milescellar
+* [French (fr)](https://github.com/rooaaar/lang-french-extended) by Rooaaar
 * [German (de)](https://github.com/Kakifrucht/flarum-de)
 * [Hebrew (he)](https://github.com/itayganor/flabrew) by Itayganor
 * [Hungarian (hu)](https://github.com/manaszon/flarum-ext-hungarian) by Manaszon
 * [Indonesian (id)](https://github.com/realodix/flarum-ext-indonesian)
 * [Italian (it)](https://github.com/Nearata/lang-italian)
+* [Japanese (ja)](https://github.com/Littlegolden/flarum-lang-japanese) by Littlegolden
+* [Japanese (ja)](https://github.com/takumi9942/flarum-ext-japanese) by Takumi9942
 * [Norwegian Bokmål (nb)](https://github.com/pladask/flarum-ext-norwegian-bokmal)
+* [Occitan (oc)](https://github.com/Mejans/lang-occitan)
 * [Persian (fa)](https://github.com/sijad/flarum-ext-persian) by Sijad
+* [Portuguese (pt-PT)](https://github.com/bertaveira/flarum-pt-pt) by Bertaveira
 * [Russian (ru)](https://gitlab.com/marketplace-flarum/languages/flarum-l10n-core-russian) by [Flarum Marketplace](https://gitlab.com/marketplace-flarum)
+* [Slovak (sk)](https://github.com/CWKevo/flarum-lang-slovak)
 * [Turkish (tr)](https://github.com/cagatayldzz/lang-turkish) by Cagatayldzz
+* [Turkish (tr)](https://github.com/tolgaaaltas/flarum-lang-turkish) by Tolgaaaltas
+* [Vietnamese (vi)](https://github.com/datlechin/lang-vietnamese) by Datlechin
 * `[2019]` [Azerbaijani (az)](https://github.com/Niluthon/flarum-ext-azerbaijany)
 * `[2019]` [Bosnian (bs)](https://github.com/ahmic/flarum-lang-bosnian)
-* `[2019]` [Brazilian Portuguese (pt-BR)](https://github.com/arbezerra/flarum-lang-ptbr) by Arbezerra
+* `[2019]` [Portuguese (pt-BR)](https://github.com/arbezerra/flarum-lang-ptbr) by Arbezerra
 * `[2019]` [Czech (cs)](https://github.com/ogioncz/flarum-ext-czech) by Ogioncz
 * `[2019]` [Czech (cs)](https://github.com/PepaR/flarum-ext-czech) by PepaR
 * `[2019]` [Dutch (nl)](https://github.com/PurpleObject/flarum-dutch) by PurpleObject
@@ -137,7 +146,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2018]` [Slovenian (si)](https://github.com/JuiceN2/flarum-ext-slovenian)
 * `[2018]` [Spanish (es)](https://github.com/FlarumES/Spanish) by FlarumES
 * `[2018]` [Turkish (tr)](https://github.com/nrucel/flarum-turkish) by Nrucel
-* `[2018]` [Vietnamese (vi)](https://github.com/ganuonglachanh/flarum-ext-vietnamese)
+* `[2018]` [Vietnamese (vi)](https://github.com/ganuonglachanh/flarum-ext-vietnamese) by Ganuonglachanh
 * `[2017]` [Galician (gl)](https://github.com/albertedevigo/flarum-ext-galician)
 * `[2017]` [Hebrew (he)](https://github.com/icecore2/Flarum-hebrew) by Icecore2
 * `[2017]` [Portuguese (pt)](https://github.com/lcbcruz/flarum-portuguese)
@@ -306,15 +315,14 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 
 
 ### Utilities ([:top:](#table-of-contents))
-* [Convert your beta 7 compatible extension to work on beta 8](https://discuss.flarum.org/d/6573)
 * [Extension Generator by FoF](https://github.com/FriendsOfFlarum/extension-generator) - Create a Flarum extension from a boilerplate in minutes!
 * [Flarum API client](https://github.com/flagrow/flarum-api-client) - Standalone package for calling the API of a Flarum installation.
 * [Flarum Management](https://discuss.flarum.org/d/5158) - Manage Flarum installs.
 * [Flarum Userscript EasyOnTheEyes](https://github.com/moutonnoireu/flarum-userscript-eote) - Flarum is great but at night, your eyes might suffer from all this whitey colors. Here comes this userscript.
-* `[Migration]` [FluxBB to Flarum](https://github.com/mondediefr/fluxbb_to_flarum) - FluxBB to Flarum importer.
 * `[Migration]` [MyBB to Flarum](https://github.com/MichaelBelgium/mybb_to_flarum) - A PHP migration script to convert a MyBB forum to a fresh Flarum install.
 * `[Migration]` [phpBB to Flarum](https://github.com/robrotheram/phpbb_to_flarum) - Migration script from PHPBB to Flarum.
 * `[Migration]` [SMF2 to Flarum](https://github.com/ItalianSpaceAstronauticsAssociation/smf2_to_flarum) - SMF2 to Flarum DB importer.
+* `[Archived]` `[Migration]` [FluxBB to Flarum](https://github.com/mondediefr/fluxbb_to_flarum) - FluxBB to Flarum importer.
 
 
 ### Mobile App ([:top:](#table-of-contents))
