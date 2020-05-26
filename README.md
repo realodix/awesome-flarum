@@ -152,13 +152,13 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2017]` [Hebrew (he)](https://github.com/icecore2/Flarum-hebrew) by Icecore2
 * `[2017]` [Portuguese (pt)](https://github.com/lcbcruz/flarum-portuguese)
 * `[2017]` [Swedish (sv)](https://github.com/heidarKadkhoda/flarum-ext-swedish)
-* `[2016]` [Bulgarian (bg)](https://github.com/dyanakiev/flarum-ext-bulgarian)
 * `[2016]` [Danish (da)](https://github.com/berteltorp/Flarum-da-DK)
 * `[2016]` [Finnish (fi)](https://github.com/markokaartinen/flarum-ext-finnish)
 * `[2016]` [Lithuanian (lt)](https://github.com/Yiin/flarum-ext-lithuanian)
 * `[2016]` [Norwegian Nynorsk (nn)](https://github.com/pladask/flarum-ext-norwegian-nynorsk)
 * `[2016]` [Serbian (Latin Script) (sr-Latn)](https://github.com/laravelrs/flarum-ext-serbian-latin)
 * `[2016]` [Uzbek (uz)](https://github.com/beendeen/Uzon)
+* `[Archived]` [Bulgarian (bg)](https://github.com/dyanakiev/flarum-ext-bulgarian)
 * `[Archived]` [Swedish](https://github.com/nlssn/flarum-ext-swedish) by Nlssn
 
 
