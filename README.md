@@ -87,7 +87,6 @@ Most likely not compatible with the latest version of Flarum. You need to modify
 Flarum comes with an English language pack; however, the Flarum Community has produced a large number of translations other languages — find yours here.
 
 * [Arabic (ar)](https://github.com/ziymed/lang-arabic) by Ziymed
-* [Brazilian Portuguese (pt-BR)](https://github.com/tiuram0n/flaneo-ext-brazilian-portuguese) by Tiuram0n
 * [Chinese (zh-hans)](https://github.com/Csineneo/lang-simplified-chinese) by Csineneo
 * [Chinese (zh-hans)](https://github.com/Littlegolden/flarum-lang-simplified-chinese) by CLittlegolden
 * [Chinese (zh-hant)](https://github.com/Csineneo/lang-traditional-chinese) by Csineneo
@@ -104,6 +103,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [Norwegian Bokmål (nb)](https://github.com/pladask/flarum-ext-norwegian-bokmal)
 * [Occitan (oc)](https://github.com/Mejans/lang-occitan)
 * [Persian (fa)](https://github.com/sijad/flarum-ext-persian) by Sijad
+* [Portuguese (pt-BR)](https://github.com/tiuram0n/flaneo-ext-brazilian-portuguese) by Tiuram0n
 * [Portuguese (pt-PT)](https://github.com/bertaveira/flarum-pt-pt) by Bertaveira
 * [Russian (ru)](https://gitlab.com/marketplace-flarum/languages/flarum-l10n-core-russian) by [Flarum Marketplace](https://gitlab.com/marketplace-flarum)
 * [Slovak (sk)](https://github.com/CWKevo/flarum-lang-slovak)
@@ -112,7 +112,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [Vietnamese (vi)](https://github.com/datlechin/lang-vietnamese) by Datlechin
 * `[2019]` [Azerbaijani (az)](https://github.com/Niluthon/flarum-ext-azerbaijany)
 * `[2019]` [Bosnian (bs)](https://github.com/ahmic/flarum-lang-bosnian)
-* `[2019]` [Portuguese (pt-BR)](https://github.com/arbezerra/flarum-lang-ptbr) by Arbezerra
 * `[2019]` [Czech (cs)](https://github.com/ogioncz/flarum-ext-czech) by Ogioncz
 * `[2019]` [Czech (cs)](https://github.com/PepaR/flarum-ext-czech) by PepaR
 * `[2019]` [Dutch (nl)](https://github.com/PurpleObject/flarum-dutch) by PurpleObject
@@ -123,6 +122,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2019]` [Norwegian (no)](https://github.com/Menomenta/flarum-ext-norwegian)
 * `[2019]` [Persian (fa)](https://github.com/persianfla/flarum-ext-persian) by Persianfla
 * `[2019]` [Polish (pl)](https://github.com/bepropl/lang-polish) by Bepropl
+* `[2019]` [Portuguese (pt-BR)](https://github.com/arbezerra/flarum-lang-ptbr) by Arbezerra
 * `[2019]` [Spanish (es)](https://github.com/darkfoxdeveloper/flarum-ext-spanish) by Darkfoxdeveloper
 * `[2019]` [Thailand (th)](https://github.com/drsaluml/flarum-ext-thai) by Drsaluml
 * `[2019]` [Thailand (th)](https://github.com/wiwatsrt/flarum-ext-thai) by Wiwatsrt
