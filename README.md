@@ -31,6 +31,7 @@
 Some are not compatible with the latest version of Flarum.
 
 * **`[Archived]`** - This repository has been archived by the owner. It is now read-only.
+* **`[2019]`** - Last updated in 2019.
 * **`[2018]`** - Last updated in 2018.
 
 Most likely not compatible with the latest version of Flarum. You need to modify it to be compatible.
