@@ -6,7 +6,7 @@
 
 - [Extensions](#extensions)
   - [Language Pack](#language-pack-top)
-  - [Authentication & Authorization](##authentication--authorization-top)
+  - [Authentication & Authorization](#authentication--authorization-top)
   - [Discussion](#discussion-top)
   - [Media](#media-top)
   - [Admin Area](#admin-area-top)
@@ -30,12 +30,12 @@
 
 Some are not compatible with the latest version of Flarum.
 
-* **`[Archived]`** - This repository has been archived by the owner. It is now read-only.
 * **`[2019]`** - Last updated in 2019.
-* **`[2018]`** - Last updated in 2018.
 
 Most likely not compatible with the latest version of Flarum. You need to modify it to be compatible.
 
+* **`[Archived]`** - This repository has been archived by the owner. It is now read-only.
+* **`[2018]`** - Last updated in 2018.
 * **`[2017]`** - Last updated in 2017.
 * **`[2016]`** - Last updated in 2016.
 
