@@ -77,7 +77,7 @@ Most likely not compatible with the latest version of Flarum. You need to modify
 * [FoF User Bio](https://github.com/FriendsOfFlarum/user-bio) - Add the user bio back into Flarum.
 * [FoF User Directory](https://github.com/FriendsOfFlarum/user-directory) - The permission based public user directory extension.
 * [FoF Username Request](https://github.com/FriendsOfFlarum/username-request) - Allow users to request new usernames
-* [Mason](https://github.com/flagrow/mason) - The discussion custom fields builder.
+* [Mason](https://github.com/FriendsOfFlarum/mason) - The discussion custom fields builder.
 * [Upload](https://github.com/FriendsOfFlarum/upload) - An extension that handles file uploads intelligently.
 * `[2018]` [FoF Default Group](https://github.com/FriendsOfFlarum/default-group) - Assign a default group to new users automatically.
 * `[2018]` [FoF Secure HTTPS](https://github.com/FriendsOfFlarum/secure-https) - Changes all images using HTTP to HTTPS.
