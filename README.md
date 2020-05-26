@@ -99,6 +99,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [Indonesian (id)](https://github.com/realodix/flarum-ext-indonesian)
 * [Italian (it)](https://github.com/Nearata/lang-italian)
 * [Japanese (ja)](https://github.com/Littlegolden/flarum-lang-japanese) by Littlegolden
+* [Japanese (ja)](https://github.com/maa123/flarum-ext-japanese) by Maa123
 * [Japanese (ja)](https://github.com/takumi9942/flarum-ext-japanese) by Takumi9942
 * [Norwegian Bokmål (nb)](https://github.com/pladask/flarum-ext-norwegian-bokmal)
 * [Occitan (oc)](https://github.com/Mejans/lang-occitan)
@@ -116,7 +117,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2019]` [Czech (cs)](https://github.com/PepaR/flarum-ext-czech) by PepaR
 * `[2019]` [Dutch (nl)](https://github.com/PurpleObject/flarum-dutch) by PurpleObject
 * `[2019]` [Japanese (ja)](https://github.com/Felli/lang-japanese) by Felli
-* `[2019]` [Japanese (ja)](https://github.com/maa123/flarum-ext-japanese) by Maa123
 * `[2019]` [Japanese (ja)](https://github.com/setsunaMC/flarum-ext-japanese) by SetsunaMC
 * `[2019]` [Malaysian (my)](https://github.com/ahrasis/bahasa-melayu)
 * `[2019]` [Norwegian (no)](https://github.com/Menomenta/flarum-ext-norwegian)
