@@ -112,6 +112,7 @@ Most likely not compatible with the latest version of Flarum. You need to modify
 Flarum comes with an English language pack; however, the Flarum Community has produced a large number of translations other languages — find yours here.
 
 * [Arabic (ar)](https://github.com/ziymed/lang-arabic) by Ziymed
+* [Basque (eu)](https://github.com/rierte12/flarum-basque)
 * [Chinese (zh-hans)](https://github.com/Csineneo/lang-simplified-chinese) by Csineneo
 * [Chinese (zh-hans)](https://github.com/Littlegolden/flarum-lang-simplified-chinese) by CLittlegolden
 * [Chinese (zh-hant)](https://github.com/Csineneo/lang-traditional-chinese) by Csineneo
@@ -132,6 +133,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [Portuguese (pt-BR)](https://github.com/tiuram0n/flaneo-ext-brazilian-portuguese) by Tiuram0n
 * [Portuguese (pt-PT)](https://github.com/bertaveira/flarum-pt-pt) by Bertaveira
 * [Russian (ru)](https://gitlab.com/marketplace-flarum/languages/flarum-l10n-core-russian) by [Flarum Marketplace](https://gitlab.com/marketplace-flarum)
+* [Serbian (sr)](https://github.com/bryantmilan/lang-serbian)
 * [Slovak (sk)](https://github.com/CWKevo/flarum-lang-slovak)
 * [Spanish (es)](https://github.com/darkfoxdeveloper/flarum-ext-spanish) by Darkfoxdeveloper
 * [Turkish (tr)](https://github.com/cagatayldzz/lang-turkish) by Cagatayldzz
