@@ -15,7 +15,6 @@
   - [Sharing](#sharing-top)
   - [User](#user-top)
   - [Mail](#mail-top)
-  - [Custom Page](#custom-page-top)
   - [Theme Enhancements](#theme-enhancements-top)
   - [Others](#others-top)
 - [Resources](#resources)
@@ -103,6 +102,7 @@ Most likely not compatible with the latest version of Flarum. You need to modify
   * [Upload](https://github.com/FriendsOfFlarum/upload) - An extension that handles file uploads intelligently.
   * `[2019]` [FoF GitLab Login](https://github.com/FriendsOfFlarum/auth-gitlab) - Allow users to log in with GitLab. 
   * `[2019]` [FoF Masquerade](https://github.com/FriendsOfFlarum/masquerade) - User profile builder extension for your forum.
+  * `[2019]` [FoF Pretty Mail](https://github.com/FriendsOfFlarum/pretty-mail) - Allows you to make custom HTML templates for emails.
   * `[2018]` [FoF Default Group](https://github.com/FriendsOfFlarum/default-group) - Assign a default group to new users automatically.
   * `[2018]` [FoF Secure HTTPS](https://github.com/FriendsOfFlarum/secure-https) - Changes all images using HTTP to HTTPS.
 </details>
@@ -137,22 +137,26 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [Turkish (tr)](https://github.com/cagatayldzz/lang-turkish) by Cagatayldzz
 * [Turkish (tr)](https://github.com/tolgaaaltas/flarum-lang-turkish) by Tolgaaaltas
 * [Vietnamese (vi)](https://github.com/datlechin/lang-vietnamese) by Datlechin
-* `[2019]` [Azerbaijani (az)](https://github.com/Niluthon/flarum-ext-azerbaijany)
-* `[2019]` [Bosnian (bs)](https://github.com/ahmic/flarum-lang-bosnian)
-* `[2019]` [Czech (cs)](https://github.com/ogioncz/flarum-ext-czech) by Ogioncz
-* `[2019]` [Czech (cs)](https://github.com/PepaR/flarum-ext-czech) by PepaR
-* `[2019]` [Dutch (nl)](https://github.com/PurpleObject/flarum-dutch) by PurpleObject
-* `[2019]` [Japanese (ja)](https://github.com/Felli/lang-japanese) by Felli
-* `[2019]` [Japanese (ja)](https://github.com/setsunaMC/flarum-ext-japanese) by SetsunaMC
-* `[2019]` [Malaysian (my)](https://github.com/ahrasis/bahasa-melayu)
-* `[2019]` [Norwegian (no)](https://github.com/Menomenta/flarum-ext-norwegian)
-* `[2019]` [Persian (fa)](https://github.com/persianfla/flarum-ext-persian) by Persianfla
-* `[2019]` [Polish (pl)](https://github.com/bepropl/lang-polish) by Bepropl
-* `[2019]` [Portuguese (pt-BR)](https://github.com/arbezerra/flarum-lang-ptbr) by Arbezerra
-* `[2019]` [Thailand (th)](https://github.com/drsaluml/flarum-ext-thai) by Drsaluml
-* `[2019]` [Thailand (th)](https://github.com/wiwatsrt/flarum-ext-thai) by Wiwatsrt
-* `[2019]` [Turkish (tr)](https://github.com/Madraka/lang-turkish) by Madraka
-* `[2019]` [Ukrainian (uk)](https://github.com/eikoninaru/flarum-ext-ukrainian) by Eikoninaru
+<details>
+  <summary>2019</summary>
+
+  * `[2019]` [Azerbaijani (az)](https://github.com/Niluthon/flarum-ext-azerbaijany)
+  * `[2019]` [Bosnian (bs)](https://github.com/ahmic/flarum-lang-bosnian)
+  * `[2019]` [Czech (cs)](https://github.com/ogioncz/flarum-ext-czech) by Ogioncz
+  * `[2019]` [Czech (cs)](https://github.com/PepaR/flarum-ext-czech) by PepaR
+  * `[2019]` [Dutch (nl)](https://github.com/PurpleObject/flarum-dutch) by PurpleObject
+  * `[2019]` [Japanese (ja)](https://github.com/Felli/lang-japanese) by Felli
+  * `[2019]` [Japanese (ja)](https://github.com/setsunaMC/flarum-ext-japanese) by SetsunaMC
+  * `[2019]` [Malaysian (my)](https://github.com/ahrasis/bahasa-melayu)
+  * `[2019]` [Norwegian (no)](https://github.com/Menomenta/flarum-ext-norwegian)
+  * `[2019]` [Persian (fa)](https://github.com/persianfla/flarum-ext-persian) by Persianfla
+  * `[2019]` [Polish (pl)](https://github.com/bepropl/lang-polish) by Bepropl
+  * `[2019]` [Portuguese (pt-BR)](https://github.com/arbezerra/flarum-lang-ptbr) by Arbezerra
+  * `[2019]` [Thailand (th)](https://github.com/drsaluml/flarum-ext-thai) by Drsaluml
+  * `[2019]` [Thailand (th)](https://github.com/wiwatsrt/flarum-ext-thai) by Wiwatsrt
+  * `[2019]` [Turkish (tr)](https://github.com/Madraka/lang-turkish) by Madraka
+  * `[2019]` [Ukrainian (uk)](https://github.com/eikoninaru/flarum-ext-ukrainian) by Eikoninaru
+</details>
 <details>
   <summary>2018, 2017, 2016 & Archived</summary>
 
@@ -222,7 +226,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2019]` [Summaries](https://github.com/jordanjay29/flarum-ext-summaries) - Show summaries on all discussions.
 * `[2019]` [Super Sticky](https://github.com/velcis/super-sticky) - Pin discussions to the top of the top of the list.
 * `[2019]` [Userbars](https://github.com/oaklinq/flarum-ext-userbars) - Puts 5 randomly selected userbars under each post.
-* `[2018]` [BBCode Alerts](https://github.com/0E800/flarum-ext-bbcode-alerts) - Add visual alerts / warnings.
 * `[2018]` [Emoji for BBCode WYSIWYG Editor](https://github.com/EricYChu/flarum-ext-bbcode-emoji) - Convert text and unicode emoji into Twemoji. Only for BBCode WYSIWYG Editor extension.
 * `[2018]` [Frontpage](https://github.com/fixer112/flarum-frontpage) - Mark discussion as frontpage.
 * `[2018]` [Geotags](https://github.com/ReFlar/OSM-Geotags) - Adds places for your posts (with editor button, list of places on each post and markdown string with name of place in text).
@@ -282,15 +285,9 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [Fajuu - Contact Button](https://github.com/Fajuu/ContactButton) - Adds a contact button, which opens an email with the administrator's addressee.
 * [Post Notification](https://github.com/tpokorra/flarum-ext-post-notification) - Send email notification for each post written or modified.
 * `[2019]` [Email verification switch](https://github.com/isaced/flarum-ext-email-verification-switch) - Disable new registered user email verification.
-* `[2019]` [ReFlar Pretty mail](https://github.com/reflar/pretty-mail) - Allows you to make custom HTML templates for emails.
 * `[2019]` [User default preferences](https://github.com/piotr-tokarczyk/flarum-user-default-preferences) - 'Someone replies to one of my posts (email)' and 'Someone mentions me in a post (email)' are turned on by default for each new user in your Flarum forum.
 *  `[2018]` [Flagrow Fix auto-confirm](https://github.com/flagrow/auto-confirm-fix) - Fixes auto confirmation by bots that read your mailbox.
 *  `[2018]` [Flagrow Mail Drivers](https://github.com/flagrow/mail-drivers) - Send email via Mailgun, Mandrill or SES api.
-
-
-### Custom Page ([:top:](#table-of-contents))
-* `[2019]` [Landing Page](https://github.com/johnhearfield/flarum-ext-landing-page) - Customizable landing page for non-logged in users.
-* `[2019]` [ReFlar Inject Mithril Components](https://github.com/ReFlar/inject-mithril-components) - Inject [Mithril](https://mithril.js.org/) components into your pages using native HTML.
 
 
 ### Theme Enhancements ([:top:](#table-of-contents))
@@ -304,15 +301,15 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 
 
 ### Others ([:top:](#table-of-contents))
-* [ReFlar Cookie Consent](https://github.com/ReFlar/cookie-consent) - Customizable cookie consent notice for your Flarum installation.
 * [Profile views](https://github.com/MichaelBelgium/flarum-profile-views) - Track how much times a profile has been viewed.
+* [ReFlar Cookie Consent](https://github.com/ReFlar/cookie-consent) - Customizable cookie consent notice for your Flarum installation.
+* [ReFlar Level Ranks](https://github.com/ReFlar/level-ranks) - Add a level/experience bar to your forum.
 * `[2019]` [Algolia Search](https://github.com/VasylTech/flarum-algolia-search) - Replace the default Flarum search with Algolia search.
 * `[2019]` [Catch the fish](https://github.com/clarkwinkelmann/catch-the-fish) - Watch your users catch as many fishes as they can.
 * `[2019]` [Categories](https://github.com/Bokt/flarum-categories) - Old school hierarchical categories.
 * `[2019]` [Flarum Multi Tenancy](https://github.com/ahrasis/multenex) - Multi Tenancy for Flarum on single install and database.
 * `[2019]` [Queue](https://github.com/ZhiShiQ/FlarumQueue) - Add asyn job queue handle feature to laravel with laravel queue.
 * `[2019]` [Redis Connector](https://github.com/ZhiShiQ/FlarumRedis) - Allow user to bind with wechat.
-* `[2019]` [ReFlar Level Ranks](https://github.com/ReFlar/level-ranks) - Add a level/experience bar to your forum.
 * `[2018]` [Flagrow Fonts](https://github.com/flagrow/fonts) - Easily add fonts.
 * `[2018]` [Flagrow Serve](https://github.com/flagrow/serve) - Add the serve command to Flarum. This will allow you to start Flarum into the PHP development server via a simple command.
 * `[2018]` [Search](https://github.com/ganuonglachanh/flarum-ganuonglachanh-search) - Allows to search by discusstion title.
