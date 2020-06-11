@@ -44,7 +44,7 @@ Most likely not compatible with the latest version of Flarum. You need to modify
   <summary>Friends of Flarum</summary>
 
   * [Analytics](https://github.com/FriendsOfFlarum/analytics) - Provides your forum Piwik and Google Analytics features.
-  * [Console](https://github.com/FriendsOfFlarum/console) - Register custom commands into Flarum.
+  * [Console](https://github.com/FriendsOfFlarum/console) - Register custom commands and task scheduling.
   * [Flagrow Ads](https://github.com/FriendsOfFlarum/ads) - Allows you to configure ads in several locations.
   * [FoF Amazon Affiliation](https://github.com/FriendsOfFlarum/amazon-affiliation) - Add your Amazon Affiliate tag to Amazon links.
   * [FoF Ban IPs](https://github.com/FriendsOfFlarum/ban-ips) - Ban IP addresses from your forum.
@@ -133,6 +133,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [Portuguese (pt-PT)](https://github.com/bertaveira/flarum-pt-pt) by Bertaveira
 * [Russian (ru)](https://gitlab.com/marketplace-flarum/languages/flarum-l10n-core-russian) by [Flarum Marketplace](https://gitlab.com/marketplace-flarum)
 * [Slovak (sk)](https://github.com/CWKevo/flarum-lang-slovak)
+* [Spanish (es)](https://github.com/darkfoxdeveloper/flarum-ext-spanish) by Darkfoxdeveloper
 * [Turkish (tr)](https://github.com/cagatayldzz/lang-turkish) by Cagatayldzz
 * [Turkish (tr)](https://github.com/tolgaaaltas/flarum-lang-turkish) by Tolgaaaltas
 * [Vietnamese (vi)](https://github.com/datlechin/lang-vietnamese) by Datlechin
@@ -148,43 +149,46 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2019]` [Persian (fa)](https://github.com/persianfla/flarum-ext-persian) by Persianfla
 * `[2019]` [Polish (pl)](https://github.com/bepropl/lang-polish) by Bepropl
 * `[2019]` [Portuguese (pt-BR)](https://github.com/arbezerra/flarum-lang-ptbr) by Arbezerra
-* `[2019]` [Spanish (es)](https://github.com/darkfoxdeveloper/flarum-ext-spanish) by Darkfoxdeveloper
 * `[2019]` [Thailand (th)](https://github.com/drsaluml/flarum-ext-thai) by Drsaluml
 * `[2019]` [Thailand (th)](https://github.com/wiwatsrt/flarum-ext-thai) by Wiwatsrt
 * `[2019]` [Turkish (tr)](https://github.com/Madraka/lang-turkish) by Madraka
 * `[2019]` [Ukrainian (uk)](https://github.com/eikoninaru/flarum-ext-ukrainian) by Eikoninaru
-* `[2018]` [Albania (sq)](https://github.com/tinaira/flarum-ext-albania)
-* `[2018]` [Arabic (ar)](https://github.com/hichem2h/flarum-ext-arabic) by Hichem2h
-* `[2018]` [Bengali (bn)](https://github.com/jubayed/flarum-ext-bengali)
-* `[2018]` [Brazilian Portuguese (pt-BR)](https://github.com/renato/flarum-ext-brazilian-portuguese) by Renato
-* `[2018]` [Chinese (zh)](https://github.com/Flarum-Chinese/flarum-ext-simplified-chinese) by Flarum-Chinese
-* `[2018]` [Chinese (zh)](https://github.com/FlarumChina/flarum-ext-simplified-chinese-pro) by FlarumChina
-* `[2018]` [Georgian (ge)](https://github.com/giagabo/flarum-ext-georgian)
-* `[2018]` [Greek (el)](https://github.com/kryonoglou/flarum-ext-greek)
-* `[2018]` [Greek (Kinguru) (el)](https://github.com/kryonoglou/kinguru-greek-language)
-* `[2018]` [Hungarian (hu)](https://github.com/janosvirag91/flarum-ext-hungarian) by Janosvirag91
-* `[2018]` [Japanese (ja)](https://github.com/naga0ka/flarum-ext-japanese) by Naga0ka
-* `[2018]` [Korean (kr)](https://gitlab.com/Baw-Appie/flarum-lang-korean) by Baw-Appie
-* `[2018]` [Mongolian (mn)](https://github.com/ulziibox/flarum-ext-mongolian)
-* `[2018]` [Myanmar (mm)](https://github.com/o92/flarum-ext-myanmar)
-* `[2018]` [Polish (pl)](https://github.com/modInfo/flarum-i18n-polish) by ModInfo
-* `[2018]` [Russian (ru)](https://github.com/factory-04/flarum-l10n-forum) by Factory-04
-* `[2018]` [Slovenian (si)](https://github.com/JuiceN2/flarum-ext-slovenian)
-* `[2018]` [Spanish (es)](https://github.com/FlarumES/Spanish) by FlarumES
-* `[2018]` [Turkish (tr)](https://github.com/nrucel/flarum-turkish) by Nrucel
-* `[2018]` [Vietnamese (vi)](https://github.com/ganuonglachanh/flarum-ext-vietnamese) by Ganuonglachanh
-* `[2017]` [Galician (gl)](https://github.com/albertedevigo/flarum-ext-galician)
-* `[2017]` [Hebrew (he)](https://github.com/icecore2/Flarum-hebrew) by Icecore2
-* `[2017]` [Portuguese (pt)](https://github.com/lcbcruz/flarum-portuguese)
-* `[2017]` [Swedish (sv)](https://github.com/heidarKadkhoda/flarum-ext-swedish)
-* `[2016]` [Danish (da)](https://github.com/berteltorp/Flarum-da-DK)
-* `[2016]` [Finnish (fi)](https://github.com/markokaartinen/flarum-ext-finnish)
-* `[2016]` [Lithuanian (lt)](https://github.com/Yiin/flarum-ext-lithuanian)
-* `[2016]` [Norwegian Nynorsk (nn)](https://github.com/pladask/flarum-ext-norwegian-nynorsk)
-* `[2016]` [Serbian (Latin Script) (sr-Latn)](https://github.com/laravelrs/flarum-ext-serbian-latin)
-* `[2016]` [Uzbek (uz)](https://github.com/beendeen/Uzon)
-* `[Archived]` [Bulgarian (bg)](https://github.com/dyanakiev/flarum-ext-bulgarian)
-* `[Archived]` [Swedish](https://github.com/nlssn/flarum-ext-swedish) by Nlssn
+<details>
+  <summary>2018, 2017, 2016 & Archived</summary>
+
+  * `[2018]` [Albania (sq)](https://github.com/tinaira/flarum-ext-albania)
+  * `[2018]` [Arabic (ar)](https://github.com/hichem2h/flarum-ext-arabic) by Hichem2h
+  * `[2018]` [Bengali (bn)](https://github.com/jubayed/flarum-ext-bengali)
+  * `[2018]` [Brazilian Portuguese (pt-BR)](https://github.com/renato/flarum-ext-brazilian-portuguese) by Renato
+  * `[2018]` [Chinese (zh)](https://github.com/Flarum-Chinese/flarum-ext-simplified-chinese) by Flarum-Chinese
+  * `[2018]` [Chinese (zh)](https://github.com/FlarumChina/flarum-ext-simplified-chinese-pro) by FlarumChina
+  * `[2018]` [Georgian (ge)](https://github.com/giagabo/flarum-ext-georgian)
+  * `[2018]` [Greek (el)](https://github.com/kryonoglou/flarum-ext-greek)
+  * `[2018]` [Greek (Kinguru) (el)](https://github.com/kryonoglou/kinguru-greek-language)
+  * `[2018]` [Hungarian (hu)](https://github.com/janosvirag91/flarum-ext-hungarian) by Janosvirag91
+  * `[2018]` [Japanese (ja)](https://github.com/naga0ka/flarum-ext-japanese) by Naga0ka
+  * `[2018]` [Korean (kr)](https://gitlab.com/Baw-Appie/flarum-lang-korean) by Baw-Appie
+  * `[2018]` [Mongolian (mn)](https://github.com/ulziibox/flarum-ext-mongolian)
+  * `[2018]` [Myanmar (mm)](https://github.com/o92/flarum-ext-myanmar)
+  * `[2018]` [Polish (pl)](https://github.com/modInfo/flarum-i18n-polish) by ModInfo
+  * `[2018]` [Russian (ru)](https://github.com/factory-04/flarum-l10n-forum) by Factory-04
+  * `[2018]` [Slovenian (si)](https://github.com/JuiceN2/flarum-ext-slovenian)
+  * `[2018]` [Spanish (es)](https://github.com/FlarumES/Spanish) by FlarumES
+  * `[2018]` [Turkish (tr)](https://github.com/nrucel/flarum-turkish) by Nrucel
+  * `[2018]` [Vietnamese (vi)](https://github.com/ganuonglachanh/flarum-ext-vietnamese) by Ganuonglachanh
+  * `[2017]` [Galician (gl)](https://github.com/albertedevigo/flarum-ext-galician)
+  * `[2017]` [Hebrew (he)](https://github.com/icecore2/Flarum-hebrew) by Icecore2
+  * `[2017]` [Portuguese (pt)](https://github.com/lcbcruz/flarum-portuguese)
+  * `[2017]` [Swedish (sv)](https://github.com/heidarKadkhoda/flarum-ext-swedish)
+  * `[2016]` [Danish (da)](https://github.com/berteltorp/Flarum-da-DK)
+  * `[2016]` [Finnish (fi)](https://github.com/markokaartinen/flarum-ext-finnish)
+  * `[2016]` [Lithuanian (lt)](https://github.com/Yiin/flarum-ext-lithuanian)
+  * `[2016]` [Norwegian Nynorsk (nn)](https://github.com/pladask/flarum-ext-norwegian-nynorsk)
+  * `[2016]` [Serbian (Latin Script) (sr-Latn)](https://github.com/laravelrs/flarum-ext-serbian-latin)
+  * `[2016]` [Uzbek (uz)](https://github.com/beendeen/Uzon)
+  * `[Archived]` [Bulgarian (bg)](https://github.com/dyanakiev/flarum-ext-bulgarian)
+  * `[Archived]` [Swedish](https://github.com/nlssn/flarum-ext-swedish) by Nlssn
+</details>
 
 
 ### Authentication & Authorization ([:top:](#table-of-contents))
@@ -218,7 +222,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2019]` [Summaries](https://github.com/jordanjay29/flarum-ext-summaries) - Show summaries on all discussions.
 * `[2019]` [Super Sticky](https://github.com/velcis/super-sticky) - Pin discussions to the top of the top of the list.
 * `[2019]` [Userbars](https://github.com/oaklinq/flarum-ext-userbars) - Puts 5 randomly selected userbars under each post.
-* `[2018]` [AirtableEmbed](https://github.com/sharetangle/flarum-ext-mediaembed-airtable) - Embed Airtable.
 * `[2018]` [BBCode Alerts](https://github.com/0E800/flarum-ext-bbcode-alerts) - Add visual alerts / warnings.
 * `[2018]` [Emoji for BBCode WYSIWYG Editor](https://github.com/EricYChu/flarum-ext-bbcode-emoji) - Convert text and unicode emoji into Twemoji. Only for BBCode WYSIWYG Editor extension.
 * `[2018]` [Frontpage](https://github.com/fixer112/flarum-frontpage) - Mark discussion as frontpage.
@@ -240,8 +243,8 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 
 
 ### Admin Area ([:top:](#table-of-contents))
+* [Bazaar](https://github.com/extiverse/bazaar) - The marketplace extension that allows you to add and remove extensions without composer or a terminal.
 * [Dashboard](https://github.com/datitisev/flarum-ext-admindashboard) - This completely re-imagines the admin interface.
-* `[2019]` [Bazaar](https://github.com/extiverse/bazaar) - The marketplace extension that allows you to add and remove extensions without composer or a terminal.
 * `[2019]` [Keyboard Shortcuts](https://github.com/oaklinq/flarum-ext-keyboard-shortcuts) - Adds keyboard shortcuts.
 * `[2019]` [Money](https://github.com/AntoineFr/flarum-ext-money) - Give money to your users for different actions.
 * `[2019]` [Notify](https://github.com/manelizzard/flarum-notify) - Get notified about forum activity in Slack, HipChat, Gitter or Telegram.
