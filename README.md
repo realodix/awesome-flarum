@@ -6,6 +6,7 @@
 
 - [Extensions](#extensions)
   - [Language Pack](#language-pack-top)
+  - [Ads & Affiliation](#ads-affiliation)
   - [Analytics & SEO](#analytics--seo-top)
   - [Authentication & Authorization](#authentication--authorization-top)
   - [Discussion](#discussion-top)
@@ -42,8 +43,6 @@ Most likely not compatible with the latest version of Flarum. You need to modify
   <summary>Friends of Flarum</summary>
 
   * [Console](https://github.com/FriendsOfFlarum/console) - Register custom commands and task scheduling.
-  * [Flagrow Ads](https://github.com/FriendsOfFlarum/ads) - Allows you to configure ads in several locations.
-  * [FoF Amazon Affiliation](https://github.com/FriendsOfFlarum/amazon-affiliation) - Add your Amazon Affiliate tag to Amazon links.
   * [FoF Ban IPs](https://github.com/FriendsOfFlarum/ban-ips) - Ban IP addresses from your forum.
   * [FoF Clockwork](https://github.com/FriendsOfFlarum/clockwork) - Clockwork integration.
   * [FoF Custom Footer](https://github.com/FriendsOfFlarum/custom-footer) - Allows the addition of a custom footer.
@@ -54,7 +53,6 @@ Most likely not compatible with the latest version of Flarum. You need to modify
   * [FoF Ignore Users](https://github.com/FriendsOfFlarum/ignore-users) - Lets users to ignore other users.
   * [FoF Linguist](https://github.com/FriendsOfFlarum/linguist) - Customize translations with ease.
   * [FoF Links](https://github.com/FriendsOfFlarum/links) - Manage Flarum primary navigation links.
-  * [FoF Merge Discussions](https://github.com/FriendsOfFlarum/merge-discussions) - Merge two or more discussions into one.
   * [FoF Moderator Notes](https://github.com/FriendsOfFlarum/moderator-notes) - Create private notes for your forum users.
   * [FoF Open Collective](https://github.com/FriendsOfFlarum/open-collective) - Open Collective integration for your Flarum forum.
   * [FoF Pages](https://github.com/FriendsOfFlarum/pages) - Create custom pages with Flarum.
@@ -147,6 +145,12 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 </details>
 
 
+### Ads & Affiliation ([:top:](#ads-affiliation))
+* [Affiliation Links](https://github.com/kilowhat/flarum-ext-affiliation-links) - Automatically turn links into custom affiliate or redirect links.
+* [Flagrow Ads](https://github.com/FriendsOfFlarum/ads) - Allows you to configure ads in several locations.
+* [FoF Amazon Affiliation](https://github.com/FriendsOfFlarum/amazon-affiliation) - Add your Amazon Affiliate tag to Amazon links.
+
+
 ### Analytics & SEO ([:top:](#table-of-contents))
 * [Analytics](https://github.com/FriendsOfFlarum/analytics) - Provides your forum Piwik and Google Analytics features.
 * [FoF Forum Statistics Widget](https://github.com/FriendsOfFlarum/forum-statistics-widget) - Add a forum statistics widget to the sidenav section.
@@ -187,6 +191,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [FoF FrontPage](https://github.com/FriendsOfFlarum/frontpage) - Push discussions to the front of your Flarum forum index.
 * [FoF Gamification](https://github.com/FriendsOfFlarum/gamification) - Add upvotes, downvotes, and ranks.
 * [FoF GitHub Autolink](https://github.com/FriendsOfFlarum/github-autolink) - Autolink GitHub issues and commits in posts.
+* [FoF Merge Discussions](https://github.com/FriendsOfFlarum/merge-discussions) - Merge two or more discussions into one.
 * [FoF Polls](https://github.com/FriendsOfFlarum/polls) - Adds polls to your discussions.
 * [FoF Reactions](https://github.com/FriendsOfFlarum/reactions) - Adds reactions to your community.
 * [FoF Split](https://github.com/FriendsOfFlarum/split) - Separate posts from one discussion into its own, splits discussions.
@@ -218,7 +223,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 
 
 ### Link ([:top:](#table-of-contents))
-* [Affiliation Links](https://github.com/kilowhat/flarum-ext-affiliation-links) - Automatically turn links into custom affiliate or redirect links.
 * [Canonical URL](https://github.com/migratetoflarum/canonical) - Create redirects to the canonical url of your forum.
 
 
