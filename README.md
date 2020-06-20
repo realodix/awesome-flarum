@@ -162,27 +162,14 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
   <summary>2018, 2017, 2016 & Archived</summary>
 
   * `[2018]` [Albania (sq)](https://github.com/tinaira/flarum-ext-albania)
-  * `[2018]` [Arabic (ar)](https://github.com/hichem2h/flarum-ext-arabic) by Hichem2h
   * `[2018]` [Bengali (bn)](https://github.com/jubayed/flarum-ext-bengali)
-  * `[2018]` [Brazilian Portuguese (pt-BR)](https://github.com/renato/flarum-ext-brazilian-portuguese) by Renato
-  * `[2018]` [Chinese (zh)](https://github.com/Flarum-Chinese/flarum-ext-simplified-chinese) by Flarum-Chinese
-  * `[2018]` [Chinese (zh)](https://github.com/FlarumChina/flarum-ext-simplified-chinese-pro) by FlarumChina
   * `[2018]` [Georgian (ge)](https://github.com/giagabo/flarum-ext-georgian)
   * `[2018]` [Greek (el)](https://github.com/kryonoglou/flarum-ext-greek)
   * `[2018]` [Greek (Kinguru) (el)](https://github.com/kryonoglou/kinguru-greek-language)
-  * `[2018]` [Hungarian (hu)](https://github.com/janosvirag91/flarum-ext-hungarian) by Janosvirag91
-  * `[2018]` [Japanese (ja)](https://github.com/naga0ka/flarum-ext-japanese) by Naga0ka
-  * `[2018]` [Korean (kr)](https://gitlab.com/Baw-Appie/flarum-lang-korean) by Baw-Appie
   * `[2018]` [Mongolian (mn)](https://github.com/ulziibox/flarum-ext-mongolian)
   * `[2018]` [Myanmar (mm)](https://github.com/o92/flarum-ext-myanmar)
-  * `[2018]` [Polish (pl)](https://github.com/modInfo/flarum-i18n-polish) by ModInfo
-  * `[2018]` [Russian (ru)](https://github.com/factory-04/flarum-l10n-forum) by Factory-04
   * `[2018]` [Slovenian (si)](https://github.com/JuiceN2/flarum-ext-slovenian)
-  * `[2018]` [Spanish (es)](https://github.com/FlarumES/Spanish) by FlarumES
-  * `[2018]` [Turkish (tr)](https://github.com/nrucel/flarum-turkish) by Nrucel
-  * `[2018]` [Vietnamese (vi)](https://github.com/ganuonglachanh/flarum-ext-vietnamese) by Ganuonglachanh
   * `[2017]` [Galician (gl)](https://github.com/albertedevigo/flarum-ext-galician)
-  * `[2017]` [Hebrew (he)](https://github.com/icecore2/Flarum-hebrew) by Icecore2
   * `[2017]` [Portuguese (pt)](https://github.com/lcbcruz/flarum-portuguese)
   * `[2017]` [Swedish (sv)](https://github.com/heidarKadkhoda/flarum-ext-swedish)
   * `[2016]` [Danish (da)](https://github.com/berteltorp/Flarum-da-DK)
@@ -192,7 +179,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
   * `[2016]` [Serbian (Latin Script) (sr-Latn)](https://github.com/laravelrs/flarum-ext-serbian-latin)
   * `[2016]` [Uzbek (uz)](https://github.com/beendeen/Uzon)
   * `[Archived]` [Bulgarian (bg)](https://github.com/dyanakiev/flarum-ext-bulgarian)
-  * `[Archived]` [Swedish](https://github.com/nlssn/flarum-ext-swedish) by Nlssn
 </details>
 
 
@@ -204,16 +190,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2019]` [Eve Login](https://github.com/instkffff/auth-eve) - Allow users to log in with EveOnline.
 * `[2019]` [Google Login](https://github.com/johnhearfield/flarum-ext-oauth-google) - Allow users to login using their Google account.
 * `[2019]` [ReFlar Two Factor](https://github.com/ReFlar/twofactor) - Increases security by adding TOTP and Twillio two factor authentication.
-* `[2018]` [CAS Login](https://github.com/ddawx123/flarum-ext-auth-cas) - Allow users to log in with CAS.
-* `[2018]` [Frappe Login](https://github.com/srdgame/flarum-ext-auth-frappe) - Allow users to log in with Frappe.
-* `[2018]` [Instagram Login](https://github.com/Extum/flarum-ext-auth-instagram) - Login using your Instagram account.
-* `[2018]` [Wordpress Login](https://github.com/krombox/flarum-ext-auth-wordpress) - Allow users to login with your WordPress site.
-* `[2018]` [Yahoo Login](https://github.com/Extum/flarum-ext-auth-yahoo) - Login to your forum using their Yahoo account.
-* `[Archived]` [Flagrow Telegram](https://github.com/flagrow/telegram) - Telegram login and notifications.
-* `[Archived]` [Invite Only](https://github.com/dav-is/flarum-ext-inviteonly) - Allow registration only if invited.
-* `[Archived]` [ReFlar GitLab Login](https://github.com/ReFlar/oauth-gitlab) - Login using your GitLab account.
-* `[Archived]` [Single Sign On](https://github.com/fabwu/flarum-ext-sso) - Single sign on for Flarum.
-* `[Archived]` [Wechat Login](https://github.com/Yanlong-LI/flarum-ext-auth-wechat) - Allow users to log in with WeChat.
 
 
 ### Discussion ([:top:](#table-of-contents))
