@@ -6,11 +6,11 @@
 
 - [Extensions](#extensions)
   - [Language Pack](#language-pack-top)
+  - [Analytics & SEO](#analytics--seo-top)
   - [Authentication & Authorization](#authentication--authorization-top)
   - [Discussion](#discussion-top)
   - [Media](#media-top)
   - [Admin Area](#admin-area-top)
-  - [SEO](#seo-top)
   - [Link](#link-top)
   - [Sharing](#sharing-top)
   - [User](#user-top)
@@ -42,7 +42,6 @@ Most likely not compatible with the latest version of Flarum. You need to modify
 <details>
   <summary>Friends of Flarum</summary>
 
-  * [Analytics](https://github.com/FriendsOfFlarum/analytics) - Provides your forum Piwik and Google Analytics features.
   * [Console](https://github.com/FriendsOfFlarum/console) - Register custom commands and task scheduling.
   * [Flagrow Ads](https://github.com/FriendsOfFlarum/ads) - Allows you to configure ads in several locations.
   * [FoF Amazon Affiliation](https://github.com/FriendsOfFlarum/amazon-affiliation) - Add your Amazon Affiliate tag to Amazon links.
@@ -53,14 +52,11 @@ Most likely not compatible with the latest version of Flarum. You need to modify
   * [FoF Clockwork](https://github.com/FriendsOfFlarum/clockwork) - Clockwork integration.
   * [FoF Custom Footer](https://github.com/FriendsOfFlarum/custom-footer) - Allows the addition of a custom footer.
   * [FoF Default User Preferences](https://github.com/FriendsOfFlarum/default-user-preferences) - Enable emails for replies and mentions by default in user preferences.
-  * [FoF Discord Login](https://github.com/FriendsOfFlarum/auth-discord) - Allow users to log in with Discord.
   * [FoF Discussion Thumbnail](https://github.com/FriendsOfFlarum/discussion-thumbnail) - Replace author avatars with the first image in a discussion's starting post.
-  * [FoF Disposable Emails](https://github.com/FriendsOfFlarum/disposable-emails) - Prevent users from signing up with disposable emails.
   * [FoF Drafts](https://github.com/FriendsOfFlarum/drafts) - Allow users to create post and discussion drafts.
   * [FoF Filter](https://github.com/FriendsOfFlarum/filter) - Filter out words and phrases from forum posts.
   * [FoF Follow Tags](https://github.com/FriendsOfFlarum/follow-tags) - Follow tags and be notified of new discussions and replies.
   * [FoF Formatting](https://github.com/FriendsOfFlarum/formatting) - Customize TextFormatter with plugins through the admin interface.
-  * [FoF Forum Statistics Widget](https://github.com/FriendsOfFlarum/forum-statistics-widget) - Add a forum statistics widget to the sidenav section.
   * [FoF FrontPage](https://github.com/FriendsOfFlarum/frontpage) - Push discussions to the front of your Flarum forum index.
   * [FoF Gamification](https://github.com/FriendsOfFlarum/gamification) - Add upvotes, downvotes, and ranks.
   * [FoF GeoIP](https://github.com/FriendsOfFlarum/geoip) - Geolocation for your Flarum forum.
@@ -68,7 +64,6 @@ Most likely not compatible with the latest version of Flarum. You need to modify
   * [FoF Guardian](https://github.com/FriendsOfFlarum/guardian) - Automates reviewing users based on their forum behaviour and activity.
   * [FoF HTML Errors](https://github.com/FriendsOfFlarum/html-errors) - Add custom HTML error pages.
   * [FoF Ignore Users](https://github.com/FriendsOfFlarum/ignore-users) - Lets users to ignore other users.
-  * [FoF Impersonate](https://github.com/FriendsOfFlarum/impersonate) - Login as other users of your forum.
   * [FoF Linguist](https://github.com/FriendsOfFlarum/linguist) - Customize translations with ease.
   * [FoF Links](https://github.com/FriendsOfFlarum/links) - Manage Flarum primary navigation links.
   * [FoF Merge Discussions](https://github.com/FriendsOfFlarum/merge-discussions) - Merge two or more discussions into one.
@@ -83,7 +78,6 @@ Most likely not compatible with the latest version of Flarum. You need to modify
   * [FoF Reactions](https://github.com/FriendsOfFlarum/reactions) - Adds reactions to your community.
   * [FoF reCAPTCHA](https://github.com/FriendsOfFlarum/recaptcha) - Increase your forum's security with Google reCAPTCHA.
   * [FoF Sentry](https://github.com/FriendsOfFlarum/sentry) - Flarum integration for [Sentry](https://sentry.io).
-  * [FoF Sitemap](https://github.com/FriendsOfFlarum/sitemap) - Generate a sitemap.
   * [FoF Social Profile](https://github.com/FriendsOfFlarum/socialprofile) - Add custom social media pages to your user profile.
   * [FoF Spamblock](https://github.com/FriendsOfFlarum/spamblock) - Mark user as spammer, suspending them & hiding their posts and discussions.
   * [FoF Split](https://github.com/FriendsOfFlarum/split) - Separate posts from one discussion into its own, splits discussions.
@@ -171,7 +165,18 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 </details>
 
 
+### Analytics & SEO ([:top:](#table-of-contents))
+* [Analytics](https://github.com/FriendsOfFlarum/analytics) - Provides your forum Piwik and Google Analytics features.
+* [FoF Forum Statistics Widget](https://github.com/FriendsOfFlarum/forum-statistics-widget) - Add a forum statistics widget to the sidenav section.
+* [FoF Sitemap](https://github.com/FriendsOfFlarum/sitemap) - Generate a sitemap.
+* [SEO friendly slugs for Flarum](https://github.com/Zeokat/flarum-ext-seoslugs) - Use friendly URLs (aka transliteration) in slugs.
+* [SEO](https://github.com/v17development/flarum-seo) - Adds SEO tags for your forum.
+
+
 ### Authentication & Authorization ([:top:](#table-of-contents))
+* [FoF Discord Login](https://github.com/FriendsOfFlarum/auth-discord) - Allow users to log in with Discord.
+* [FoF Disposable Emails](https://github.com/FriendsOfFlarum/disposable-emails) - Prevent users from signing up with disposable emails.
+* [FoF Impersonate](https://github.com/FriendsOfFlarum/impersonate) - Login as other users of your forum.
 * [FoF OAuth](https://github.com/FriendsOfFlarum/oauth) - Allow users to log in with GitHub, Twitter, Facebook, and more!
 * [FoF Real Time Login](https://github.com/FriendsOfFlarum/realtimelogin) - Makes logins update in real time.
 * [FoF Username Request](https://github.com/FriendsOfFlarum/username-request) - Allow users to request new usernames
@@ -215,11 +220,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2019]` [Money](https://github.com/AntoineFr/flarum-ext-money) - Give money to your users for different actions.
 * `[2019]` [Notify](https://github.com/manelizzard/flarum-notify) - Get notified about forum activity in Slack, HipChat, Gitter or Telegram.
 * `[2019]` [Syndication](https://github.com/AmauryCarrade/flarum-ext-syndication) - Brings RSS and Atom feeds.
-
-
-### SEO ([:top:](#table-of-contents))
-* [SEO friendly slugs for Flarum](https://github.com/Zeokat/flarum-ext-seoslugs) - Use friendly URLs (aka transliteration) in slugs.
-* [SEO](https://github.com/v17development/flarum-seo) - Adds SEO tags for your forum.
 
 
 ### Link ([:top:](#table-of-contents))
