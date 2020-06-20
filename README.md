@@ -12,7 +12,6 @@
   - [Discussion](#discussion-top)
   - [Admin Area](#admin-area-top)
   - [Security & Spam](#security--spam-top)
-  - [Link](#link-top)
   - [User](#user-top)
   - [Mail](#mail-top)
   - [Theme Enhancements](#theme-enhancements-top)
@@ -196,10 +195,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2018]` [FoF Secure HTTPS](https://github.com/FriendsOfFlarum/secure-https) - Changes all images using HTTP to HTTPS.
 
 
-### Link ([:top:](#table-of-contents))
-* [Canonical URL](https://github.com/migratetoflarum/canonical) - Create redirects to the canonical url of your forum.
-
-
 ### User ([:top:](#table-of-contents))
 * [FoF Default User Preferences](https://github.com/FriendsOfFlarum/default-user-preferences) - Enable emails for replies and mentions by default in user preferences.
 * [FoF Ignore Users](https://github.com/FriendsOfFlarum/ignore-users) - Lets users to ignore other users.
@@ -221,6 +216,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 
 
 ### Theme Enhancements ([:top:](#table-of-contents))
+* [Flarum Userscript EasyOnTheEyes](https://github.com/moutonnoireu/flarum-userscript-eote) - Flarum is great but at night, your eyes might suffer from all this whitey colors. Here comes this userscript.
 * [FoF Night Mode](https://github.com/FriendsOfFlarum/nightmode) - Turn your flarum forum to dark as user.
 * [Material Design by Extum](https://github.com/Extum/flarum-ext-material) - Materialize your forum with this Flarum extension that uses the latest guidelines.
 * [OS-X Yosemite Mountain](https://discuss.flarum.org/d/7598)
@@ -231,6 +227,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 
 
 ### Others ([:top:](#table-of-contents))
+* [Canonical URL](https://github.com/migratetoflarum/canonical) - Create redirects to the canonical url of your forum.
 * [Console](https://github.com/FriendsOfFlarum/console) - Register custom commands and task scheduling.
 * [FoF Clockwork](https://github.com/FriendsOfFlarum/clockwork) - Clockwork integration.
 * [FoF Custom Footer](https://github.com/FriendsOfFlarum/custom-footer) - Allows the addition of a custom footer.
@@ -277,7 +274,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [Extension Generator by FoF](https://github.com/FriendsOfFlarum/extension-generator) - Create a Flarum extension from a boilerplate in minutes!
 * [Flarum API client](https://github.com/flagrow/flarum-api-client) - Standalone package for calling the API of a Flarum installation.
 * [Flarum Management](https://discuss.flarum.org/d/5158) - Manage Flarum installs.
-* [Flarum Userscript EasyOnTheEyes](https://github.com/moutonnoireu/flarum-userscript-eote) - Flarum is great but at night, your eyes might suffer from all this whitey colors. Here comes this userscript.
 * `[Migration]` [MyBB to Flarum](https://github.com/MichaelBelgium/mybb_to_flarum) - A PHP migration script to convert a MyBB forum to a fresh Flarum install.
 * `[Migration]` [phpBB to Flarum](https://github.com/robrotheram/phpbb_to_flarum) - Migration script from PHPBB to Flarum.
 * `[Migration]` [SMF2 to Flarum](https://github.com/ItalianSpaceAstronauticsAssociation/smf2_to_flarum) - SMF2 to Flarum DB importer.
