@@ -9,7 +9,6 @@
   - [Analytics & SEO](#analytics--seo-top)
   - [Authentication & Authorization](#authentication--authorization-top)
   - [Discussion](#discussion-top)
-  - [Media](#media-top)
   - [Admin Area](#admin-area-top)
   - [Link](#link-top)
   - [Sharing](#sharing-top)
@@ -46,21 +45,10 @@ Most likely not compatible with the latest version of Flarum. You need to modify
   * [Flagrow Ads](https://github.com/FriendsOfFlarum/ads) - Allows you to configure ads in several locations.
   * [FoF Amazon Affiliation](https://github.com/FriendsOfFlarum/amazon-affiliation) - Add your Amazon Affiliate tag to Amazon links.
   * [FoF Ban IPs](https://github.com/FriendsOfFlarum/ban-ips) - Ban IP addresses from your forum.
-  * [FoF BBCode Details](https://github.com/FriendsOfFlarum/bbcode-details) - Details BBCode.
-  * [FoF BBCode Tabs](https://github.com/FriendsOfFlarum/bbcode-tabs) - Add tabs to your posts by using BBCode tags.
-  * [FoF Byōbu](https://github.com/FriendsOfFlarum/byobu) - Well integrated, advanced private discussions.
   * [FoF Clockwork](https://github.com/FriendsOfFlarum/clockwork) - Clockwork integration.
   * [FoF Custom Footer](https://github.com/FriendsOfFlarum/custom-footer) - Allows the addition of a custom footer.
   * [FoF Default User Preferences](https://github.com/FriendsOfFlarum/default-user-preferences) - Enable emails for replies and mentions by default in user preferences.
-  * [FoF Discussion Thumbnail](https://github.com/FriendsOfFlarum/discussion-thumbnail) - Replace author avatars with the first image in a discussion's starting post.
-  * [FoF Drafts](https://github.com/FriendsOfFlarum/drafts) - Allow users to create post and discussion drafts.
-  * [FoF Filter](https://github.com/FriendsOfFlarum/filter) - Filter out words and phrases from forum posts.
-  * [FoF Follow Tags](https://github.com/FriendsOfFlarum/follow-tags) - Follow tags and be notified of new discussions and replies.
-  * [FoF Formatting](https://github.com/FriendsOfFlarum/formatting) - Customize TextFormatter with plugins through the admin interface.
-  * [FoF FrontPage](https://github.com/FriendsOfFlarum/frontpage) - Push discussions to the front of your Flarum forum index.
-  * [FoF Gamification](https://github.com/FriendsOfFlarum/gamification) - Add upvotes, downvotes, and ranks.
   * [FoF GeoIP](https://github.com/FriendsOfFlarum/geoip) - Geolocation for your Flarum forum.
-  * [FoF GitHub Autolink](https://github.com/FriendsOfFlarum/github-autolink) - Autolink GitHub issues and commits in posts.
   * [FoF Guardian](https://github.com/FriendsOfFlarum/guardian) - Automates reviewing users based on their forum behaviour and activity.
   * [FoF HTML Errors](https://github.com/FriendsOfFlarum/html-errors) - Add custom HTML error pages.
   * [FoF Ignore Users](https://github.com/FriendsOfFlarum/ignore-users) - Lets users to ignore other users.
@@ -71,26 +59,20 @@ Most likely not compatible with the latest version of Flarum. You need to modify
   * [FoF Open Collective](https://github.com/FriendsOfFlarum/open-collective) - Open Collective integration for your Flarum forum.
   * [FoF Pages](https://github.com/FriendsOfFlarum/pages) - Create custom pages with Flarum.
   * [FoF Passport](https://github.com/FriendsOfFlarum/passport) - The [Laravel Passport](https://laravel.com/docs/passport) compatible oauth extension.
-  * [FoF Polls](https://github.com/FriendsOfFlarum/polls) - Adds polls to your discussions.
   * [FoF Prevent Necrobumping](https://github.com/FriendsOfFlarum/prevent-necrobumping) - Warn before necrobumping old discussions.
   * [FoF Profile Image Crop](https://github.com/FriendsOfFlarum/profile-image-crop) - Allow cropping when uploading profile picture.
   * [FoF Pwned Passwords](https://github.com/FriendsOfFlarum/pwned-passwords) - Check passwords against the [Have I Been Pwned](https://haveibeenpwned.com/) password database.
-  * [FoF Reactions](https://github.com/FriendsOfFlarum/reactions) - Adds reactions to your community.
   * [FoF reCAPTCHA](https://github.com/FriendsOfFlarum/recaptcha) - Increase your forum's security with Google reCAPTCHA.
   * [FoF Sentry](https://github.com/FriendsOfFlarum/sentry) - Flarum integration for [Sentry](https://sentry.io).
   * [FoF Social Profile](https://github.com/FriendsOfFlarum/socialprofile) - Add custom social media pages to your user profile.
   * [FoF Spamblock](https://github.com/FriendsOfFlarum/spamblock) - Mark user as spammer, suspending them & hiding their posts and discussions.
-  * [FoF Split](https://github.com/FriendsOfFlarum/split) - Separate posts from one discussion into its own, splits discussions.
   * [FoF Stop Forum Spam](https://github.com/FriendsOfFlarum/stopforumspam) - Run registrations through the Stop Forum Spam database.
   * [FoF Subscribed](https://github.com/FriendsOfFlarum/subscribed) - Adds additional subscriptions to specific events.
   * [FoF Terms](https://github.com/FriendsOfFlarum/terms) - Ask your users to accept TOS and privacy policy.
-  * [FoF URL Transliterator](https://github.com/FriendsOfFlarum/transliterator) - Transliterate non-ASCII characters in discussion URL.
   * [FoF User Bio](https://github.com/FriendsOfFlarum/user-bio) - Add the user bio back into Flarum.
   * [FoF User Directory](https://github.com/FriendsOfFlarum/user-directory) - The permission based public user directory extension.
-  * [Mason](https://github.com/FriendsOfFlarum/mason) - The discussion custom fields builder.
   * [Upload](https://github.com/FriendsOfFlarum/upload) - An extension that handles file uploads intelligently.
   * `[2019]` [FoF Masquerade](https://github.com/FriendsOfFlarum/masquerade) - User profile builder extension for your forum.
-  * `[2019]` [FoF Pretty Mail](https://github.com/FriendsOfFlarum/pretty-mail) - Allows you to make custom HTML templates for emails.
   * `[2018]` [FoF Default Group](https://github.com/FriendsOfFlarum/default-group) - Assign a default group to new users automatically.
   * `[2018]` [FoF Secure HTTPS](https://github.com/FriendsOfFlarum/secure-https) - Changes all images using HTTP to HTTPS.
 </details>
@@ -193,24 +175,37 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 ### Discussion ([:top:](#table-of-contents))
 * [Discussion views](https://github.com/MichaelBelgium/flarum-discussion-views) - Track how much times a discussion has been viewed.
 * [Emoji Picker](https://github.com/clarkwinkelmann/flarum-ext-emojionearea) - Add EmojioneArea emoji picker.
+* [Fajuu - Icons Changer](https://github.com/Fajuu/flarum-icons) - Adds the ability to change the style of icons and change the individual icons.
+* [FoF BBCode Details](https://github.com/FriendsOfFlarum/bbcode-details) - Details BBCode.
+* [FoF BBCode Tabs](https://github.com/FriendsOfFlarum/bbcode-tabs) - Add tabs to your posts by using BBCode tags.
+* [FoF Byōbu](https://github.com/FriendsOfFlarum/byobu) - Well integrated, advanced private discussions.
+* [FoF Discussion Thumbnail](https://github.com/FriendsOfFlarum/discussion-thumbnail) - Replace author avatars with the first image in a discussion's starting post.
+* [FoF Drafts](https://github.com/FriendsOfFlarum/drafts) - Allow users to create post and discussion drafts.
+* [FoF Filter](https://github.com/FriendsOfFlarum/filter) - Filter out words and phrases from forum posts.
+* [FoF Follow Tags](https://github.com/FriendsOfFlarum/follow-tags) - Follow tags and be notified of new discussions and replies.
+* [FoF Formatting](https://github.com/FriendsOfFlarum/formatting) - Customize TextFormatter with plugins through the admin interface.
+* [FoF FrontPage](https://github.com/FriendsOfFlarum/frontpage) - Push discussions to the front of your Flarum forum index.
+* [FoF Gamification](https://github.com/FriendsOfFlarum/gamification) - Add upvotes, downvotes, and ranks.
+* [FoF GitHub Autolink](https://github.com/FriendsOfFlarum/github-autolink) - Autolink GitHub issues and commits in posts.
+* [FoF Polls](https://github.com/FriendsOfFlarum/polls) - Adds polls to your discussions.
+* [FoF Reactions](https://github.com/FriendsOfFlarum/reactions) - Adds reactions to your community.
+* [FoF Split](https://github.com/FriendsOfFlarum/split) - Separate posts from one discussion into its own, splits discussions.
+* [FoF URL Transliterator](https://github.com/FriendsOfFlarum/transliterator) - Transliterate non-ASCII characters in discussion URL.
+* [Imgur Upload](https://github.com/matteocontrini/flarum-imgur-upload) by Matteocontrini - Simple image upload from the Flarum editor.
+* [Mason](https://github.com/FriendsOfFlarum/mason) - The discussion custom fields builder.
 * `[2019]` [Advanced Pusher](https://github.com/ZhiShiQ/FlarumPusher) - See new discussions and posts in real-time using Pusher. This repo is modified based on [flarum/pusher](https://github.com/flarum/pusher).
 * `[2019]` [Auto More](https://github.com/noriods/automore) - Automatically clicks the 'load more' button when it comes into view.
+* `[2019]` [AutoImage](https://github.com/s9e/flarum-ext-autoimage) - Automatically turn image links into images.
+* `[2019]` [Chords](https://github.com/zerosonesfun/flarum-ext-chords) - Post basic sheet music.
 * `[2019]` [Comic Sans](https://github.com/clarkwinkelmann/flarum-ext-comicsans) - Turn text into Comic Sans for no reason.
+* `[2019]` [FancyBox](https://github.com/squeevee/flarum-ext-fancybox) - Image formatting and lightbox modal using FancyBox. (see [fancyapps.com/fancybox](https://fancyapps.com/fancybox)).
+* `[2019]` [ImgOss Upload](https://github.com/xiaoheheyo/flarum-imgupload-oss) - Simple image upload from the Flarum editor.
 * `[2019]` [Markdown Tables](https://github.com/KevID/flarum-pipetables) - Active markdown tables.
 * `[2019]` [Spoiler BBCode](https://github.com/oaklinq/flarum-ext-spoiler-bbcode) - Adds a ``[Spoiler]`` BBCode.
 * `[2019]` [Summaries](https://github.com/jordanjay29/flarum-ext-summaries) - Show summaries on all discussions.
 * `[2019]` [Super Sticky](https://github.com/velcis/super-sticky) - Pin discussions to the top of the top of the list.
 * `[2019]` [Userbars](https://github.com/oaklinq/flarum-ext-userbars) - Puts 5 randomly selected userbars under each post.
 * `[Archived]` [Best Answer](https://github.com/wiwatsrt/flarum-ext-best-answer) - Select post best answer.
-
-
-### Media ([:top:](#table-of-contents))
-* [Imgur Upload](https://github.com/matteocontrini/flarum-imgur-upload) by Matteocontrini - Simple image upload from the Flarum editor.
-* [Fajuu - Icons Changer](https://github.com/Fajuu/flarum-icons) - Adds the ability to change the style of icons and change the individual icons.
-* `[2019]` [AutoImage](https://github.com/s9e/flarum-ext-autoimage) - Automatically turn image links into images.
-* `[2019]` [Chords](https://github.com/zerosonesfun/flarum-ext-chords) - Post basic sheet music.
-* `[2019]` [FancyBox](https://github.com/squeevee/flarum-ext-fancybox) - Image formatting and lightbox modal using FancyBox. (see [fancyapps.com/fancybox](https://fancyapps.com/fancybox)).
-* `[2019]` [ImgOss Upload](https://github.com/xiaoheheyo/flarum-imgupload-oss) - Simple image upload from the Flarum editor.
 
 
 ### Admin Area ([:top:](#table-of-contents))
@@ -242,6 +237,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [Fajuu - Contact Button](https://github.com/Fajuu/ContactButton) - Adds a contact button, which opens an email with the administrator's addressee.
 * [Post Notification](https://github.com/tpokorra/flarum-ext-post-notification) - Send email notification for each post written or modified.
 * `[2019]` [Email verification switch](https://github.com/isaced/flarum-ext-email-verification-switch) - Disable new registered user email verification.
+* `[2019]` [FoF Pretty Mail](https://github.com/FriendsOfFlarum/pretty-mail) - Allows you to make custom HTML templates for emails.
 * `[2019]` [User default preferences](https://github.com/piotr-tokarczyk/flarum-user-default-preferences) - 'Someone replies to one of my posts (email)' and 'Someone mentions me in a post (email)' are turned on by default for each new user in your Flarum forum.
 
 
