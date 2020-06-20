@@ -179,10 +179,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 ### Admin Area ([:top:](#table-of-contents))
 * [Bazaar](https://github.com/extiverse/bazaar) - The marketplace extension that allows you to add and remove extensions without composer or a terminal.
 * [Dashboard](https://github.com/datitisev/flarum-ext-admindashboard) - This completely re-imagines the admin interface.
-* `[2019]` [Keyboard Shortcuts](https://github.com/oaklinq/flarum-ext-keyboard-shortcuts) - Adds keyboard shortcuts.
-* `[2019]` [Money](https://github.com/AntoineFr/flarum-ext-money) - Give money to your users for different actions.
-* `[2019]` [Notify](https://github.com/manelizzard/flarum-notify) - Get notified about forum activity in Slack, HipChat, Gitter or Telegram.
-* `[2019]` [Syndication](https://github.com/AmauryCarrade/flarum-ext-syndication) - Brings RSS and Atom feeds.
 
 
 ### Security & Spam ([:top:](#table-of-contents))
@@ -250,7 +246,11 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2019]` [Catch the fish](https://github.com/clarkwinkelmann/catch-the-fish) - Watch your users catch as many fishes as they can.
 * `[2019]` [Categories](https://github.com/Bokt/flarum-categories) - Old school hierarchical categories.
 * `[2019]` [Flarum Multi Tenancy](https://github.com/ahrasis/multenex) - Multi Tenancy for Flarum on single install and database.
+* `[2019]` [Keyboard Shortcuts](https://github.com/oaklinq/flarum-ext-keyboard-shortcuts) - Adds keyboard shortcuts.
+* `[2019]` [Money](https://github.com/AntoineFr/flarum-ext-money) - Give money to your users for different actions.
+* `[2019]` [Notify](https://github.com/manelizzard/flarum-notify) - Get notified about forum activity in Slack, HipChat, Gitter or Telegram.
 * `[2019]` [Queue](https://github.com/ZhiShiQ/FlarumQueue) - Add asyn job queue handle feature to laravel with laravel queue.
+* `[2019]` [Syndication](https://github.com/AmauryCarrade/flarum-ext-syndication) - Brings RSS and Atom feeds.
 * `[2018]` [FoF Default Group](https://github.com/FriendsOfFlarum/default-group) - Assign a default group to new users automatically.
 
 
