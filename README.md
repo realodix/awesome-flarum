@@ -227,13 +227,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2019]` [Summaries](https://github.com/jordanjay29/flarum-ext-summaries) - Show summaries on all discussions.
 * `[2019]` [Super Sticky](https://github.com/velcis/super-sticky) - Pin discussions to the top of the top of the list.
 * `[2019]` [Userbars](https://github.com/oaklinq/flarum-ext-userbars) - Puts 5 randomly selected userbars under each post.
-* `[2018]` [Emoji for BBCode WYSIWYG Editor](https://github.com/EricYChu/flarum-ext-bbcode-emoji) - Convert text and unicode emoji into Twemoji. Only for BBCode WYSIWYG Editor extension.
-* `[2018]` [Frontpage](https://github.com/fixer112/flarum-frontpage) - Mark discussion as frontpage.
-* `[2018]` [Geotags](https://github.com/ReFlar/OSM-Geotags) - Adds places for your posts (with editor button, list of places on each post and markdown string with name of place in text).
-* `[2018]` [Old Title](https://github.com/Extum/old-title) - Show the old title too if you change a discussion title.
-* `[2018]` [ReFlar LaTeX](https://github.com/ReFlar/latex) - Renders LaTeX expressions.
-* `[2018]` [Reply2See](https://github.com/WiseClock/flarum-ext-reply2see) - Adds a reply to see BBCode.
-* `[2018]` [Signature](https://github.com/Extum/flarum-ext-signature) - Signature support to your forum.
 * `[Archived]` [Best Answer](https://github.com/wiwatsrt/flarum-ext-best-answer) - Select post best answer.
 
 
@@ -253,21 +246,16 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2019]` [Money](https://github.com/AntoineFr/flarum-ext-money) - Give money to your users for different actions.
 * `[2019]` [Notify](https://github.com/manelizzard/flarum-notify) - Get notified about forum activity in Slack, HipChat, Gitter or Telegram.
 * `[2019]` [Syndication](https://github.com/AmauryCarrade/flarum-ext-syndication) - Brings RSS and Atom feeds.
-* `[2018]` [Flagrow Users List](https://github.com/flagrow/users-list) - Adds users list to admin panel.
-* `[2018]` [ReFlar UnCache](https://github.com/ReFlar/UnCache) - Automatically clear the cache when you enable a new extension.
 
 
 ### SEO ([:top:](#table-of-contents))
 * [SEO friendly slugs for Flarum](https://github.com/Zeokat/flarum-ext-seoslugs) - Use friendly URLs (aka transliteration) in slugs.
 * [SEO](https://github.com/v17development/flarum-seo) - Adds SEO tags for your forum.
-* `[2018]` [Sitemap](https://github.com/terabin/flarum-ext-sitemap) - Generate a sitemap automatically.
 
 
 ### Link ([:top:](#table-of-contents))
 * [Affiliation Links](https://github.com/kilowhat/flarum-ext-affiliation-links) - Automatically turn links into custom affiliate or redirect links.
 * [Canonical URL](https://github.com/migratetoflarum/canonical) - Create redirects to the canonical url of your forum.
-* `[2018]` [Flagrow Direct Links](https://github.com/flagrow/direct-links) - Adds direct links to various Flarum actions.
-* `[Archived]` [Follow Links BBCODE](https://github.com/sijad/flarum-ext-github-autolink) - Remove nofollow attribute from links using BBCODE.
 
 
 ### Sharing ([:top:](#table-of-contents))
@@ -279,7 +267,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 ### User ([:top:](#table-of-contents))
 * `[2019]` [Contact](https://github.com/ffRunKey/contact) - Add user contact information.
 * `[2019]` [Online](https://github.com/AntoineFr/flarum-ext-online) - Display online users on the left sidebar.
-* `[2018]` [ReFlar Clean Profile Posts](https://github.com/ReFlar/clean-profile-posts) - Removes the initial posts of discussions from the user's profile posts list.
 
 
 ### Mail ([:top:](#table-of-contents))
@@ -287,8 +274,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [Post Notification](https://github.com/tpokorra/flarum-ext-post-notification) - Send email notification for each post written or modified.
 * `[2019]` [Email verification switch](https://github.com/isaced/flarum-ext-email-verification-switch) - Disable new registered user email verification.
 * `[2019]` [User default preferences](https://github.com/piotr-tokarczyk/flarum-user-default-preferences) - 'Someone replies to one of my posts (email)' and 'Someone mentions me in a post (email)' are turned on by default for each new user in your Flarum forum.
-*  `[2018]` [Flagrow Fix auto-confirm](https://github.com/flagrow/auto-confirm-fix) - Fixes auto confirmation by bots that read your mailbox.
-*  `[2018]` [Flagrow Mail Drivers](https://github.com/flagrow/mail-drivers) - Send email via Mailgun, Mandrill or SES api.
 
 
 ### Theme Enhancements ([:top:](#table-of-contents))
@@ -311,11 +296,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2019]` [Flarum Multi Tenancy](https://github.com/ahrasis/multenex) - Multi Tenancy for Flarum on single install and database.
 * `[2019]` [Queue](https://github.com/ZhiShiQ/FlarumQueue) - Add asyn job queue handle feature to laravel with laravel queue.
 * `[2019]` [Redis Connector](https://github.com/ZhiShiQ/FlarumRedis) - Allow user to bind with wechat.
-* `[2018]` [Flagrow Fonts](https://github.com/flagrow/fonts) - Easily add fonts.
-* `[2018]` [Flagrow Serve](https://github.com/flagrow/serve) - Add the serve command to Flarum. This will allow you to start Flarum into the PHP development server via a simple command.
-* `[2018]` [Search](https://github.com/ganuonglachanh/flarum-ganuonglachanh-search) - Allows to search by discusstion title.
-* `[2018]` [Time Machine](https://github.com/Extum/flarum-ext-time-machine) - Modify the time of your posts, user registrations and more by travelling back in time.
-* `[Archived]` [ReFlar Koseki](https://github.com/ReFlar/koseki) - Tidy up your forum with a structured hierarchical layout.
 
 
 ## Resources
