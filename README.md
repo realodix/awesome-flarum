@@ -73,7 +73,6 @@ Most likely not compatible with the latest version of Flarum. You need to modify
   * [FoF Links](https://github.com/FriendsOfFlarum/links) - Manage Flarum primary navigation links.
   * [FoF Merge Discussions](https://github.com/FriendsOfFlarum/merge-discussions) - Merge two or more discussions into one.
   * [FoF Moderator Notes](https://github.com/FriendsOfFlarum/moderator-notes) - Create private notes for your forum users.
-  * [FoF OAuth](https://github.com/FriendsOfFlarum/oauth) - Allow users to log in with GitHub, Twitter, Facebook, and more!
   * [FoF Open Collective](https://github.com/FriendsOfFlarum/open-collective) - Open Collective integration for your Flarum forum.
   * [FoF Pages](https://github.com/FriendsOfFlarum/pages) - Create custom pages with Flarum.
   * [FoF Passport](https://github.com/FriendsOfFlarum/passport) - The [Laravel Passport](https://laravel.com/docs/passport) compatible oauth extension.
@@ -82,7 +81,6 @@ Most likely not compatible with the latest version of Flarum. You need to modify
   * [FoF Profile Image Crop](https://github.com/FriendsOfFlarum/profile-image-crop) - Allow cropping when uploading profile picture.
   * [FoF Pwned Passwords](https://github.com/FriendsOfFlarum/pwned-passwords) - Check passwords against the [Have I Been Pwned](https://haveibeenpwned.com/) password database.
   * [FoF Reactions](https://github.com/FriendsOfFlarum/reactions) - Adds reactions to your community.
-  * [FoF Real Time Login](https://github.com/FriendsOfFlarum/realtimelogin) - Makes logins update in real time.
   * [FoF reCAPTCHA](https://github.com/FriendsOfFlarum/recaptcha) - Increase your forum's security with Google reCAPTCHA.
   * [FoF Sentry](https://github.com/FriendsOfFlarum/sentry) - Flarum integration for [Sentry](https://sentry.io).
   * [FoF Sitemap](https://github.com/FriendsOfFlarum/sitemap) - Generate a sitemap.
@@ -95,11 +93,8 @@ Most likely not compatible with the latest version of Flarum. You need to modify
   * [FoF URL Transliterator](https://github.com/FriendsOfFlarum/transliterator) - Transliterate non-ASCII characters in discussion URL.
   * [FoF User Bio](https://github.com/FriendsOfFlarum/user-bio) - Add the user bio back into Flarum.
   * [FoF User Directory](https://github.com/FriendsOfFlarum/user-directory) - The permission based public user directory extension.
-  * [FoF Username Request](https://github.com/FriendsOfFlarum/username-request) - Allow users to request new usernames
   * [Mason](https://github.com/FriendsOfFlarum/mason) - The discussion custom fields builder.
-  * [ReFlar Doorman](https://github.com/FriendsOfFlarum/doorman) - Only allow certain people to join your forum.
   * [Upload](https://github.com/FriendsOfFlarum/upload) - An extension that handles file uploads intelligently.
-  * `[2019]` [FoF GitLab Login](https://github.com/FriendsOfFlarum/auth-gitlab) - Allow users to log in with GitLab. 
   * `[2019]` [FoF Masquerade](https://github.com/FriendsOfFlarum/masquerade) - User profile builder extension for your forum.
   * `[2019]` [FoF Pretty Mail](https://github.com/FriendsOfFlarum/pretty-mail) - Allows you to make custom HTML templates for emails.
   * `[2018]` [FoF Default Group](https://github.com/FriendsOfFlarum/default-group) - Assign a default group to new users automatically.
@@ -177,11 +172,15 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 
 
 ### Authentication & Authorization ([:top:](#table-of-contents))
+* [FoF OAuth](https://github.com/FriendsOfFlarum/oauth) - Allow users to log in with GitHub, Twitter, Facebook, and more!
+* [FoF Real Time Login](https://github.com/FriendsOfFlarum/realtimelogin) - Makes logins update in real time.
+* [FoF Username Request](https://github.com/FriendsOfFlarum/username-request) - Allow users to request new usernames
 * [LDAP login](https://github.com/tituspijean/flarum-ext-auth-ldap) - Allow users to log in through LDAP.
 * [NomisCZ Steam Login](https://github.com/NomisCZ/flarum-ext-auth-steam) - Allow users to log in with Steam.
+* [ReFlar Doorman](https://github.com/FriendsOfFlarum/doorman) - Only allow certain people to join your forum.
 * [SSOwat login](https://github.com/tituspijean/flarum-ext-auth-ssowat) - Allow users to login through SSOwat.
-* `[2019]` [Auth0 Login](https://github.com/helmgast/flarum-auth0) - Allow users to log in with Auth0.
 * `[2019]` [Eve Login](https://github.com/instkffff/auth-eve) - Allow users to log in with EveOnline.
+* `[2019]` [FoF GitLab Login](https://github.com/FriendsOfFlarum/auth-gitlab) - Allow users to log in with GitLab. 
 * `[2019]` [Google Login](https://github.com/johnhearfield/flarum-ext-oauth-google) - Allow users to login using their Google account.
 * `[2019]` [ReFlar Two Factor](https://github.com/ReFlar/twofactor) - Increases security by adding TOTP and Twillio two factor authentication.
 
