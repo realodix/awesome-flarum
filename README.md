@@ -11,8 +11,8 @@
   - [Authentication & Authorization](#authentication--authorization-top)
   - [Discussion](#discussion-top)
   - [Admin Area](#admin-area-top)
+  - [Security & Spam](#security--spam-top)
   - [Link](#link-top)
-  - [Sharing](#sharing-top)
   - [User](#user-top)
   - [Mail](#mail-top)
   - [Theme Enhancements](#theme-enhancements-top)
@@ -43,14 +43,10 @@ Most likely not compatible with the latest version of Flarum. You need to modify
   <summary>Friends of Flarum</summary>
 
   * [Console](https://github.com/FriendsOfFlarum/console) - Register custom commands and task scheduling.
-  * [FoF Ban IPs](https://github.com/FriendsOfFlarum/ban-ips) - Ban IP addresses from your forum.
   * [FoF Clockwork](https://github.com/FriendsOfFlarum/clockwork) - Clockwork integration.
   * [FoF Custom Footer](https://github.com/FriendsOfFlarum/custom-footer) - Allows the addition of a custom footer.
-  * [FoF Default User Preferences](https://github.com/FriendsOfFlarum/default-user-preferences) - Enable emails for replies and mentions by default in user preferences.
   * [FoF GeoIP](https://github.com/FriendsOfFlarum/geoip) - Geolocation for your Flarum forum.
-  * [FoF Guardian](https://github.com/FriendsOfFlarum/guardian) - Automates reviewing users based on their forum behaviour and activity.
   * [FoF HTML Errors](https://github.com/FriendsOfFlarum/html-errors) - Add custom HTML error pages.
-  * [FoF Ignore Users](https://github.com/FriendsOfFlarum/ignore-users) - Lets users to ignore other users.
   * [FoF Linguist](https://github.com/FriendsOfFlarum/linguist) - Customize translations with ease.
   * [FoF Links](https://github.com/FriendsOfFlarum/links) - Manage Flarum primary navigation links.
   * [FoF Moderator Notes](https://github.com/FriendsOfFlarum/moderator-notes) - Create private notes for your forum users.
@@ -58,21 +54,12 @@ Most likely not compatible with the latest version of Flarum. You need to modify
   * [FoF Pages](https://github.com/FriendsOfFlarum/pages) - Create custom pages with Flarum.
   * [FoF Passport](https://github.com/FriendsOfFlarum/passport) - The [Laravel Passport](https://laravel.com/docs/passport) compatible oauth extension.
   * [FoF Prevent Necrobumping](https://github.com/FriendsOfFlarum/prevent-necrobumping) - Warn before necrobumping old discussions.
-  * [FoF Profile Image Crop](https://github.com/FriendsOfFlarum/profile-image-crop) - Allow cropping when uploading profile picture.
-  * [FoF Pwned Passwords](https://github.com/FriendsOfFlarum/pwned-passwords) - Check passwords against the [Have I Been Pwned](https://haveibeenpwned.com/) password database.
-  * [FoF reCAPTCHA](https://github.com/FriendsOfFlarum/recaptcha) - Increase your forum's security with Google reCAPTCHA.
   * [FoF Sentry](https://github.com/FriendsOfFlarum/sentry) - Flarum integration for [Sentry](https://sentry.io).
-  * [FoF Social Profile](https://github.com/FriendsOfFlarum/socialprofile) - Add custom social media pages to your user profile.
-  * [FoF Spamblock](https://github.com/FriendsOfFlarum/spamblock) - Mark user as spammer, suspending them & hiding their posts and discussions.
-  * [FoF Stop Forum Spam](https://github.com/FriendsOfFlarum/stopforumspam) - Run registrations through the Stop Forum Spam database.
   * [FoF Subscribed](https://github.com/FriendsOfFlarum/subscribed) - Adds additional subscriptions to specific events.
   * [FoF Terms](https://github.com/FriendsOfFlarum/terms) - Ask your users to accept TOS and privacy policy.
-  * [FoF User Bio](https://github.com/FriendsOfFlarum/user-bio) - Add the user bio back into Flarum.
   * [FoF User Directory](https://github.com/FriendsOfFlarum/user-directory) - The permission based public user directory extension.
   * [Upload](https://github.com/FriendsOfFlarum/upload) - An extension that handles file uploads intelligently.
-  * `[2019]` [FoF Masquerade](https://github.com/FriendsOfFlarum/masquerade) - User profile builder extension for your forum.
   * `[2018]` [FoF Default Group](https://github.com/FriendsOfFlarum/default-group) - Assign a default group to new users automatically.
-  * `[2018]` [FoF Secure HTTPS](https://github.com/FriendsOfFlarum/secure-https) - Changes all images using HTTP to HTTPS.
 </details>
 
 
@@ -222,17 +209,27 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2019]` [Syndication](https://github.com/AmauryCarrade/flarum-ext-syndication) - Brings RSS and Atom feeds.
 
 
+### Security & Spam ([:top:](#table-of-contents))
+* [FoF Guardian](https://github.com/FriendsOfFlarum/guardian) - Automates reviewing users based on their forum behaviour and activity.
+* [FoF Pwned Passwords](https://github.com/FriendsOfFlarum/pwned-passwords) - Check passwords against the [Have I Been Pwned](https://haveibeenpwned.com/) password database.
+* [FoF reCAPTCHA](https://github.com/FriendsOfFlarum/recaptcha) - Increase your forum's security with Google reCAPTCHA.
+* [FoF Spamblock](https://github.com/FriendsOfFlarum/spamblock) - Mark user as spammer, suspending them & hiding their posts and discussions.
+* [FoF Stop Forum Spam](https://github.com/FriendsOfFlarum/stopforumspam) - Run registrations through the Stop Forum Spam database.
+* [FoF Ban IPs](https://github.com/FriendsOfFlarum/ban-ips) - Ban IP addresses from your forum.
+* `[2018]` [FoF Secure HTTPS](https://github.com/FriendsOfFlarum/secure-https) - Changes all images using HTTP to HTTPS.
+
+
 ### Link ([:top:](#table-of-contents))
 * [Canonical URL](https://github.com/migratetoflarum/canonical) - Create redirects to the canonical url of your forum.
 
 
-### Sharing ([:top:](#table-of-contents))
-* `[2018]` [Flarum Sharing](https://github.com/radixi0/flarum-ext-sharing) - Adds share (to some popular social networks) buttons and ``<head>`` meta tags (Open Graph and Twitter card) to make links to your forum look better.
-* `[2018]` [Topic Count](https://github.com/Extum/flarum-ext-topic-count) - Send webhooks to your Discord server from your forum.
-* `[Archived]` [Social Profile](https://github.com/dav-is/flarum-ext-socialprofile) - Allows addition of social media pages to your profile.
-
-
 ### User ([:top:](#table-of-contents))
+ [FoF Ignore Users](https://github.com/FriendsOfFlarum/ignore-users) - Lets users to ignore other users.
+* [FoF Default User Preferences](https://github.com/FriendsOfFlarum/default-user-preferences) - Enable emails for replies and mentions by default in user preferences.
+* [FoF Profile Image Crop](https://github.com/FriendsOfFlarum/profile-image-crop) - Allow cropping when uploading profile picture.
+* [FoF Social Profile](https://github.com/FriendsOfFlarum/socialprofile) - Add custom social media pages to your user profile.
+* [FoF User Bio](https://github.com/FriendsOfFlarum/user-bio) - Add the user bio back into Flarum.
+* `[2019]` [FoF Masquerade](https://github.com/FriendsOfFlarum/masquerade) - User profile builder extension for your forum.
 * `[2019]` [Contact](https://github.com/ffRunKey/contact) - Add user contact information.
 * `[2019]` [Online](https://github.com/AntoineFr/flarum-ext-online) - Display online users on the left sidebar.
 
