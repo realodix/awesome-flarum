@@ -110,17 +110,17 @@ Most likely not compatible with the latest version of Flarum. You need to modify
 ### Language Pack ([:top:](#table-of-contents))
 Flarum comes with an English language pack; however, the Flarum Community has produced a large number of translations other languages — find yours here.
 
-* [Arabic (ar)](https://github.com/ziymed/lang-arabic) by Ziymed
+* [Arabic (ar)](https://github.com/ziymed/lang-arabic)
 * [Basque (eu)](https://github.com/rierte12/flarum-basque)
 * [Chinese (zh-hans)](https://github.com/Csineneo/lang-simplified-chinese) by Csineneo
 * [Chinese (zh-hans)](https://github.com/Littlegolden/flarum-lang-simplified-chinese) by CLittlegolden
 * [Chinese (zh-hant)](https://github.com/Csineneo/lang-traditional-chinese) by Csineneo
-* [Dutch (nl)](https://github.com/MichaelBelgium/flarum-dutch) by MichaelBelgium
+* [Dutch (nl)](https://github.com/MichaelBelgium/flarum-dutch)
 * [French (fr)](https://github.com/milescellar/lang-french) by Milescellar
 * [French (fr)](https://github.com/rooaaar/lang-french-extended) by Rooaaar
 * [German (de)](https://github.com/Kakifrucht/flarum-de)
-* [Hebrew (he)](https://github.com/itayganor/flabrew) by Itayganor
-* [Hungarian (hu)](https://github.com/manaszon/flarum-ext-hungarian) by Manaszon
+* [Hebrew (he)](https://github.com/itayganor/flabrew)
+* [Hungarian (hu)](https://github.com/manaszon/flarum-ext-hungarian)
 * [Indonesian (id)](https://github.com/realodix/flarum-ext-indonesian)
 * [Italian (it)](https://github.com/Nearata/lang-italian)
 * [Japanese (ja)](https://github.com/Littlegolden/flarum-lang-japanese) by Littlegolden
@@ -128,13 +128,13 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [Japanese (ja)](https://github.com/takumi9942/flarum-ext-japanese) by Takumi9942
 * [Norwegian Bokmål (nb)](https://github.com/pladask/flarum-ext-norwegian-bokmal)
 * [Occitan (oc)](https://github.com/Mejans/lang-occitan)
-* [Persian (fa)](https://github.com/sijad/flarum-ext-persian) by Sijad
+* [Persian (fa)](https://github.com/sijad/flarum-ext-persian)
 * [Portuguese (pt-BR)](https://github.com/tiuram0n/flaneo-ext-brazilian-portuguese) by Tiuram0n
 * [Portuguese (pt-PT)](https://github.com/bertaveira/flarum-pt-pt) by Bertaveira
 * [Russian (ru)](https://gitlab.com/marketplace-flarum/languages/flarum-l10n-core-russian) by [Flarum Marketplace](https://gitlab.com/marketplace-flarum)
 * [Serbian (sr)](https://github.com/bryantmilan/lang-serbian)
 * [Slovak (sk)](https://github.com/CWKevo/flarum-lang-slovak)
-* [Spanish (es)](https://github.com/darkfoxdeveloper/flarum-ext-spanish) by Darkfoxdeveloper
+* [Spanish (es)](https://github.com/darkfoxdeveloper/flarum-ext-spanish)
 * [Turkish (tr)](https://github.com/cagatayldzz/lang-turkish) by Cagatayldzz
 * [Turkish (tr)](https://github.com/tolgaaaltas/flarum-lang-turkish) by Tolgaaaltas
 * [Vietnamese (vi)](https://github.com/datlechin/lang-vietnamese) by Datlechin
