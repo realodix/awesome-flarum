@@ -145,18 +145,12 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
   * `[2019]` [Bosnian (bs)](https://github.com/ahmic/flarum-lang-bosnian)
   * `[2019]` [Czech (cs)](https://github.com/ogioncz/flarum-ext-czech) by Ogioncz
   * `[2019]` [Czech (cs)](https://github.com/PepaR/flarum-ext-czech) by PepaR
-  * `[2019]` [Dutch (nl)](https://github.com/PurpleObject/flarum-dutch) by PurpleObject
-  * `[2019]` [Japanese (ja)](https://github.com/Felli/lang-japanese) by Felli
-  * `[2019]` [Japanese (ja)](https://github.com/setsunaMC/flarum-ext-japanese) by SetsunaMC
   * `[2019]` [Malaysian (my)](https://github.com/ahrasis/bahasa-melayu)
   * `[2019]` [Norwegian (no)](https://github.com/Menomenta/flarum-ext-norwegian)
-  * `[2019]` [Persian (fa)](https://github.com/persianfla/flarum-ext-persian) by Persianfla
-  * `[2019]` [Polish (pl)](https://github.com/bepropl/lang-polish) by Bepropl
-  * `[2019]` [Portuguese (pt-BR)](https://github.com/arbezerra/flarum-lang-ptbr) by Arbezerra
+  * `[2019]` [Polish (pl)](https://github.com/bepropl/lang-polish)
   * `[2019]` [Thailand (th)](https://github.com/drsaluml/flarum-ext-thai) by Drsaluml
   * `[2019]` [Thailand (th)](https://github.com/wiwatsrt/flarum-ext-thai) by Wiwatsrt
-  * `[2019]` [Turkish (tr)](https://github.com/Madraka/lang-turkish) by Madraka
-  * `[2019]` [Ukrainian (uk)](https://github.com/eikoninaru/flarum-ext-ukrainian) by Eikoninaru
+  * `[2019]` [Ukrainian (uk)](https://github.com/eikoninaru/flarum-ext-ukrainian)
 </details>
 <details>
   <summary>2018, 2017, 2016 & Archived</summary>
