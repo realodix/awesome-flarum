@@ -6,7 +6,7 @@
 
 - [Extensions](#extensions)
   - [Language Pack](#language-pack-top)
-  - [Ads & Affiliation](#ads-affiliation)
+  - [Ads & Affiliation](#ads--affiliation-top)
   - [Analytics & SEO](#analytics--seo-top)
   - [Authentication & Authorization](#authentication--authorization-top)
   - [Discussion](#discussion-top)
@@ -145,7 +145,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 </details>
 
 
-### Ads & Affiliation ([:top:](#ads-affiliation))
+### Ads & Affiliation ([:top:](#table-of-contents))
 * [Affiliation Links](https://github.com/kilowhat/flarum-ext-affiliation-links) - Automatically turn links into custom affiliate or redirect links.
 * [Flagrow Ads](https://github.com/FriendsOfFlarum/ads) - Allows you to configure ads in several locations.
 * [FoF Amazon Affiliation](https://github.com/FriendsOfFlarum/amazon-affiliation) - Add your Amazon Affiliate tag to Amazon links.
