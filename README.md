@@ -144,6 +144,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [Fajuu - Icons Changer](https://github.com/Fajuu/flarum-icons) - Adds the ability to change the style of icons and change the individual icons.
 * [FoF BBCode Details](https://github.com/FriendsOfFlarum/bbcode-details) - Details BBCode.
 * [FoF BBCode Tabs](https://github.com/FriendsOfFlarum/bbcode-tabs) - Add tabs to your posts by using BBCode tags.
+* [FoF Best Answer](https://github.com/FriendsOfFlarum/best-answer) - Mark a post as the best answer in a discussion.
 * [FoF Byōbu](https://github.com/FriendsOfFlarum/byobu) - Well integrated, advanced private discussions.
 * [FoF Discussion Thumbnail](https://github.com/FriendsOfFlarum/discussion-thumbnail) - Replace author avatars with the first image in a discussion's starting post.
 * [FoF Drafts](https://github.com/FriendsOfFlarum/drafts) - Allow users to create post and discussion drafts.
@@ -158,22 +159,16 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [FoF Reactions](https://github.com/FriendsOfFlarum/reactions) - Adds reactions to your community.
 * [FoF Split](https://github.com/FriendsOfFlarum/split) - Separate posts from one discussion into its own, splits discussions.
 * [FoF URL Transliterator](https://github.com/FriendsOfFlarum/transliterator) - Transliterate non-ASCII characters in discussion URL.
-* [Imgur Upload](https://github.com/matteocontrini/flarum-imgur-upload) by Matteocontrini - Simple image upload from the Flarum editor.
+* [Hashtags](https://github.com/zerosonesfun/hashtags) - Adds "hashtag to link" ability to Flarum.
+* [Imgur Upload](https://github.com/matteocontrini/flarum-imgur-upload) - Simple image upload from the Flarum editor.
 * [Mason](https://github.com/FriendsOfFlarum/mason) - The discussion custom fields builder.
 * [ReFlar Level Ranks](https://github.com/ReFlar/level-ranks) - Add a level/experience bar to your forum.
-* `[2019]` [Advanced Pusher](https://github.com/ZhiShiQ/FlarumPusher) - See new discussions and posts in real-time using Pusher. This repo is modified based on [flarum/pusher](https://github.com/flarum/pusher).
-* `[2019]` [Auto More](https://github.com/noriods/automore) - Automatically clicks the 'load more' button when it comes into view.
 * `[2019]` [AutoImage](https://github.com/s9e/flarum-ext-autoimage) - Automatically turn image links into images.
 * `[2019]` [Chords](https://github.com/zerosonesfun/flarum-ext-chords) - Post basic sheet music.
-* `[2019]` [Comic Sans](https://github.com/clarkwinkelmann/flarum-ext-comicsans) - Turn text into Comic Sans for no reason.
-* `[2019]` [FancyBox](https://github.com/squeevee/flarum-ext-fancybox) - Image formatting and lightbox modal using FancyBox. (see [fancyapps.com/fancybox](https://fancyapps.com/fancybox)).
-* `[2019]` [ImgOss Upload](https://github.com/xiaoheheyo/flarum-imgupload-oss) - Simple image upload from the Flarum editor.
-* `[2019]` [Markdown Tables](https://github.com/KevID/flarum-pipetables) - Active markdown tables.
-* `[2019]` [Spoiler BBCode](https://github.com/oaklinq/flarum-ext-spoiler-bbcode) - Adds a ``[Spoiler]`` BBCode.
+* `[2019]` [Markdown Tables](https://github.com/oaklinq/flarum-ext-pipetables) - Active markdown tables.
 * `[2019]` [Summaries](https://github.com/jordanjay29/flarum-ext-summaries) - Show summaries on all discussions.
 * `[2019]` [Super Sticky](https://github.com/velcis/super-sticky) - Pin discussions to the top of the top of the list.
 * `[2019]` [Userbars](https://github.com/oaklinq/flarum-ext-userbars) - Puts 5 randomly selected userbars under each post.
-* `[Archived]` [Best Answer](https://github.com/wiwatsrt/flarum-ext-best-answer) - Select post best answer.
 
 
 ### Admin Area ([:top:](#table-of-contents))
@@ -194,11 +189,11 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 ### User ([:top:](#table-of-contents))
 * [FoF Default User Preferences](https://github.com/FriendsOfFlarum/default-user-preferences) - Enable emails for replies and mentions by default in user preferences.
 * [FoF Ignore Users](https://github.com/FriendsOfFlarum/ignore-users) - Lets users to ignore other users.
+* [FoF Masquerade](https://github.com/FriendsOfFlarum/masquerade) - User profile builder extension for your forum.
 * [FoF Profile Image Crop](https://github.com/FriendsOfFlarum/profile-image-crop) - Allow cropping when uploading profile picture.
 * [FoF Social Profile](https://github.com/FriendsOfFlarum/socialprofile) - Add custom social media pages to your user profile.
 * [FoF User Bio](https://github.com/FriendsOfFlarum/user-bio) - Add the user bio back into Flarum.
 * [Profile views](https://github.com/MichaelBelgium/flarum-profile-views) - Track how much times a profile has been viewed.
-* `[2019]` [FoF Masquerade](https://github.com/FriendsOfFlarum/masquerade) - User profile builder extension for your forum.
 * `[2019]` [Contact](https://github.com/ffRunKey/contact) - Add user contact information.
 * `[2019]` [Online](https://github.com/AntoineFr/flarum-ext-online) - Display online users on the left sidebar.
 
@@ -219,7 +214,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [Theme Light Shadow](https://github.com/Madchatthew/themelightshadow) - Light theme with shadow box look.
 * `[2019]` [Color Circles](https://github.com/clarkwinkelmann/flarum-ext-circle-groups) - Add a color circle around avatars based on user group.
 * `[2018]` [Blue Night style](https://discuss.flarum.org/d/11039)
-* `[2017]` [Flarloader](https://github.com/EnDylan/Flarloader) - A loading bar for Flarum.
+* `[2017]` [Flarloader](https://github.com/Tokinoharu/Flarloader) - A loading bar for Flarum.
 
 
 ### Others ([:top:](#table-of-contents))
@@ -227,6 +222,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [Console](https://github.com/FriendsOfFlarum/console) - Register custom commands and task scheduling.
 * [FoF Clockwork](https://github.com/FriendsOfFlarum/clockwork) - Clockwork integration.
 * [FoF Custom Footer](https://github.com/FriendsOfFlarum/custom-footer) - Allows the addition of a custom footer.
+* [FoF Default Group](https://github.com/FriendsOfFlarum/default-group) - Assign a default group to new users automatically.
 * [FoF GeoIP](https://github.com/FriendsOfFlarum/geoip) - Geolocation for your Flarum forum.
 * [FoF HTML Errors](https://github.com/FriendsOfFlarum/html-errors) - Add custom HTML error pages.
 * [FoF Linguist](https://github.com/FriendsOfFlarum/linguist) - Customize translations with ease.
@@ -251,7 +247,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2019]` [Notify](https://github.com/manelizzard/flarum-notify) - Get notified about forum activity in Slack, HipChat, Gitter or Telegram.
 * `[2019]` [Queue](https://github.com/ZhiShiQ/FlarumQueue) - Add asyn job queue handle feature to laravel with laravel queue.
 * `[2019]` [Syndication](https://github.com/AmauryCarrade/flarum-ext-syndication) - Brings RSS and Atom feeds.
-* `[2018]` [FoF Default Group](https://github.com/FriendsOfFlarum/default-group) - Assign a default group to new users automatically.
 
 
 ## Resources
