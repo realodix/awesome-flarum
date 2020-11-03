@@ -213,6 +213,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [FoF Night Mode](https://github.com/FriendsOfFlarum/nightmode) - Turn your flarum forum to dark as user.
 * [Material Design by Extum](https://github.com/Extum/flarum-ext-material) - Materialize your forum with this Flarum extension that uses the latest guidelines.
 * [OS-X Yosemite Mountain](https://discuss.flarum.org/d/7598)
+* [Stargazing Theme](https://github.com/the-turk/flarum-stargazing-theme) - Stargazing theme for your forum.
 * [Theme Light Shadow](https://github.com/Madchatthew/themelightshadow) - Light theme with shadow box look.
 * `[2018]` [Blue Night style](https://discuss.flarum.org/d/11039)
 * `[2017]` [Flarloader](https://github.com/Tokinoharu/Flarloader) - A loading bar for Flarum.
