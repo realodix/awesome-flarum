@@ -140,6 +140,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 
 ### Discussion ([:top:](#table-of-contents))
 * [Copy Code To Clipboard](https://github.com/nearata/flarum-ext-copy-code-to-clipboard) - Allows the user to easly copy the text inside the code tag.
+* [Diff](https://github.com/the-turk/flarum-diff) - View post edit histories.
 * [Discussion views](https://github.com/MichaelBelgium/flarum-discussion-views) - Track how much times a discussion has been viewed.
 * [Embed Video](https://github.com/Nearata/flarum-ext-embed-video) - Allow users to embed video using DPlayer and BBCode.
 * [Emoji Picker](https://github.com/clarkwinkelmann/flarum-ext-emojionearea) - Add EmojioneArea emoji picker.
