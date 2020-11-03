@@ -217,6 +217,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 
 ### Others ([:top:](#table-of-contents))
 * [Canonical URL](https://github.com/migratetoflarum/canonical) - Create redirects to the canonical url of your forum.
+* [Catch the fish](https://github.com/clarkwinkelmann/catch-the-fish) - Watch your users catch as many fishes as they can.
 * [Console](https://github.com/FriendsOfFlarum/console) - Register custom commands and task scheduling.
 * [FoF Clockwork](https://github.com/FriendsOfFlarum/clockwork) - Clockwork integration.
 * [FoF Custom Footer](https://github.com/FriendsOfFlarum/custom-footer) - Allows the addition of a custom footer.
@@ -237,7 +238,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [ReFlar Cookie Consent](https://github.com/ReFlar/cookie-consent) - Customizable cookie consent notice for your Flarum installation.
 * [Upload](https://github.com/FriendsOfFlarum/upload) - An extension that handles file uploads intelligently.
 * `[2019]` [Algolia Search](https://github.com/VasylTech/flarum-algolia-search) - Replace the default Flarum search with Algolia search.
-* `[2019]` [Catch the fish](https://github.com/clarkwinkelmann/catch-the-fish) - Watch your users catch as many fishes as they can.
 * `[2019]` [Categories](https://github.com/Bokt/flarum-categories) - Old school hierarchical categories.
 * `[2019]` [Flarum Multi Tenancy](https://github.com/ahrasis/multenex) - Multi Tenancy for Flarum on single install and database.
 * `[2019]` [Keyboard Shortcuts](https://github.com/oaklinq/flarum-ext-keyboard-shortcuts) - Adds keyboard shortcuts.
