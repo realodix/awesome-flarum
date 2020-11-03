@@ -133,7 +133,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [ReFlar Doorman](https://github.com/FriendsOfFlarum/doorman) - Only allow certain people to join your forum.
 * [SSOwat login](https://github.com/tituspijean/flarum-ext-auth-ssowat) - Allow users to login through SSOwat.
 * `[2019]` [Eve Login](https://github.com/instkffff/auth-eve) - Allow users to log in with EveOnline.
-* `[2019]` [FoF GitLab Login](https://github.com/FriendsOfFlarum/auth-gitlab) - Allow users to log in with GitLab. 
 * `[2019]` [Google Login](https://github.com/johnhearfield/flarum-ext-oauth-google) - Allow users to login using their Google account.
 * `[2019]` [ReFlar Two Factor](https://github.com/ReFlar/twofactor) - Increases security by adding TOTP and Twillio two factor authentication.
 
