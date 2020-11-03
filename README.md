@@ -57,6 +57,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [Japanese (ja)](https://github.com/Littlegolden/flarum-lang-japanese) by Littlegolden
 * [Japanese (ja)](https://github.com/maa123/flarum-ext-japanese) by Maa123
 * [Japanese (ja)](https://github.com/takumi9942/flarum-ext-japanese) by Takumi9942
+* [Korean (ko)](https://github.com/Cryental/flarum-l10n-ext-korean)
 * [Norwegian Bokmål (nb)](https://github.com/pladask/flarum-ext-norwegian-bokmal)
 * [Occitan (oc)](https://github.com/Mejans/lang-occitan)
 * [Persian (fa)](https://github.com/sijad/flarum-ext-persian)
