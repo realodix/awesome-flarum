@@ -164,6 +164,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [Hashtags](https://github.com/zerosonesfun/hashtags) - Adds "hashtag to link" ability to Flarum.
 * [Imgur Upload](https://github.com/matteocontrini/flarum-imgur-upload) - Simple image upload from the Flarum editor.
 * [Mason](https://github.com/FriendsOfFlarum/mason) - The discussion custom fields builder.
+* [MathRen](https://github.com/the-turk/flarum-mathren) - TeX math rendering for your forum.
 * [ReFlar Level Ranks](https://github.com/ReFlar/level-ranks) - Add a level/experience bar to your forum.
 * `[2019]` [AutoImage](https://github.com/s9e/flarum-ext-autoimage) - Automatically turn image links into images.
 * `[2019]` [Chords](https://github.com/zerosonesfun/flarum-ext-chords) - Post basic sheet music.
