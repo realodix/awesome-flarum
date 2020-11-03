@@ -238,6 +238,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [FoF Terms](https://github.com/FriendsOfFlarum/terms) - Ask your users to accept TOS and privacy policy.
 * [FoF User Directory](https://github.com/FriendsOfFlarum/user-directory) - The permission based public user directory extension.
 * [ReFlar Cookie Consent](https://github.com/ReFlar/cookie-consent) - Customizable cookie consent notice for your Flarum installation.
+* [Tags Color Generator](https://github.com/Nearata/flarum-ext-tags-color-generator) - Allows the generation of a random color for tags.
 * [Upload](https://github.com/FriendsOfFlarum/upload) - An extension that handles file uploads intelligently.
 * `[2019]` [Algolia Search](https://github.com/VasylTech/flarum-algolia-search) - Replace the default Flarum search with Algolia search.
 * `[2019]` [Categories](https://github.com/Bokt/flarum-categories) - Old school hierarchical categories.
