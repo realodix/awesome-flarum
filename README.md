@@ -131,6 +131,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [LDAP login](https://github.com/tituspijean/flarum-ext-auth-ldap) - Allow users to log in through LDAP.
 * [NomisCZ Steam Login](https://github.com/NomisCZ/flarum-ext-auth-steam) - Allow users to log in with Steam.
 * [ReFlar Doorman](https://github.com/FriendsOfFlarum/doorman) - Only allow certain people to join your forum.
+* [Registration Roles](https://github.com/the-turk/flarum-regrole) - Allow users to assign roles to themselves during registration.
 * [SSOwat login](https://github.com/tituspijean/flarum-ext-auth-ssowat) - Allow users to login through SSOwat.
 * `[2019]` [Eve Login](https://github.com/instkffff/auth-eve) - Allow users to log in with EveOnline.
 * `[2019]` [Google Login](https://github.com/johnhearfield/flarum-ext-oauth-google) - Allow users to login using their Google account.
