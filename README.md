@@ -205,12 +205,12 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 
 
 ### Theme Enhancements ([:top:](#table-of-contents))
+* [Color Circles](https://github.com/clarkwinkelmann/flarum-ext-circle-groups) - Add a color circle around avatars based on user group.
 * [Flarum Userscript EasyOnTheEyes](https://github.com/moutonnoireu/flarum-userscript-eote) - Flarum is great but at night, your eyes might suffer from all this whitey colors. Here comes this userscript.
 * [FoF Night Mode](https://github.com/FriendsOfFlarum/nightmode) - Turn your flarum forum to dark as user.
 * [Material Design by Extum](https://github.com/Extum/flarum-ext-material) - Materialize your forum with this Flarum extension that uses the latest guidelines.
 * [OS-X Yosemite Mountain](https://discuss.flarum.org/d/7598)
 * [Theme Light Shadow](https://github.com/Madchatthew/themelightshadow) - Light theme with shadow box look.
-* `[2019]` [Color Circles](https://github.com/clarkwinkelmann/flarum-ext-circle-groups) - Add a color circle around avatars based on user group.
 * `[2018]` [Blue Night style](https://discuss.flarum.org/d/11039)
 * `[2017]` [Flarloader](https://github.com/Tokinoharu/Flarloader) - A loading bar for Flarum.
 
