@@ -243,6 +243,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [FoF Subscribed](https://github.com/FriendsOfFlarum/subscribed) - Adds additional subscriptions to specific events.
 * [FoF Terms](https://github.com/FriendsOfFlarum/terms) - Ask your users to accept TOS and privacy policy.
 * [FoF User Directory](https://github.com/FriendsOfFlarum/user-directory) - The permission based public user directory extension.
+* [Money](https://github.com/AntoineFr/flarum-ext-money) - Give money to your users for different actions.
 * [ReFlar Cookie Consent](https://github.com/ReFlar/cookie-consent) - Customizable cookie consent notice for your Flarum installation.
 * [Tags Color Generator](https://github.com/Nearata/flarum-ext-tags-color-generator) - Allows the generation of a random color for tags.
 * [Upload](https://github.com/FriendsOfFlarum/upload) - An extension that handles file uploads intelligently.
@@ -250,7 +251,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2019]` [Categories](https://github.com/Bokt/flarum-categories) - Old school hierarchical categories.
 * `[2019]` [Flarum Multi Tenancy](https://github.com/ahrasis/multenex) - Multi Tenancy for Flarum on single install and database.
 * `[2019]` [Keyboard Shortcuts](https://github.com/oaklinq/flarum-ext-keyboard-shortcuts) - Adds keyboard shortcuts.
-* `[2019]` [Money](https://github.com/AntoineFr/flarum-ext-money) - Give money to your users for different actions.
 * `[2019]` [Notify](https://github.com/manelizzard/flarum-notify) - Get notified about forum activity in Slack, HipChat, Gitter or Telegram.
 * `[2019]` [Queue](https://github.com/ZhiShiQ/FlarumQueue) - Add asyn job queue handle feature to laravel with laravel queue.
 * `[2019]` [Syndication](https://github.com/AmauryCarrade/flarum-ext-syndication) - Brings RSS and Atom feeds.
