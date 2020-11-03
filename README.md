@@ -299,7 +299,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [How I implemented "cross authentication" with Flarum](https://discuss.flarum.org/d/2808)
 * [How to install Flarum community software](https://www.youtube.com/watch?v=kiVm2-W601s)
 * [How to install Flarum forum on 000webhost](https://www.000webhost.com/forum/t/how-to-install-flarum-forum-on-000webhost/85156)
-* [How to install Flarum forum on Microsoft Azure](https://thesarfaraz.com/d/7)
 * [How to install Flarum on CloudWays](https://www.cloudways.com/blog/install-flarum-forum-on-cloud-hosting/)
 * [How to install Flarum on Synology NAS](https://discuss.flarum.org/d/3090)
 * [How to install Flarum on Windows](https://discuss.flarum.org/d/1565)
