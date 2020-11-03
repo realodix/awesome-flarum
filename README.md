@@ -175,6 +175,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 ### Admin Area ([:top:](#table-of-contents))
 * [Bazaar](https://github.com/extiverse/bazaar) - The marketplace extension that allows you to add and remove extensions without composer or a terminal.
 * [Dashboard](https://github.com/datitisev/flarum-ext-admindashboard) - This completely re-imagines the admin interface.
+* [Extended Appearance](https://github.com/the-turk/flarum-extended-appearance) - Speed up your Flarum customization process.
 
 
 ### Security & Spam ([:top:](#table-of-contents))
