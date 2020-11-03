@@ -258,8 +258,8 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 
 ## Resources
 
-* **[Official Documentation](https://flarum.org/docs/)**
-* **[Building extensions documentation](http://flarum.org/docs/extend/)**
+* **[Official Documentation](https://docs.flarum.org/)**
+* **[Building extensions documentation](https://docs.flarum.org/extend/)**
 * **[Extension development composer](https://discuss.flarum.org/d/1608)**
 * **[Laravel 5.8 API Docs](https://laravel.com/api/5.8/)**
 * **[Flarum API Documentation (PHP & JS)](https://discuss.flarum.org/d/4421-flarum-api-documentation-php-js)**
