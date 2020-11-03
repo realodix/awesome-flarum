@@ -88,7 +88,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
   <summary>2018, 2017, 2016 & Archived</summary>
 
   * `[2018]` [Albania (sq)](https://github.com/tinaira/flarum-ext-albania)
-  * `[2018]` [Bengali (bn)](https://github.com/jubayed/flarum-ext-bengali)
   * `[2018]` [Georgian (ge)](https://github.com/giagabo/flarum-ext-georgian)
   * `[2018]` [Greek (el)](https://github.com/kryonoglou/flarum-ext-greek)
   * `[2018]` [Greek (Kinguru) (el)](https://github.com/kryonoglou/kinguru-greek-language)
