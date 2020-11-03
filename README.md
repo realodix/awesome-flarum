@@ -164,7 +164,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [ReFlar Level Ranks](https://github.com/ReFlar/level-ranks) - Add a level/experience bar to your forum.
 * `[2019]` [AutoImage](https://github.com/s9e/flarum-ext-autoimage) - Automatically turn image links into images.
 * `[2019]` [Chords](https://github.com/zerosonesfun/flarum-ext-chords) - Post basic sheet music.
-* `[2019]` [Markdown Tables](https://github.com/oaklinq/flarum-ext-pipetables) - Active markdown tables.
+* `[2019]` [Markdown Tables](https://github.com/KevID/flarum-pipetables) - Active markdown tables.
 * `[2019]` [Summaries](https://github.com/jordanjay29/flarum-ext-summaries) - Show summaries on all discussions.
 * `[2019]` [Super Sticky](https://github.com/velcis/super-sticky) - Pin discussions to the top of the top of the list.
 * `[2019]` [Userbars](https://github.com/oaklinq/flarum-ext-userbars) - Puts 5 randomly selected userbars under each post.
