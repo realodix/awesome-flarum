@@ -219,6 +219,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [Canonical URL](https://github.com/migratetoflarum/canonical) - Create redirects to the canonical url of your forum.
 * [Catch the fish](https://github.com/clarkwinkelmann/catch-the-fish) - Watch your users catch as many fishes as they can.
 * [Console](https://github.com/FriendsOfFlarum/console) - Register custom commands and task scheduling.
+* [First Post Approval](https://github.com/clarkwinkelmann/flarum-ext-first-post-approval) - Hold posts and discussions from new users for approval.
 * [FoF Clockwork](https://github.com/FriendsOfFlarum/clockwork) - Clockwork integration.
 * [FoF Custom Footer](https://github.com/FriendsOfFlarum/custom-footer) - Allows the addition of a custom footer.
 * [FoF Default Group](https://github.com/FriendsOfFlarum/default-group) - Assign a default group to new users automatically.
