@@ -261,7 +261,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * **[Official Documentation](https://docs.flarum.org/)**
 * **[Building extensions documentation](https://docs.flarum.org/extend/)**
 * **[Extension development composer](https://discuss.flarum.org/d/1608)**
-* **[Laravel 5.8 API Docs](https://laravel.com/api/5.8/)**
+* **[Laravel 6 API Docs](https://laravel.com/api/6.x/)**
 * **[Flarum API Documentation (PHP & JS)](https://discuss.flarum.org/d/4421-flarum-api-documentation-php-js)**
 * [Flarum Extension Generator by ReFlar](https://discuss.flarum.org/d/11333)
 * [Flarum Flockport Container](https://www.flockport.com/apps) - Flockport is an app store for server apps like Flarum and the goal is to make it easy for end users to use these apps, without the need to install and configure PHP, MySQL, Nginx etc.
