@@ -69,6 +69,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [Spanish (es)](https://github.com/darkfoxdeveloper/flarum-ext-spanish)
 * [Turkish (tr)](https://github.com/cagatayldzz/lang-turkish) by Cagatayldzz
 * [Turkish (tr)](https://github.com/tolgaaaltas/flarum-lang-turkish) by Tolgaaaltas
+* [Ukrainian (uk)](https://github.com/eikoninaru/flarum-ext-ukrainian)
 * [Vietnamese (vi)](https://github.com/datlechin/lang-vietnamese) by Datlechin
 <details>
   <summary>2019</summary>
@@ -82,7 +83,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
   * `[2019]` [Polish (pl)](https://github.com/bepropl/lang-polish)
   * `[2019]` [Thailand (th)](https://github.com/drsaluml/flarum-ext-thai) by Drsaluml
   * `[2019]` [Thailand (th)](https://github.com/wiwatsrt/flarum-ext-thai) by Wiwatsrt
-  * `[2019]` [Ukrainian (uk)](https://github.com/eikoninaru/flarum-ext-ukrainian)
 </details>
 <details>
   <summary>2018, 2017, 2016 & Archived</summary>
