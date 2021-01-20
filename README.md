@@ -283,7 +283,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 
 
 ### Mobile App ([:top:](#table-of-contents))
-* [Flario](https://github.com/michaldev/flarumapp) - Android client.
 * [Flarum Community](https://github.com/SurfEdge/flarum-mobile-android) - A WebView based Android application which will embed your Flarum forum inside an application.
 * [Flarum Mobile iOS](https://github.com/SurfEdge/flarum-mobile-ios) - A WebView based iOS mobile application which will embed your Flarum forum inside an application.
 
