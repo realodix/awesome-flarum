@@ -53,7 +53,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [Indonesian (id)](https://github.com/realodix/flarum-ext-indonesian)
 * [Italian (it)](https://github.com/flarum-lang/italian) by Flarum Languages
 * [Italian (it)](https://github.com/Nearata/lang-italian) by Nearata
-* [Japanese (ja)](https://github.com/takumi9942/flarum-ext-japanese) by Takumi9942
+* [Japanese (ja)](https://github.com/takumi9942/flarum-ext-japanese)
 * [Portuguese (pt-BR)](https://github.com/tiuram0n/flaneo-ext-brazilian-portuguese) by Tiuram0n
 * [Portuguese (pt-PT)](https://github.com/bertaveira/flarum-pt-pt) by Bertaveira
 * [Russian (ru)](https://github.com/marketplace-flarum/flarum-l10n-core-russian) by Flarum Marketplace 
@@ -106,7 +106,6 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
   * `[2016]` [Serbian (Latin Script) (sr-Latn)](https://github.com/laravelrs/flarum-ext-serbian-latin)
   * `[2016]` [Uzbek (uz)](https://github.com/beendeen/Uzon)
   * `[Archived]` [Bulgarian (bg)](https://github.com/dyanakiev/flarum-ext-bulgarian)
-  * `[Archived]` [Japanese (ja)](https://github.com/Littlegolden/flarum-lang-japanese) by Littlegolden
 </details>
 
 
