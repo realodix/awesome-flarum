@@ -238,12 +238,11 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 ## Resources
 
 * **[Official Documentation](https://docs.flarum.org/)**
+* **[Flarum API Documentation (PHP & JS)](https://api.docs.flarum.org/)**
 * **[Building extensions documentation](https://docs.flarum.org/extend/)**
 * **[Extension development composer](https://discuss.flarum.org/d/1608)**
-* **[Laravel 6 API Docs](https://laravel.com/api/6.x/)**
-* **[Flarum API Documentation (PHP & JS)](https://discuss.flarum.org/d/4421-flarum-api-documentation-php-js)**
+* **[Laravel 8 API Docs](https://laravel.com/api/8.x)**
 * [Flarum Extension Generator by ReFlar](https://discuss.flarum.org/d/11333)
-* [Flarum Flockport Container](https://www.flockport.com/apps) - Flockport is an app store for server apps like Flarum and the goal is to make it easy for end users to use these apps, without the need to install and configure PHP, MySQL, Nginx etc.
 * [Flarum on Docker](https://github.com/mondediefr/docker-flarum) - Docker image.
 * [Flarum Package for YunoHost](https://github.com/YunoHost-Apps/flarum_ynh) - Flarum package for [YunoHost](https://yunohost.org/).
 * [Free Flarum hosting on an expert platform by FreeFlarum.com](https://www.freeflarum.com/)
@@ -253,12 +252,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 
 ### Utilities ([:top:](#table-of-contents))
 * [Extension Generator by FoF](https://github.com/FriendsOfFlarum/extension-generator) - Create a Flarum extension from a boilerplate in minutes!
-* [Flarum API client](https://github.com/flagrow/flarum-api-client) - Standalone package for calling the API of a Flarum installation.
 * [Flarum Management](https://discuss.flarum.org/d/5158) - Manage Flarum installs.
-* `[Migration]` [MyBB to Flarum](https://github.com/MichaelBelgium/mybb_to_flarum) - A PHP migration script to convert a MyBB forum to a fresh Flarum install.
-* `[Migration]` [phpBB to Flarum](https://github.com/robrotheram/phpbb_to_flarum) - Migration script from PHPBB to Flarum.
-* `[Migration]` [SMF2 to Flarum](https://github.com/ItalianSpaceAstronauticsAssociation/smf2_to_flarum) - SMF2 to Flarum DB importer.
-* `[Archived]` `[Migration]` [FluxBB to Flarum](https://github.com/mondediefr/fluxbb_to_flarum) - FluxBB to Flarum importer.
 
 
 ### Mobile App ([:top:](#table-of-contents))
