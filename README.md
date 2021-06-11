@@ -184,17 +184,15 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [FoF Profile Image Crop](https://github.com/FriendsOfFlarum/profile-image-crop) - Allow cropping when uploading profile picture.
 * [FoF Social Profile](https://github.com/FriendsOfFlarum/socialprofile) - Add custom social media pages to your user profile.
 * [FoF User Bio](https://github.com/FriendsOfFlarum/user-bio) - Add the user bio back into Flarum.
+* [Online](https://github.com/AntoineFr/flarum-ext-online) - Display online users on the left sidebar.
 * [Profile views](https://github.com/MichaelBelgium/flarum-profile-views) - Track how much times a profile has been viewed.
-* `[2019]` [Contact](https://github.com/ffRunKey/contact) - Add user contact information.
-* `[2019]` [Online](https://github.com/AntoineFr/flarum-ext-online) - Display online users on the left sidebar.
 
 
 ### Mail ([:top:](#table-of-contents))
-* [Fajuu - Contact Button](https://github.com/Fajuu/ContactButton) - Adds a contact button, which opens an email with the administrator's addressee.
+* [Email verification switch](https://github.com/isaced/flarum-ext-email-verification-switch) - Disable new registered user email verification.
+* [FoF Pretty Mail](https://github.com/FriendsOfFlarum/pretty-mail) - Allows you to make custom HTML templates for emails.
 * [Post Notification](https://github.com/tpokorra/flarum-ext-post-notification) - Send email notification for each post written or modified.
-* `[2019]` [Email verification switch](https://github.com/isaced/flarum-ext-email-verification-switch) - Disable new registered user email verification.
-* `[2019]` [FoF Pretty Mail](https://github.com/FriendsOfFlarum/pretty-mail) - Allows you to make custom HTML templates for emails.
-* `[2019]` [User default preferences](https://github.com/piotr-tokarczyk/flarum-user-default-preferences) - 'Someone replies to one of my posts (email)' and 'Someone mentions me in a post (email)' are turned on by default for each new user in your Flarum forum.
+* `[2020]` [Fajuu - Contact Button](https://github.com/artuupl/ContactButton) - Adds a contact button, which opens an email with the administrator's addressee.
 
 
 ### Theme Enhancements ([:top:](#table-of-contents))
