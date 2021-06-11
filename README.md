@@ -133,12 +133,11 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 
 
 ### Discussion ([:top:](#table-of-contents))
+* [Chords](https://github.com/zerosonesfun/flarum-ext-chords) - Post basic sheet music.
 * [Copy Code To Clipboard](https://github.com/nearata/flarum-ext-copy-code-to-clipboard) - Allows the user to easly copy the text inside the code tag.
-* [Diff](https://github.com/the-turk/flarum-diff) - View post edit histories.
 * [Discussion views](https://github.com/MichaelBelgium/flarum-discussion-views) - Track how much times a discussion has been viewed.
 * [Embed Video](https://github.com/Nearata/flarum-ext-embed-video) - Allow users to embed video using DPlayer and BBCode.
 * [Emoji Picker](https://github.com/clarkwinkelmann/flarum-ext-emojionearea) - Add EmojioneArea emoji picker.
-* [Fajuu - Icons Changer](https://github.com/Fajuu/flarum-icons) - Adds the ability to change the style of icons and change the individual icons.
 * [FoF BBCode Details](https://github.com/FriendsOfFlarum/bbcode-details) - Details BBCode.
 * [FoF BBCode Tabs](https://github.com/FriendsOfFlarum/bbcode-tabs) - Add tabs to your posts by using BBCode tags.
 * [FoF Best Answer](https://github.com/FriendsOfFlarum/best-answer) - Mark a post as the best answer in a discussion.
@@ -155,17 +154,12 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [FoF Polls](https://github.com/FriendsOfFlarum/polls) - Adds polls to your discussions.
 * [FoF Reactions](https://github.com/FriendsOfFlarum/reactions) - Adds reactions to your community.
 * [FoF Split](https://github.com/FriendsOfFlarum/split) - Separate posts from one discussion into its own, splits discussions.
-* [FoF URL Transliterator](https://github.com/FriendsOfFlarum/transliterator) - Transliterate non-ASCII characters in discussion URL.
-* [Hashtags](https://github.com/zerosonesfun/hashtags) - Adds "hashtag to link" ability to Flarum.
 * [Imgur Upload](https://github.com/matteocontrini/flarum-imgur-upload) - Simple image upload from the Flarum editor.
 * [Mason](https://github.com/FriendsOfFlarum/mason) - The discussion custom fields builder.
-* [MathRen](https://github.com/the-turk/flarum-mathren) - TeX math rendering for your forum.
-* [ReFlar Level Ranks](https://github.com/ReFlar/level-ranks) - Add a level/experience bar to your forum.
-* `[2019]` [AutoImage](https://github.com/s9e/flarum-ext-autoimage) - Automatically turn image links into images.
-* `[2019]` [Chords](https://github.com/zerosonesfun/flarum-ext-chords) - Post basic sheet music.
-* `[2019]` [Markdown Tables](https://github.com/KevID/flarum-pipetables) - Active markdown tables.
-* `[2019]` [Summaries](https://github.com/jordanjay29/flarum-ext-summaries) - Show summaries on all discussions.
-* `[2019]` [Userbars](https://github.com/oaklinq/flarum-ext-userbars) - Puts 5 randomly selected userbars under each post.
+* `[2020]` [Diff](https://github.com/the-turk/flarum-diff) - View post edit histories.
+* `[2020]` [Fajuu Icons](https://github.com/artuupl/flarum-icons) - Adds the ability to change the style of icons and change the individual icons.
+* `[2020]` [MathRen](https://github.com/the-turk/flarum-mathren) - TeX math rendering for your forum.
+* `[2020]` [Summaries](https://github.com/jordanjay29/flarum-ext-summaries) - Show summaries on all discussions.
 
 
 ### Security & Spam ([:top:](#table-of-contents))
