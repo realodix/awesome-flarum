@@ -10,7 +10,6 @@
   - [Analytics & SEO](#analytics--seo-top)
   - [Authentication & Authorization](#authentication--authorization-top)
   - [Discussion](#discussion-top)
-  - [Admin Area](#admin-area-top)
   - [Security & Spam](#security--spam-top)
   - [User](#user-top)
   - [Mail](#mail-top)
@@ -28,11 +27,12 @@
 
 Some are not compatible with the latest version of Flarum.
 
-* **`[2019]`** - Last updated in 2019.
+* **`[2020]`** - Last updated in 2020.
 
 Most likely not compatible with the latest version of Flarum. You need to modify it to be compatible.
 
 * **`[Archived]`** - This repository has been archived by the owner. It is now read-only.
+* **`[2019]`** - Last updated in 2019.
 * **`[2018]`** - Last updated in 2018.
 * **`[2017]`** - Last updated in 2017.
 * **`[2016]`** - Last updated in 2016.
@@ -41,46 +41,46 @@ Most likely not compatible with the latest version of Flarum. You need to modify
 ### Language Pack ([:top:](#table-of-contents))
 Flarum comes with an English language pack; however, the Flarum Community has produced a large number of translations other languages — find yours here.
 
-* [Arabic (ar)](https://github.com/ziymed/lang-arabic)
 * [Basque (eu)](https://github.com/rierte12/flarum-basque)
-* [Chinese (zh-hans)](https://github.com/Csineneo/lang-simplified-chinese) by Csineneo
-* [Chinese (zh-hans)](https://github.com/Littlegolden/flarum-lang-simplified-chinese) by CLittlegolden
-* [Chinese (zh-hant)](https://github.com/Csineneo/lang-traditional-chinese) by Csineneo
+* [Chinese (zh-hans)](https://github.com/flarum-lang/chinese-simplified) by Flarum Languages
 * [Czech (cz)](https://github.com/madnest/flarum-lang-czech) by Madnest
-* [Dutch (nl)](https://github.com/MichaelBelgium/flarum-dutch)
-* [French (fr)](https://github.com/milescellar/lang-french) by Milescellar
+* [Dutch (nl)](https://github.com/flarum-lang/dutch) by Flarum Languages
+* [Dutch (nl)](https://github.com/MichaelBelgium/flarum-dutch) by MichaelBelgium
+* [French (fr)](https://github.com/qiaeru/lang-french) by Qiaeru
 * [French (fr)](https://github.com/rooaaar/lang-french-extended) by Rooaaar
 * [German (de)](https://github.com/Kakifrucht/flarum-de)
-* [Hebrew (he)](https://github.com/itayganor/flabrew)
-* [Hungarian (hu)](https://github.com/manaszon/flarum-ext-hungarian)
 * [Indonesian (id)](https://github.com/realodix/flarum-ext-indonesian)
-* [Italian (it)](https://github.com/Nearata/lang-italian)
-* [Japanese (ja)](https://github.com/Littlegolden/flarum-lang-japanese) by Littlegolden
-* [Japanese (ja)](https://github.com/maa123/flarum-ext-japanese) by Maa123
-* [Japanese (ja)](https://github.com/takumi9942/flarum-ext-japanese) by Takumi9942
-* [Korean (ko)](https://github.com/Cryental/flarum-l10n-ext-korean)
-* [Norwegian Bokmål (nb)](https://github.com/pladask/flarum-ext-norwegian-bokmal)
-* [Occitan (oc)](https://github.com/Mejans/lang-occitan)
-* [Persian (fa)](https://github.com/sijad/flarum-ext-persian)
+* [Italian (it)](https://github.com/flarum-lang/italian) by Flarum Languages
+* [Italian (it)](https://github.com/Nearata/lang-italian) by Nearata
+* [Japanese (ja)](https://github.com/takumi9942/flarum-ext-japanese)
 * [Portuguese (pt-BR)](https://github.com/tiuram0n/flaneo-ext-brazilian-portuguese) by Tiuram0n
 * [Portuguese (pt-PT)](https://github.com/bertaveira/flarum-pt-pt) by Bertaveira
-* [Russian (ru)](https://github.com/marketplace-flarum/flarum-l10n-core-russian) by [Flarum Marketplace](https://github.com/marketplace-flarum)
+* [Russian (ru)](https://github.com/marketplace-flarum/flarum-l10n-core-russian) by Flarum Marketplace 
 * [Serbian (sr)](https://github.com/bryantmilan/lang-serbian)
 * [Slovak (sk)](https://github.com/CWKevo/flarum-lang-slovak)
 * [Spanish (es)](https://github.com/darkfoxdeveloper/flarum-ext-spanish)
-* [Turkish (tr)](https://github.com/cagatayldzz/lang-turkish) by Cagatayldzz
-* [Turkish (tr)](https://github.com/tolgaaaltas/flarum-lang-turkish) by Tolgaaaltas
+* [Turkish (tr)](https://github.com/flarum-lang/turkish) by Flarum Languages
 * [Ukrainian (uk)](https://github.com/eikoninaru/flarum-ext-ukrainian)
-* [Vietnamese (vi)](https://github.com/datlechin/lang-vietnamese) by Datlechin
 <details>
-  <summary>2019</summary>
+  <summary>2020, 2019</summary>
 
+  * `[2020]` [Chinese (zh-hans)](https://github.com/Csineneo/lang-simplified-chinese) by Csineneo
+  * `[2020]` [Chinese (zh-hant)](https://github.com/Csineneo/lang-traditional-chinese) by Csineneo
+  * `[2020]` [Hebrew (he)](https://github.com/itayganor/flabrew)
+  * `[2020]` [Hungarian (hu)](https://github.com/manaszon/flarum-ext-hungarian)
+  * `[2020]` [Japanese (ja)](https://github.com/maa123/flarum-ext-japanese) by Maa123
+  * `[2020]` [Korean (ko)](https://github.com/Cryental/flarum-l10n-ext-korean)
+  * `[2020]` [Norwegian Bokmål (nb)](https://github.com/pladask/flarum-ext-norwegian-bokmal)
+  * `[2020]` [Occitan (oc)](https://github.com/Mejans/lang-occitan)
+  * `[2020]` [Turkish (tr)](https://github.com/cagatayldzz/lang-turkish) by Cagatayldzz
+  * `[2020]` [Vietnamese (vi)](https://github.com/datlechin/lang-vietnamese) by Datlechin
   * `[2019]` [Azerbaijani (az)](https://github.com/Niluthon/flarum-ext-azerbaijany)
   * `[2019]` [Bosnian (bs)](https://github.com/ahmic/flarum-lang-bosnian)
   * `[2019]` [Czech (cs)](https://github.com/ogioncz/flarum-ext-czech) by Ogioncz
   * `[2019]` [Czech (cs)](https://github.com/PepaR/flarum-ext-czech) by PepaR
   * `[2019]` [Malaysian (my)](https://github.com/ahrasis/bahasa-melayu)
   * `[2019]` [Norwegian (no)](https://github.com/Menomenta/flarum-ext-norwegian)
+  * `[2019]` [Persian (fa)](https://github.com/persianfla/flarum-ext-persian)
   * `[2019]` [Polish (pl)](https://github.com/bepropl/lang-polish)
   * `[2019]` [Thailand (th)](https://github.com/drsaluml/flarum-ext-thai) by Drsaluml
   * `[2019]` [Thailand (th)](https://github.com/wiwatsrt/flarum-ext-thai) by Wiwatsrt
@@ -109,21 +109,18 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 
 
 ### Ads & Affiliation ([:top:](#table-of-contents))
-* [Affiliation Links](https://github.com/kilowhat/flarum-ext-affiliation-links) - Automatically turn links into custom affiliate or redirect links.
-* [Flagrow Ads](https://github.com/FriendsOfFlarum/ads) - Allows you to configure ads in several locations.
 * [FoF Amazon Affiliation](https://github.com/FriendsOfFlarum/amazon-affiliation) - Add your Amazon Affiliate tag to Amazon links.
+* `[Archived]` [Flagrow Ads](https://github.com/FriendsOfFlarum/ads) - Allows you to configure ads in several locations.
 
 
 ### Analytics & SEO ([:top:](#table-of-contents))
 * [Analytics](https://github.com/FriendsOfFlarum/analytics) - Provides your forum Piwik and Google Analytics features.
 * [FoF Forum Statistics Widget](https://github.com/FriendsOfFlarum/forum-statistics-widget) - Add a forum statistics widget to the sidenav section.
 * [FoF Sitemap](https://github.com/FriendsOfFlarum/sitemap) - Generate a sitemap.
-* [SEO friendly slugs for Flarum](https://github.com/Zeokat/flarum-ext-seoslugs) - Use friendly URLs (aka transliteration) in slugs.
 * [SEO](https://github.com/v17development/flarum-seo) - Adds SEO tags for your forum.
 
 
 ### Authentication & Authorization ([:top:](#table-of-contents))
-* [FoF Discord Login](https://github.com/FriendsOfFlarum/auth-discord) - Allow users to log in with Discord.
 * [FoF Disposable Emails](https://github.com/FriendsOfFlarum/disposable-emails) - Prevent users from signing up with disposable emails.
 * [FoF Impersonate](https://github.com/FriendsOfFlarum/impersonate) - Login as other users of your forum.
 * [FoF OAuth](https://github.com/FriendsOfFlarum/oauth) - Allow users to log in with GitHub, Twitter, Facebook, and more!
@@ -131,21 +128,16 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [FoF Username Request](https://github.com/FriendsOfFlarum/username-request) - Allow users to request new usernames
 * [LDAP login](https://github.com/tituspijean/flarum-ext-auth-ldap) - Allow users to log in through LDAP.
 * [NomisCZ Steam Login](https://github.com/NomisCZ/flarum-ext-auth-steam) - Allow users to log in with Steam.
-* [ReFlar Doorman](https://github.com/FriendsOfFlarum/doorman) - Only allow certain people to join your forum.
+* [FoF Doorman](https://github.com/FriendsOfFlarum/doorman) - Create invite codes for users to sign up and be assigned to a group.
 * [Registration Roles](https://github.com/the-turk/flarum-regrole) - Allow users to assign roles to themselves during registration.
-* [SSOwat login](https://github.com/tituspijean/flarum-ext-auth-ssowat) - Allow users to login through SSOwat.
-* `[2019]` [Eve Login](https://github.com/instkffff/auth-eve) - Allow users to log in with EveOnline.
-* `[2019]` [Google Login](https://github.com/johnhearfield/flarum-ext-oauth-google) - Allow users to login using their Google account.
-* `[2019]` [ReFlar Two Factor](https://github.com/ReFlar/twofactor) - Increases security by adding TOTP and Twillio two factor authentication.
 
 
 ### Discussion ([:top:](#table-of-contents))
+* [Chords](https://github.com/zerosonesfun/flarum-ext-chords) - Post basic sheet music.
 * [Copy Code To Clipboard](https://github.com/nearata/flarum-ext-copy-code-to-clipboard) - Allows the user to easly copy the text inside the code tag.
-* [Diff](https://github.com/the-turk/flarum-diff) - View post edit histories.
 * [Discussion views](https://github.com/MichaelBelgium/flarum-discussion-views) - Track how much times a discussion has been viewed.
 * [Embed Video](https://github.com/Nearata/flarum-ext-embed-video) - Allow users to embed video using DPlayer and BBCode.
 * [Emoji Picker](https://github.com/clarkwinkelmann/flarum-ext-emojionearea) - Add EmojioneArea emoji picker.
-* [Fajuu - Icons Changer](https://github.com/Fajuu/flarum-icons) - Adds the ability to change the style of icons and change the individual icons.
 * [FoF BBCode Details](https://github.com/FriendsOfFlarum/bbcode-details) - Details BBCode.
 * [FoF BBCode Tabs](https://github.com/FriendsOfFlarum/bbcode-tabs) - Add tabs to your posts by using BBCode tags.
 * [FoF Best Answer](https://github.com/FriendsOfFlarum/best-answer) - Mark a post as the best answer in a discussion.
@@ -162,33 +154,21 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [FoF Polls](https://github.com/FriendsOfFlarum/polls) - Adds polls to your discussions.
 * [FoF Reactions](https://github.com/FriendsOfFlarum/reactions) - Adds reactions to your community.
 * [FoF Split](https://github.com/FriendsOfFlarum/split) - Separate posts from one discussion into its own, splits discussions.
-* [FoF URL Transliterator](https://github.com/FriendsOfFlarum/transliterator) - Transliterate non-ASCII characters in discussion URL.
-* [Hashtags](https://github.com/zerosonesfun/hashtags) - Adds "hashtag to link" ability to Flarum.
 * [Imgur Upload](https://github.com/matteocontrini/flarum-imgur-upload) - Simple image upload from the Flarum editor.
 * [Mason](https://github.com/FriendsOfFlarum/mason) - The discussion custom fields builder.
-* [MathRen](https://github.com/the-turk/flarum-mathren) - TeX math rendering for your forum.
-* [ReFlar Level Ranks](https://github.com/ReFlar/level-ranks) - Add a level/experience bar to your forum.
-* `[2019]` [AutoImage](https://github.com/s9e/flarum-ext-autoimage) - Automatically turn image links into images.
-* `[2019]` [Chords](https://github.com/zerosonesfun/flarum-ext-chords) - Post basic sheet music.
-* `[2019]` [Markdown Tables](https://github.com/KevID/flarum-pipetables) - Active markdown tables.
-* `[2019]` [Summaries](https://github.com/jordanjay29/flarum-ext-summaries) - Show summaries on all discussions.
-* `[2019]` [Userbars](https://github.com/oaklinq/flarum-ext-userbars) - Puts 5 randomly selected userbars under each post.
-
-
-### Admin Area ([:top:](#table-of-contents))
-* [Bazaar](https://github.com/extiverse/bazaar) - The marketplace extension that allows you to add and remove extensions without composer or a terminal.
-* [Dashboard](https://github.com/datitisev/flarum-ext-admindashboard) - This completely re-imagines the admin interface.
-* [Extended Appearance](https://github.com/the-turk/flarum-extended-appearance) - Speed up your Flarum customization process.
+* `[2020]` [Diff](https://github.com/the-turk/flarum-diff) - View post edit histories.
+* `[2020]` [Fajuu Icons](https://github.com/artuupl/flarum-icons) - Adds the ability to change the style of icons and change the individual icons.
+* `[2020]` [MathRen](https://github.com/the-turk/flarum-mathren) - TeX math rendering for your forum.
+* `[2020]` [Summaries](https://github.com/jordanjay29/flarum-ext-summaries) - Show summaries on all discussions.
 
 
 ### Security & Spam ([:top:](#table-of-contents))
-* [FoF Guardian](https://github.com/FriendsOfFlarum/guardian) - Automates reviewing users based on their forum behaviour and activity.
+* [FoF Secure HTTPS](https://github.com/FriendsOfFlarum/secure-https) - Changes all images using HTTP to HTTPS.
+* [FoF Ban IPs](https://github.com/FriendsOfFlarum/ban-ips) - Ban IP addresses from your forum.
 * [FoF Pwned Passwords](https://github.com/FriendsOfFlarum/pwned-passwords) - Check passwords against the [Have I Been Pwned](https://haveibeenpwned.com/) password database.
 * [FoF reCAPTCHA](https://github.com/FriendsOfFlarum/recaptcha) - Increase your forum's security with Google reCAPTCHA.
 * [FoF Spamblock](https://github.com/FriendsOfFlarum/spamblock) - Mark user as spammer, suspending them & hiding their posts and discussions.
 * [FoF Stop Forum Spam](https://github.com/FriendsOfFlarum/stopforumspam) - Run registrations through the Stop Forum Spam database.
-* [FoF Ban IPs](https://github.com/FriendsOfFlarum/ban-ips) - Ban IP addresses from your forum.
-* `[2018]` [FoF Secure HTTPS](https://github.com/FriendsOfFlarum/secure-https) - Changes all images using HTTP to HTTPS.
 
 
 ### User ([:top:](#table-of-contents))
@@ -198,17 +178,15 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [FoF Profile Image Crop](https://github.com/FriendsOfFlarum/profile-image-crop) - Allow cropping when uploading profile picture.
 * [FoF Social Profile](https://github.com/FriendsOfFlarum/socialprofile) - Add custom social media pages to your user profile.
 * [FoF User Bio](https://github.com/FriendsOfFlarum/user-bio) - Add the user bio back into Flarum.
+* [Online](https://github.com/AntoineFr/flarum-ext-online) - Display online users on the left sidebar.
 * [Profile views](https://github.com/MichaelBelgium/flarum-profile-views) - Track how much times a profile has been viewed.
-* `[2019]` [Contact](https://github.com/ffRunKey/contact) - Add user contact information.
-* `[2019]` [Online](https://github.com/AntoineFr/flarum-ext-online) - Display online users on the left sidebar.
 
 
 ### Mail ([:top:](#table-of-contents))
-* [Fajuu - Contact Button](https://github.com/Fajuu/ContactButton) - Adds a contact button, which opens an email with the administrator's addressee.
+* [Email verification switch](https://github.com/isaced/flarum-ext-email-verification-switch) - Disable new registered user email verification.
+* [FoF Pretty Mail](https://github.com/FriendsOfFlarum/pretty-mail) - Allows you to make custom HTML templates for emails.
 * [Post Notification](https://github.com/tpokorra/flarum-ext-post-notification) - Send email notification for each post written or modified.
-* `[2019]` [Email verification switch](https://github.com/isaced/flarum-ext-email-verification-switch) - Disable new registered user email verification.
-* `[2019]` [FoF Pretty Mail](https://github.com/FriendsOfFlarum/pretty-mail) - Allows you to make custom HTML templates for emails.
-* `[2019]` [User default preferences](https://github.com/piotr-tokarczyk/flarum-user-default-preferences) - 'Someone replies to one of my posts (email)' and 'Someone mentions me in a post (email)' are turned on by default for each new user in your Flarum forum.
+* `[2020]` [Fajuu - Contact Button](https://github.com/artuupl/ContactButton) - Adds a contact button, which opens an email with the administrator's addressee.
 
 
 ### Theme Enhancements ([:top:](#table-of-contents))
@@ -260,12 +238,11 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 ## Resources
 
 * **[Official Documentation](https://docs.flarum.org/)**
+* **[Flarum API Documentation (PHP & JS)](https://api.docs.flarum.org/)**
 * **[Building extensions documentation](https://docs.flarum.org/extend/)**
 * **[Extension development composer](https://discuss.flarum.org/d/1608)**
-* **[Laravel 6 API Docs](https://laravel.com/api/6.x/)**
-* **[Flarum API Documentation (PHP & JS)](https://discuss.flarum.org/d/4421-flarum-api-documentation-php-js)**
+* **[Laravel 8 API Docs](https://laravel.com/api/8.x)**
 * [Flarum Extension Generator by ReFlar](https://discuss.flarum.org/d/11333)
-* [Flarum Flockport Container](https://www.flockport.com/apps) - Flockport is an app store for server apps like Flarum and the goal is to make it easy for end users to use these apps, without the need to install and configure PHP, MySQL, Nginx etc.
 * [Flarum on Docker](https://github.com/mondediefr/docker-flarum) - Docker image.
 * [Flarum Package for YunoHost](https://github.com/YunoHost-Apps/flarum_ynh) - Flarum package for [YunoHost](https://yunohost.org/).
 * [Free Flarum hosting on an expert platform by FreeFlarum.com](https://www.freeflarum.com/)
@@ -275,12 +252,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 
 ### Utilities ([:top:](#table-of-contents))
 * [Extension Generator by FoF](https://github.com/FriendsOfFlarum/extension-generator) - Create a Flarum extension from a boilerplate in minutes!
-* [Flarum API client](https://github.com/flagrow/flarum-api-client) - Standalone package for calling the API of a Flarum installation.
 * [Flarum Management](https://discuss.flarum.org/d/5158) - Manage Flarum installs.
-* `[Migration]` [MyBB to Flarum](https://github.com/MichaelBelgium/mybb_to_flarum) - A PHP migration script to convert a MyBB forum to a fresh Flarum install.
-* `[Migration]` [phpBB to Flarum](https://github.com/robrotheram/phpbb_to_flarum) - Migration script from PHPBB to Flarum.
-* `[Migration]` [SMF2 to Flarum](https://github.com/ItalianSpaceAstronauticsAssociation/smf2_to_flarum) - SMF2 to Flarum DB importer.
-* `[Archived]` `[Migration]` [FluxBB to Flarum](https://github.com/mondediefr/fluxbb_to_flarum) - FluxBB to Flarum importer.
 
 
 ### Mobile App ([:top:](#table-of-contents))
