@@ -10,7 +10,6 @@
   - [Analytics & SEO](#analytics--seo-top)
   - [Authentication & Authorization](#authentication--authorization-top)
   - [Discussion](#discussion-top)
-  - [Admin Area](#admin-area-top)
   - [Security & Spam](#security--spam-top)
   - [User](#user-top)
   - [Mail](#mail-top)
@@ -110,21 +109,18 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 
 
 ### Ads & Affiliation ([:top:](#table-of-contents))
-* [Affiliation Links](https://github.com/kilowhat/flarum-ext-affiliation-links) - Automatically turn links into custom affiliate or redirect links.
-* [Flagrow Ads](https://github.com/FriendsOfFlarum/ads) - Allows you to configure ads in several locations.
 * [FoF Amazon Affiliation](https://github.com/FriendsOfFlarum/amazon-affiliation) - Add your Amazon Affiliate tag to Amazon links.
+* `[Archived]` [Flagrow Ads](https://github.com/FriendsOfFlarum/ads) - Allows you to configure ads in several locations.
 
 
 ### Analytics & SEO ([:top:](#table-of-contents))
 * [Analytics](https://github.com/FriendsOfFlarum/analytics) - Provides your forum Piwik and Google Analytics features.
 * [FoF Forum Statistics Widget](https://github.com/FriendsOfFlarum/forum-statistics-widget) - Add a forum statistics widget to the sidenav section.
 * [FoF Sitemap](https://github.com/FriendsOfFlarum/sitemap) - Generate a sitemap.
-* [SEO friendly slugs for Flarum](https://github.com/Zeokat/flarum-ext-seoslugs) - Use friendly URLs (aka transliteration) in slugs.
 * [SEO](https://github.com/v17development/flarum-seo) - Adds SEO tags for your forum.
 
 
 ### Authentication & Authorization ([:top:](#table-of-contents))
-* [FoF Discord Login](https://github.com/FriendsOfFlarum/auth-discord) - Allow users to log in with Discord.
 * [FoF Disposable Emails](https://github.com/FriendsOfFlarum/disposable-emails) - Prevent users from signing up with disposable emails.
 * [FoF Impersonate](https://github.com/FriendsOfFlarum/impersonate) - Login as other users of your forum.
 * [FoF OAuth](https://github.com/FriendsOfFlarum/oauth) - Allow users to log in with GitHub, Twitter, Facebook, and more!
@@ -132,12 +128,8 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * [FoF Username Request](https://github.com/FriendsOfFlarum/username-request) - Allow users to request new usernames
 * [LDAP login](https://github.com/tituspijean/flarum-ext-auth-ldap) - Allow users to log in through LDAP.
 * [NomisCZ Steam Login](https://github.com/NomisCZ/flarum-ext-auth-steam) - Allow users to log in with Steam.
-* [ReFlar Doorman](https://github.com/FriendsOfFlarum/doorman) - Only allow certain people to join your forum.
+* [FoF Doorman](https://github.com/FriendsOfFlarum/doorman) - Create invite codes for users to sign up and be assigned to a group.
 * [Registration Roles](https://github.com/the-turk/flarum-regrole) - Allow users to assign roles to themselves during registration.
-* [SSOwat login](https://github.com/tituspijean/flarum-ext-auth-ssowat) - Allow users to login through SSOwat.
-* `[2019]` [Eve Login](https://github.com/instkffff/auth-eve) - Allow users to log in with EveOnline.
-* `[2019]` [Google Login](https://github.com/johnhearfield/flarum-ext-oauth-google) - Allow users to login using their Google account.
-* `[2019]` [ReFlar Two Factor](https://github.com/ReFlar/twofactor) - Increases security by adding TOTP and Twillio two factor authentication.
 
 
 ### Discussion ([:top:](#table-of-contents))
@@ -176,20 +168,13 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 * `[2019]` [Userbars](https://github.com/oaklinq/flarum-ext-userbars) - Puts 5 randomly selected userbars under each post.
 
 
-### Admin Area ([:top:](#table-of-contents))
-* [Bazaar](https://github.com/extiverse/bazaar) - The marketplace extension that allows you to add and remove extensions without composer or a terminal.
-* [Dashboard](https://github.com/datitisev/flarum-ext-admindashboard) - This completely re-imagines the admin interface.
-* [Extended Appearance](https://github.com/the-turk/flarum-extended-appearance) - Speed up your Flarum customization process.
-
-
 ### Security & Spam ([:top:](#table-of-contents))
-* [FoF Guardian](https://github.com/FriendsOfFlarum/guardian) - Automates reviewing users based on their forum behaviour and activity.
+* [FoF Secure HTTPS](https://github.com/FriendsOfFlarum/secure-https) - Changes all images using HTTP to HTTPS.
+* [FoF Ban IPs](https://github.com/FriendsOfFlarum/ban-ips) - Ban IP addresses from your forum.
 * [FoF Pwned Passwords](https://github.com/FriendsOfFlarum/pwned-passwords) - Check passwords against the [Have I Been Pwned](https://haveibeenpwned.com/) password database.
 * [FoF reCAPTCHA](https://github.com/FriendsOfFlarum/recaptcha) - Increase your forum's security with Google reCAPTCHA.
 * [FoF Spamblock](https://github.com/FriendsOfFlarum/spamblock) - Mark user as spammer, suspending them & hiding their posts and discussions.
 * [FoF Stop Forum Spam](https://github.com/FriendsOfFlarum/stopforumspam) - Run registrations through the Stop Forum Spam database.
-* [FoF Ban IPs](https://github.com/FriendsOfFlarum/ban-ips) - Ban IP addresses from your forum.
-* `[2018]` [FoF Secure HTTPS](https://github.com/FriendsOfFlarum/secure-https) - Changes all images using HTTP to HTTPS.
 
 
 ### User ([:top:](#table-of-contents))
