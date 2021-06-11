@@ -44,7 +44,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 
 * [Basque (eu)](https://github.com/rierte12/flarum-basque)
 * [Chinese (zh-hans)](https://github.com/flarum-lang/chinese-simplified) by Flarum Languages
-* [Czech](https://github.com/madnest/flarum-lang-czech) by Madnest
+* [Czech (cz)](https://github.com/madnest/flarum-lang-czech) by Madnest
 * [Dutch (nl)](https://github.com/flarum-lang/dutch) by Flarum Languages
 * [Dutch (nl)](https://github.com/MichaelBelgium/flarum-dutch) by MichaelBelgium
 * [French (fr)](https://github.com/qiaeru/lang-french) by Qiaeru
