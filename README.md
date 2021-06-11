@@ -28,11 +28,12 @@
 
 Some are not compatible with the latest version of Flarum.
 
-* **`[2019]`** - Last updated in 2019.
+* **`[2020]`** - Last updated in 2020.
 
 Most likely not compatible with the latest version of Flarum. You need to modify it to be compatible.
 
 * **`[Archived]`** - This repository has been archived by the owner. It is now read-only.
+* **`[2019]`** - Last updated in 2019.
 * **`[2018]`** - Last updated in 2018.
 * **`[2017]`** - Last updated in 2017.
 * **`[2016]`** - Last updated in 2016.
@@ -41,46 +42,46 @@ Most likely not compatible with the latest version of Flarum. You need to modify
 ### Language Pack ([:top:](#table-of-contents))
 Flarum comes with an English language pack; however, the Flarum Community has produced a large number of translations other languages — find yours here.
 
-* [Arabic (ar)](https://github.com/ziymed/lang-arabic)
 * [Basque (eu)](https://github.com/rierte12/flarum-basque)
-* [Chinese (zh-hans)](https://github.com/Csineneo/lang-simplified-chinese) by Csineneo
-* [Chinese (zh-hans)](https://github.com/Littlegolden/flarum-lang-simplified-chinese) by CLittlegolden
-* [Chinese (zh-hant)](https://github.com/Csineneo/lang-traditional-chinese) by Csineneo
+* [Chinese (zh-hans)](https://github.com/flarum-lang/chinese-simplified) by Flarum Languages
 * [Czech](https://github.com/madnest/flarum-lang-czech) by Madnest
-* [Dutch (nl)](https://github.com/MichaelBelgium/flarum-dutch)
-* [French (fr)](https://github.com/milescellar/lang-french) by Milescellar
+* [Dutch (nl)](https://github.com/flarum-lang/dutch) by Flarum Languages
+* [Dutch (nl)](https://github.com/MichaelBelgium/flarum-dutch) by MichaelBelgium
+* [French (fr)](https://github.com/qiaeru/lang-french) by Qiaeru
 * [French (fr)](https://github.com/rooaaar/lang-french-extended) by Rooaaar
 * [German (de)](https://github.com/Kakifrucht/flarum-de)
-* [Hebrew (he)](https://github.com/itayganor/flabrew)
-* [Hungarian (hu)](https://github.com/manaszon/flarum-ext-hungarian)
 * [Indonesian (id)](https://github.com/realodix/flarum-ext-indonesian)
-* [Italian (it)](https://github.com/Nearata/lang-italian)
-* [Japanese (ja)](https://github.com/Littlegolden/flarum-lang-japanese) by Littlegolden
-* [Japanese (ja)](https://github.com/maa123/flarum-ext-japanese) by Maa123
+* [Italian (it)](https://github.com/flarum-lang/italian) by Flarum Languages
+* [Italian (it)](https://github.com/Nearata/lang-italian) by Nearata
 * [Japanese (ja)](https://github.com/takumi9942/flarum-ext-japanese) by Takumi9942
-* [Korean (ko)](https://github.com/Cryental/flarum-l10n-ext-korean)
-* [Norwegian Bokmål (nb)](https://github.com/pladask/flarum-ext-norwegian-bokmal)
-* [Occitan (oc)](https://github.com/Mejans/lang-occitan)
-* [Persian (fa)](https://github.com/sijad/flarum-ext-persian)
 * [Portuguese (pt-BR)](https://github.com/tiuram0n/flaneo-ext-brazilian-portuguese) by Tiuram0n
 * [Portuguese (pt-PT)](https://github.com/bertaveira/flarum-pt-pt) by Bertaveira
-* [Russian (ru)](https://github.com/marketplace-flarum/flarum-l10n-core-russian) by [Flarum Marketplace](https://github.com/marketplace-flarum)
+* [Russian (ru)](https://github.com/marketplace-flarum/flarum-l10n-core-russian) by Flarum Marketplace 
 * [Serbian (sr)](https://github.com/bryantmilan/lang-serbian)
 * [Slovak (sk)](https://github.com/CWKevo/flarum-lang-slovak)
 * [Spanish (es)](https://github.com/darkfoxdeveloper/flarum-ext-spanish)
-* [Turkish (tr)](https://github.com/cagatayldzz/lang-turkish) by Cagatayldzz
-* [Turkish (tr)](https://github.com/tolgaaaltas/flarum-lang-turkish) by Tolgaaaltas
+* [Turkish (tr)](https://github.com/flarum-lang/turkish) by Flarum Languages
 * [Ukrainian (uk)](https://github.com/eikoninaru/flarum-ext-ukrainian)
-* [Vietnamese (vi)](https://github.com/datlechin/lang-vietnamese) by Datlechin
 <details>
-  <summary>2019</summary>
+  <summary>2020, 2019</summary>
 
+  * `[2020]` [Chinese (zh-hans)](https://github.com/Csineneo/lang-simplified-chinese) by Csineneo
+  * `[2020]` [Chinese (zh-hant)](https://github.com/Csineneo/lang-traditional-chinese) by Csineneo
+  * `[2020]` [Hebrew (he)](https://github.com/itayganor/flabrew)
+  * `[2020]` [Hungarian (hu)](https://github.com/manaszon/flarum-ext-hungarian)
+  * `[2020]` [Japanese (ja)](https://github.com/maa123/flarum-ext-japanese) by Maa123
+  * `[2020]` [Korean (ko)](https://github.com/Cryental/flarum-l10n-ext-korean)
+  * `[2020]` [Norwegian Bokmål (nb)](https://github.com/pladask/flarum-ext-norwegian-bokmal)
+  * `[2020]` [Occitan (oc)](https://github.com/Mejans/lang-occitan)
+  * `[2020]` [Turkish (tr)](https://github.com/cagatayldzz/lang-turkish) by Cagatayldzz
+  * `[2020]` [Vietnamese (vi)](https://github.com/datlechin/lang-vietnamese) by Datlechin
   * `[2019]` [Azerbaijani (az)](https://github.com/Niluthon/flarum-ext-azerbaijany)
   * `[2019]` [Bosnian (bs)](https://github.com/ahmic/flarum-lang-bosnian)
   * `[2019]` [Czech (cs)](https://github.com/ogioncz/flarum-ext-czech) by Ogioncz
   * `[2019]` [Czech (cs)](https://github.com/PepaR/flarum-ext-czech) by PepaR
   * `[2019]` [Malaysian (my)](https://github.com/ahrasis/bahasa-melayu)
   * `[2019]` [Norwegian (no)](https://github.com/Menomenta/flarum-ext-norwegian)
+  * `[2019]` [Persian (fa)](https://github.com/persianfla/flarum-ext-persian)
   * `[2019]` [Polish (pl)](https://github.com/bepropl/lang-polish)
   * `[2019]` [Thailand (th)](https://github.com/drsaluml/flarum-ext-thai) by Drsaluml
   * `[2019]` [Thailand (th)](https://github.com/wiwatsrt/flarum-ext-thai) by Wiwatsrt
@@ -105,6 +106,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
   * `[2016]` [Serbian (Latin Script) (sr-Latn)](https://github.com/laravelrs/flarum-ext-serbian-latin)
   * `[2016]` [Uzbek (uz)](https://github.com/beendeen/Uzon)
   * `[Archived]` [Bulgarian (bg)](https://github.com/dyanakiev/flarum-ext-bulgarian)
+  * `[Archived]` [Japanese (ja)](https://github.com/Littlegolden/flarum-lang-japanese) by Littlegolden
 </details>
 
 
