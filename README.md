@@ -10,12 +10,15 @@
   - [Analytics & SEO](#analytics--seo-top)
   - [Authentication & Authorization](#authentication--authorization-top)
   - [Discussion](#discussion-top)
+  - [Tag](#tag-top)
   - [Security & Spam](#security--spam-top)
   - [User](#user-top)
   - [Mail](#mail-top)
-  - [Money](#money-top)
+  - [Store](#store-top)
+  - [Transaction](#transaction-top)
   - [Admin Enhancements](#admin-enhancements-top)
-  - [Theme Enhancements](#theme-enhancements-top)
+  - [Forum Appearance](#forum-appearance-top)
+  - [Privacy](#privacy-top)
   - [Others](#others-top)
 - [Resources](#resources)
   - [Utilities](#utilities-top)
@@ -146,7 +149,6 @@ For other languages, you can check https://github.com/rob006-software/flarum-tra
 
 ### Analytics & SEO ([:top:](#table-of-contents))
 - [FoF Analytics](https://github.com/FriendsOfFlarum/analytics) - Provides your forum Piwik and Google Analytics features.
-- [FoF Forum Statistics Widget](https://github.com/FriendsOfFlarum/forum-statistics-widget) - Add a forum statistics widget to the sidenav section.
 - [FoF Sitemap](https://github.com/FriendsOfFlarum/sitemap) - Generate a sitemap.
 - [michaelbelgium/flarum-umami](https://packagist.org/packages/michaelbelgium/flarum-umami) - Adds Umami analytics to your Flarum instance.
 - [v17development/flarum-seo](https://packagist.org/packages/v17development/flarum-seo) - Adds SEO tags for your forum.
@@ -159,15 +161,16 @@ For other languages, you can check https://github.com/rob006-software/flarum-tra
 - [FoF OAuth](https://github.com/FriendsOfFlarum/oauth) - Allow users to log in with GitHub, Twitter, Facebook, and more!
 - [FoF Passport](https://github.com/FriendsOfFlarum/passport) - The [Laravel Passport](https://laravel.com/docs/passport) compatible oauth extension.
 - [FoF Real Time Login](https://github.com/FriendsOfFlarum/realtimelogin) - Makes logins update in real time.
+- [clarkwinkelmann/flarum-ext-create-user-modal](https://packagist.org/packages/clarkwinkelmann/flarum-ext-create-user-modal) - Provides a modified Sign Up modal that creates a user and redirects to their profile.
 - [clarkwinkelmann/flarum-ext-jwt-cookie-login](https://packagist.org/packages/clarkwinkelmann/flarum-ext-jwt-cookie-login) -Stateless login for Flarum through JWT cookie.
 - [clarkwinkelmann/flarum-ext-passwordless](https://packagist.org/packages/clarkwinkelmann/flarum-ext-passwordless) - Passwordless login for Flarum.
 - [foskym/flarum-oauth-center](https://packagist.org/packages/foskym/flarum-oauth-center) - Allow user to authorize the third clients.
 - [glowingblue/password-strength](https://packagist.org/packages/glowingblue/password-strength) - Password strength estimation for your Flarum forum.
 - [gtdxyz/flarum-ext-login](https://packagist.org/packages/gtdxyz/flarum-ext-login) - Login middleware detect username and email.
 - [hikarilan/flarum-passkey-login](https://packagist.org/packages/hikarilan/flarum-passkey-login) -Login to Flarum with passkey.
+- [ianm/twofactor](https://packagist.org/packages/ianm/twofactor) - 2FA for Flarum.
 - [nearata/flarum-ext-password-strength-enforcer](https://packagist.org/packages/nearata/flarum-ext-password-strength-enforcer) - Enforces a password strength level.
 - [nearata/flarum-ext-signup-confirm-password](https://packagist.org/packages/nearata/flarum-ext-signup-confirm-password) - Adds a confirm password field in the Sign Up modal.
-- [nomiscz/flarum-ext-auth-steam](https://packagist.org/packages/nomiscz/flarum-ext-auth-steam) - Allow users to log in with Steam.
 - [the-turk/flarum-regrole](https://packagist.org/packages/the-turk/flarum-regrole) - Allow users to assign roles to themselves during registration.
 - [tituspijean/flarum-ext-auth-ldap](https://packagist.org/packages/tituspijean/flarum-ext-auth-ldap) - Allow users to log in through LDAP.
 - [blomstra/oauth-apple](https://packagist.org/packages/blomstra/oauth-apple)
@@ -177,6 +180,8 @@ For other languages, you can check https://github.com/rob006-software/flarum-tra
 - [ianm/oauth-line](https://packagist.org/packages/ianm/oauth-line)
 - [ianm/oauth-reddit](https://packagist.org/packages/ianm/oauth-reddit)
 - [ianm/oauth-twitch](https://packagist.org/packages/ianm/oauth-twitch)
+- [nodeloc/telegram](https://packagist.org/packages/nodeloc/telegram)
+- [nomiscz/flarum-ext-auth-steam](https://packagist.org/packages/nomiscz/flarum-ext-auth-steam)
 - [xrh0905/oauth-microsoft](https://packagist.org/packages/xrh0905/oauth-microsoft)
 
 
@@ -185,10 +190,10 @@ For other languages, you can check https://github.com/rob006-software/flarum-tra
 - [FoF BBCode Tabs](https://github.com/FriendsOfFlarum/bbcode-tabs) - Add tabs to your posts by using BBCode tags.
 - [FoF Best Answer](https://github.com/FriendsOfFlarum/best-answer) - Mark a post as the best answer in a discussion.
 - [FoF Byōbu](https://github.com/FriendsOfFlarum/byobu) - Well integrated, advanced private discussions.
+- [FoF Discussion Language](https://github.com/FriendsOfFlarum/discussion-language) - Specify the language a discussion is written in & sort by language.
 - [FoF Discussion Thumbnail](https://github.com/FriendsOfFlarum/discussion-thumbnail) - Replace author avatars with the first image in a discussion's starting post.
 - [FoF Drafts](https://github.com/FriendsOfFlarum/drafts) - Allow users to create post and discussion drafts.
 - [FoF Filter](https://github.com/FriendsOfFlarum/filter) - Filter out words and phrases from forum posts.
-- [FoF Follow Tags](https://github.com/FriendsOfFlarum/follow-tags) - Follow tags and be notified of new discussions and replies.
 - [FoF Formatting](https://github.com/FriendsOfFlarum/formatting) - Customize TextFormatter with plugins through the admin interface.
 - [FoF FrontPage](https://github.com/FriendsOfFlarum/frontpage) - Push discussions to the front of your Flarum forum index.
 - [FoF Gamification](https://github.com/FriendsOfFlarum/gamification) - Add upvotes, downvotes, and ranks.
@@ -198,13 +203,36 @@ For other languages, you can check https://github.com/rob006-software/flarum-tra
 - [FoF Polls](https://github.com/FriendsOfFlarum/polls) - Adds polls to your discussions.
 - [FoF Reactions](https://github.com/FriendsOfFlarum/reactions) - Adds reactions to your community.
 - [FoF Split](https://github.com/FriendsOfFlarum/split) - Separate posts from one discussion into its own, splits discussions.
+- [askvortsov/flarum-categories](https://packagist.org/packages/askvortsov/flarum-categories) - Adds a traditional category layout to Flarum as an alternative to grid.
+- [askvortsov/flarum-rich-text](https://packagist.org/packages/askvortsov/flarum-rich-text) - Rich Text Editor for Flarum.
+- [blomstra/user-filter](https://packagist.org/packages/blomstra/user-filter) - Filter discussion lists by discussion author.
+- [clarkwinkelmann/flarum-ext-author-change](https://packagist.org/packages/clarkwinkelmann/flarum-ext-author-change) - Let mods update the author and date of discussions and posts.
 - [clarkwinkelmann/flarum-ext-emojionearea](https://packagist.org/packages/clarkwinkelmann/flarum-ext-emojionearea) - Add EmojioneArea emoji picker.
+- [datlechin/flarum-link-preview](https://packagist.org/packages/datlechin/flarum-link-preview) - Automatically display a rich preview of the link contents.
+- [justoverclock/user-statistics](https://packagist.org/packages/justoverclock/user-statistics) - Add some user statistics in flarum posts.
 - [matteocontrini/flarum-imgur-upload](https://packagist.org/packages/matteocontrini/flarum-imgur-upload) - Simple image upload from the Flarum editor.
 - [michaelbelgium/flarum-discussion-views](https://packagist.org/packages/michaelbelgium/flarum-discussion-views) - Track how much times a discussion has been viewed.
 - [nearata/flarum-ext-copy-code-to-clipboard](https://packagist.org/packages/nearata/flarum-ext-copy-code-to-clipboard) - Allows the user to easly copy the text inside the code tag.
 - [nearata/flarum-ext-embed-video](https://packagist.org/packages/nearata/flarum-ext-embed-video) - Allow users to embed video using BBCode.
+- [sycho/flarum-move-posts](https://packagist.org/packages/sycho/flarum-move-posts) - Move posts from one discussion to another.
 - [the-turk/flarum-diff](https://packagist.org/packages/the-turk/flarum-diff) - View post edit histories.
 - [the-turk/flarum-mathren](https://packagist.org/packages/the-turk/flarum-mathren) - TeX math rendering for your forum.
+- [the-turk/flarum-stickiest](https://packagist.org/packages/the-turk/flarum-stickiest) - Stick, super stick or tag stick discussions to the top of the list.
+- [wolfgang-demeter/flarum-ext-bbcode-5star-rating](https://packagist.org/packages/wolfgang-demeter/flarum-ext-bbcode-5star-rating) - Rate some things in Flarum with 5 stars - but in half-star increments.
+
+
+### Tag ([:top:](#table-of-contents))
+- [acpl/my-tags](https://packagist.org/packages/acpl/my-tags) - Displays a list of tags that the user is following in the sidebar.
+- [askvortsov/flarum-help-tags](https://packagist.org/packages/askvortsov/flarum-help-tags) - Allow members to post in a tag, but only see discussions that they created or have been granted access to.
+- [blomstra/secondary-tags-toggler](https://packagist.org/packages/blomstra/secondary-tags-toggler) - Toggle secondary tags from the discussion hero.
+- [clarkwinkelmann/flarum-ext-follow-tags-prompt](https://packagist.org/packages/clarkwinkelmann/flarum-ext-follow-tags-prompt) - Prompt user for tags to follow after registration.
+- [datlechin/flarum-tag-passwords](https://packagist.org/packages/datlechin/flarum-tag-passwords) - Adds password to protect your Tags.
+- [FoF Follow Tags](https://github.com/FriendsOfFlarum/follow-tags) - Follow tags and be notified of new discussions and replies.
+- [justoverclock/discussion-hero-showtags](https://packagist.org/packages/justoverclock/discussion-hero-showtags) - Show Tag List into Discussion Hero.
+- [justoverclock/popular-tags](https://packagist.org/packages/justoverclock/popular-tags) - Add popular tags widget to Flarum.
+- [nearata/flarum-ext-tags-color-generator](https://packagist.org/packages/nearata/flarum-ext-tags-color-generator) - Allows the generation of a random color for tags.
+- [tohsakarat/tags-filter](https://packagist.org/packages/tohsakarat/tags-filter) - Add a tags filter dropdown on the index page.
+- [xsoft-ict/mason-tag](https://packagist.org/packages/xsoft-ict/mason-tag) - Add custom fields to discussions, associate with primary tag.
 
 
 ### Security & Spam ([:top:](#table-of-contents))
@@ -226,12 +254,20 @@ For other languages, you can check https://github.com/rob006-software/flarum-tra
 - [FoF Social Profile](https://github.com/FriendsOfFlarum/socialprofile) - Add custom social media pages to your user profile.
 - [FoF User Bio](https://github.com/FriendsOfFlarum/user-bio) - Add the user bio back into Flarum.
 - [FoF Username Request](https://github.com/FriendsOfFlarum/username-request) - Allow users to request new usernames.
+- [blomstra/usercard-stats](https://packagist.org/packages/blomstra/usercard-stats) - Add stats to the usercard for your forum users.
+- [clarkwinkelmann/flarum-ext-email-as-display-name](https://packagist.org/packages/clarkwinkelmann/flarum-ext-email-as-display-name) - Use user emails as their display name.
+- [clarkwinkelmann/flarum-ext-readonly-profile](https://packagist.org/packages/clarkwinkelmann/flarum-ext-readonly-profile) - Remove ability to edit various profile attributes.
+- [clarkwinkelmann/flarum-ext-username-blacklist](https://packagist.org/packages/clarkwinkelmann/flarum-ext-username-blacklist) - Blacklist or whitelist specific usernames.
+- [ianm/follow-users](https://packagist.org/packages/ianm/follow-users)
 - [michaelbelgium/flarum-profile-views](https://packagist.org/packages/michaelbelgium/flarum-profile-views) - Track how much times a profile has been viewed.
+- [serakoi/flarum-hideprofile](https://packagist.org/packages/serakoi/flarum-hideprofile) - Simply hide user data from users.
+- [sycho/flarum-profile-cover](https://packagist.org/packages/sycho/flarum-profile-cover) - Adds the ability to add a cover image to a profile.
+- [v17development/flarum-user-badges](https://packagist.org/packages/v17development/flarum-user-badges) - Adds user badges to your Flarum community.
+- [xypp/user-decoration](https://packagist.org/packages/xypp/user-decoration) - Add decoration for user avatar/name/card/post.
 
 
 ### Mail ([:top:](#table-of-contents))
 - [FoF Pretty Mail](https://github.com/FriendsOfFlarum/pretty-mail) - Allows you to make custom HTML templates for emails.
-- [clarkwinkelmann/flarum-ext-email-as-display-name](https://packagist.org/packages/clarkwinkelmann/flarum-ext-email-as-display-name) - Use user emails as their display name.
 - [clarkwinkelmann/flarum-ext-email-whitelist](https://packagist.org/packages/clarkwinkelmann/flarum-ext-email-whitelist) - Whitelist or blacklist specific email addresses by domain or regex
 - [clarkwinkelmann/flarum-ext-external-email-validation](https://packagist.org/packages/clarkwinkelmann/flarum-ext-external-email-validation) - Validate email with a call to an external API.
 - [clarkwinkelmann/flarum-ext-mailing](https://packagist.org/packages/clarkwinkelmann/flarum-ext-mailing) - Send individual or mass mailing to Flarum users.
@@ -239,12 +275,24 @@ For other languages, you can check https://github.com/rob006-software/flarum-tra
 - [nyu8/flarum-email-filter](https://packagist.org/packages/nyu8/flarum-email-filter) - Filter emails registering your Flarum site with whitelist, blacklist and even regular expressions.
 
 
-### Money ([:top:](#table-of-contents))
-- [Money](https://github.com/AntoineFr/flarum-ext-money) - Give money to your users for different actions.
-- [Money Rewards](https://packagist.org/packages/clarkwinkelmann/flarum-ext-money-rewards) - Transfer money to other users through post rewards.
-- [Money To All](https://packagist.org/packages/clarkwinkelmann/flarum-ext-money-to-all) - Give money to all users on the forum.
-- [Ziven Money Leaderboard](https://packagist.org/packages/ziiven/flarum-money-leaderboard) - Add money leaderboard to the forum.
-- [Ziven Money Transfer](https://packagist.org/packages/ziiven/money-transfer) - Allow user to transfer money to other users.
+### Store ([:top:](#table-of-contents))
+- [mattoid/flarum-ext-store](https://packagist.org/packages/mattoid/flarum-ext-store)
+- [mattoid/flarum-ext-store-auto-check-in](https://packagist.org/packages/mattoid/flarum-ext-store-auto-check-in)
+- [mattoid/flarum-ext-store-check-in](https://packagist.org/packages/mattoid/flarum-ext-store-check-in)
+- [mattoid/flarum-ext-store-invite](https://packagist.org/packages/mattoid/flarum-ext-store-invite)
+- [xypp/store](https://packagist.org/packages/xypp/store)
+- [xypp/store-auto-checkin](https://packagist.org/packages/xypp/store-auto-checkin)
+- [xypp/store-doorman](https://packagist.org/packages/xypp/store-doorman)
+- [xypp/store-group](https://packagist.org/packages/xypp/store-group)
+
+
+### Transaction ([:top:](#table-of-contents))
+- [antoinefr/flarum-ext-money](https://packagist.org/packages/antoinefr/flarum-ext-money) - Give money to your users for different actions.
+- [clarkwinkelmann/flarum-ext-money-rewards](https://packagist.org/packages/clarkwinkelmann/flarum-ext-money-rewards) - Transfer money to other users through post rewards.
+- [clarkwinkelmann/flarum-ext-money-to-all](https://packagist.org/packages/clarkwinkelmann/flarum-ext-money-to-all) - Give money to all users on the forum.
+- [ziiven/flarum-money-leaderboard](https://packagist.org/packages/ziiven/flarum-money-leaderboard) - Add money leaderboard to the forum.
+- [ziiven/money-transfer](https://packagist.org/packages/ziiven/money-transfer) - Allow user to transfer money to other users.
+- [xypp/pay-to-read](https://packagist.org/packages/xypp/pay-to-read) - Allow creation of pay-to-read content in posts.
 
 
 ### Admin Enhancements ([:top:](#table-of-contents))
@@ -253,37 +301,55 @@ For other languages, you can check https://github.com/rob006-software/flarum-tra
 - [sycho/flarum-advanced-extension-categories](https://packagist.org/packages/sycho/flarum-advanced-extension-categories) - Advanced extension categorisation options for admins.
 
 
-### Theme Enhancements ([:top:](#table-of-contents))
+### Forum Appearance ([:top:](#table-of-contents))
+- [FoF Custom Footer](https://github.com/FriendsOfFlarum/custom-footer) - Allows the addition of a custom footer.
+- [FoF Forum Statistics Widget](https://github.com/FriendsOfFlarum/forum-statistics-widget) - Add a forum statistics widget to the sidenav section.
+- [FoF Links](https://github.com/FriendsOfFlarum/links) - Manage Flarum primary navigation links.
 - [FoF Night Mode](https://github.com/FriendsOfFlarum/nightmode) - Turn your flarum forum to dark as user.
+- [FoF Pages](https://github.com/FriendsOfFlarum/pages) - Create custom pages with Flarum.
+- [afrux/forum-stats-widget](https://packagist.org/packages/afrux/forum-stats-widget) - Forum Statistics Widget.
+- [afrux/forum-widgets-core](https://packagist.org/packages/afrux/forum-widgets-core) - Core Extension for Managing Forum Widgets.
+- [afrux/online-users-widget](https://packagist.org/packages/afrux/online-users-widget) - Forum Widget that lists online users.
+- [afrux/top-posters-widget](https://packagist.org/packages/afrux/top-posters-widget) - Top Posters in the past month widget .
+- [blomstra/fontawesome](https://packagist.org/packages/blomstra/fontawesome) - Upgrade Font Awesome on your forum to version 6 (Free or Pro).
 - [clarkwinkelmann/flarum-ext-circle-groups](https://packagist.org/packages/clarkwinkelmann/flarum-ext-circle-groups) - Add a color circle around avatars based on user group.
+- [clarkwinkelmann/flarum-ext-group-list](https://packagist.org/packages/clarkwinkelmann/flarum-ext-group-list) - List select groups and their members.
 - [extum/flarum-ext-material](https://packagist.org/packages/extum/flarum-ext-material) - Materialize your forum with this Flarum extension that uses the latest guidelines.
+- [justoverclock/flarum-ext-welcomebox](https://packagist.org/packages/justoverclock/flarum-ext-welcomebox) - Add a Welcome Box for flarum, different for guest and registered users.
+- [justoverclock/last-registered-users](https://packagist.org/packages/justoverclock/last-registered-users) - Last Registered users widget for Flarum.
 - [madchatthew/themelightshadow](https://packagist.org/packages/madchatthew/themelightshadow) - Light theme with shadow box look.
 - [madeyedeer/flarum-pallet-theme](https://packagist.org/packages/madeyedeer/flarum-pallet-theme)
+- [sycho/flarum-private-facade](https://packagist.org/packages/sycho/flarum-private-facade) - Force guests to an interface with only login and signup forms.
 - [yippy/flarum-tag-with-themes](https://packagist.org/packages/yippy/flarum-tag-with-themes) - Provide multiple themes choices for discussion layout by tag.
+
+
+### Privacy ([:top:](#table-of-contents))
+- [Flarum GDPR](https://github.com/flarum/gdpr)
+- [FoF Cookie Consent](https://github.com/FriendsOfFlarum/cookie-consent) - Cookie Consent notice for your Flarum site.
+- [FoF Terms](https://github.com/FriendsOfFlarum/terms) - Ask your users to accept TOS and privacy policy.
 
 
 ### Others ([:top:](#table-of-contents))
 - [FoF Clockwork](https://github.com/FriendsOfFlarum/clockwork) - Clockwork integration.
-- [FoF Custom Footer](https://github.com/FriendsOfFlarum/custom-footer) - Allows the addition of a custom footer.
 - [FoF Default Group](https://github.com/FriendsOfFlarum/default-group) - Assign a default group to new users automatically.
 - [FoF GeoIP](https://github.com/FriendsOfFlarum/geoip) - Geolocation for your Flarum forum.
 - [FoF HTML Errors](https://github.com/FriendsOfFlarum/html-errors) - Add custom HTML error pages.
 - [FoF Linguist](https://github.com/FriendsOfFlarum/linguist) - Customize translations with ease.
-- [FoF Links](https://github.com/FriendsOfFlarum/links) - Manage Flarum primary navigation links.
 - [FoF Moderator Notes](https://github.com/FriendsOfFlarum/moderator-notes) - Create private notes for your forum users.
 - [FoF Open Collective](https://github.com/FriendsOfFlarum/open-collective) - Open Collective integration for your Flarum forum.
-- [FoF Pages](https://github.com/FriendsOfFlarum/pages) - Create custom pages with Flarum.
 - [FoF Prevent Necrobumping](https://github.com/FriendsOfFlarum/prevent-necrobumping) - Warn before necrobumping old discussions.
 - [FoF Sentry](https://github.com/FriendsOfFlarum/sentry) - Flarum integration for [Sentry](https://sentry.io).
 - [FoF Subscribed](https://github.com/FriendsOfFlarum/subscribed) - Adds additional subscriptions to specific events.
-- [FoF Terms](https://github.com/FriendsOfFlarum/terms) - Ask your users to accept TOS and privacy policy.
 - [FoF Upload](https://github.com/FriendsOfFlarum/upload) - An extension that handles file uploads intelligently.
 - [FoF User Directory](https://github.com/FriendsOfFlarum/user-directory) - The permission based public user directory extension.
-- [Canonical URL](https://github.com/migratetoflarum/canonical) - Create redirects to the canonical url of your forum.
-- [Catch the fish](https://github.com/clarkwinkelmann/catch-the-fish) - Watch your users catch as many fishes as they can.
-- [First Post Approval](https://github.com/clarkwinkelmann/flarum-ext-first-post-approval) - Hold posts and discussions from new users for approval.
-- [ReFlar Cookie Consent](https://github.com/ReFlar/cookie-consent) - Customizable cookie consent notice for your Flarum installation.
-- [Tags Color Generator](https://github.com/Nearata/flarum-ext-tags-color-generator) - Allows the generation of a random color for tags.
+- [blomstra/horizon](https://packagist.org/packages/blomstra/horizon) - Adds [Laravel Horizon](https://laravel.com/docs/horizon) to Flarum.
+- [blomstra/turnstile](https://packagist.org/packages/blomstra/turnstile) - Implement Cloudflare Turnstile into your Flarum forum.
+- [clarkwinkelmann/catch-the-fish](https://packagist.org/packages/clarkwinkelmann/catch-the-fish) - Watch your users catch as many fishes as they can.
+- [clarkwinkelmann/flarum-ext-first-post-approval](https://packagist.org/packages/clarkwinkelmann/flarum-ext-first-post-approval) - Hold posts and discussions from new users for approval.
+- [clarkwinkelmann/flarum-ext-translation-inspector](https://packagist.org/packages/clarkwinkelmann/flarum-ext-translation-inspector) - Enable forum users to find details about translations.
+- [gbcl/userip](https://packagist.org/packages/gbcl/userip) - Geolocation for Flarum.
+- [justoverclock/og-meta-tag](https://packagist.org/packages/justoverclock/og-meta-tag) - Add Open Graph Meta Tag to Flarum.
+- [migratetoflarum/canonical](https://packagist.org/packages/migratetoflarum/canonical) - Create redirects to the canonical url of your forum.
 
 
 ## Resources
