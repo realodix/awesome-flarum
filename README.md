@@ -78,6 +78,16 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 		</td>
 	</tr>
 	<tr>
+		<td><a href="https://github.com/flarum-lang/finnish">Finnish</a></td>
+		<td><a href="https://github.com/MarkoKaartinen">MarkoKaartinen</a></td>
+    <td><a href="https://weblate.rob006.net/languages/fi/flarum/">source</a></td>
+		<td align="right">
+			<a href="https://rob006-software.github.io/flarum-translations/status/fi.html" title="Click to see detailed translation status for each extension">
+				<img src="https://weblate.rob006.net/widgets/flarum/fi/svg-badge.svg" alt="detailed translation status" />
+			</a>
+		</td>
+	</tr>
+	<tr>
 		<td><a href="https://github.com/flarum-lang/french">French</a></td>
 		<td><a href="https://github.com/qiaeru">qiaeru</a></td>
     <td><a href="https://weblate.rob006.net/languages/fr/flarum/">source</a></td>
