@@ -157,7 +157,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
         <td><a href="https://github.com/flarum-lang/turkish">Turkish</a></td>
         <td>
             <a href="https://github.com/tolgaaaltas">tolgaaaltas</a>,
-            <a href="https://github.com/selmanozturk">selmanozturk</a>
+            <a href="https://github.com/umutcandev">umutcandev</a>
         </td>
         <td><a href="https://weblate.rob006.net/languages/tr/flarum/">source</a></td>
         <td align="right">
