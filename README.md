@@ -128,6 +128,16 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 		</td>
 	</tr>
 	<tr>
+        <td><a href="https://github.com/flarum-lang/russian">Russian</a></td>
+        <td><a href="https://github.com/uidHUB">uidHUB</a>
+        <td><a href="https://weblate.rob006.net/languages/ru/flarum/">source</a></td>
+        <td align="right">
+            <a href="https://rob006-software.github.io/flarum-translations/status/ru.html" title="Click to see detailed translation status for each extension">
+                <img src="https://weblate.rob006.net/widgets/flarum/ru/svg-badge.svg" alt="detailed translation status" />
+            </a>
+        </td>
+	</tr>
+	<tr>
 		<td><a href="https://github.com/flarum-lang/spanish">Spanish</a></td>
 		<td><a href="https://github.com/iamdarkle">iamdarkle</a>, <a href="https://github.com/jslirola">jslirola</a></td>
     <td><a href="https://weblate.rob006.net/languages/es/flarum/">source</a></td>
