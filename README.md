@@ -46,7 +46,10 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 <tbody>
 	<tr>
 		<td><a href="https://github.com/flarum-lang/chinese-simplified">Chinese (Simplified)</a></td>
-		<td><a href="https://github.com/thatsgolden">thatsgolden</a></td>
+		<td>
+			<a href="https://github.com/littlegolden">littlegolden</a>,
+			<a href="https://github.com/thatsgolden">thatsgolden</a>
+		</td>
     <td><a href="https://weblate.rob006.net/languages/zh_Hans/flarum/">source</a></td>
 		<td align="right">
 			<a href="https://rob006-software.github.io/flarum-translations/status/zh_Hans.html" title="Click to see detailed translation status for each extension">
