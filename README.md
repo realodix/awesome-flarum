@@ -44,90 +44,93 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 	</tr>
 </thead>
 <tbody>
-	<tr>
-		<td><a href="https://github.com/flarum-lang/chinese-simplified">Chinese (Simplified)</a></td>
-		<td>
-			<a href="https://github.com/littlegolden">littlegolden</a>,
-			<a href="https://github.com/thatsgolden">thatsgolden</a>
-		</td>
-    <td><a href="https://weblate.rob006.net/languages/zh_Hans/flarum/">source</a></td>
-		<td align="right">
-			<a href="https://rob006-software.github.io/flarum-translations/status/zh_Hans.html" title="Click to see detailed translation status for each extension">
-				<img src="https://weblate.rob006.net/widgets/flarum/zh_Hans/svg-badge.svg" alt="detailed translation status" />
-			</a>
-		</td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/flarum-lang/chinese-traditional">Chinese (Traditional)</a></td>
-		<td><a href="https://github.com/efast1568">efast1568</a></td>
-    <td><a href="https://weblate.rob006.net/languages/zh_Hant/flarum/">source</a></td>
-		<td align="right">
-			<a href="https://rob006-software.github.io/flarum-translations/status/zh_Hant.html" title="Click to see detailed translation status for each extension">
-				<img src="https://weblate.rob006.net/widgets/flarum/zh_Hant/svg-badge.svg" alt="detailed translation status" />
-			</a>
-		</td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/flarum-lang/estonian">Estonian</a></td>
-		<td><a href="https://github.com/JoomlaEstonia">JoomlaEstonia</a></td>
-    <td><a href="https://weblate.rob006.net/languages/et/flarum">source</a></td>
-		<td align="right">
-			<a href="https://rob006-software.github.io/flarum-translations/status/et.html" title="Click to see detailed translation status for each extension">
-				<img src="https://weblate.rob006.net/widgets/flarum/et/svg-badge.svg" alt="detailed translation status" />
-			</a>
-		</td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/flarum-lang/finnish">Finnish</a></td>
-		<td><a href="https://github.com/MarkoKaartinen">MarkoKaartinen</a></td>
-    <td><a href="https://weblate.rob006.net/languages/fi/flarum/">source</a></td>
-		<td align="right">
-			<a href="https://rob006-software.github.io/flarum-translations/status/fi.html" title="Click to see detailed translation status for each extension">
-				<img src="https://weblate.rob006.net/widgets/flarum/fi/svg-badge.svg" alt="detailed translation status" />
-			</a>
-		</td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/flarum-lang/french">French</a></td>
-		<td><a href="https://github.com/qiaeru">qiaeru</a></td>
-    <td><a href="https://weblate.rob006.net/languages/fr/flarum/">source</a></td>
-		<td align="right">
-			<a href="https://rob006-software.github.io/flarum-translations/status/fr.html" title="Click to see detailed translation status for each extension">
-				<img src="https://weblate.rob006.net/widgets/flarum/fr/svg-badge.svg" alt="detailed translation status" />
-			</a>
-		</td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/flarum-lang/german">German</a></td>
-		<td><a href="https://github.com/Kakifrucht">Kakifrucht</a></td>
-    <td><a href="https://weblate.rob006.net/languages/de/flarum/">source</a></td>
-		<td align="right">
-			<a href="https://rob006-software.github.io/flarum-translations/status/de.html" title="Click to see detailed translation status for each extension">
-				<img src="https://weblate.rob006.net/widgets/flarum/de/svg-badge.svg" alt="detailed translation status" />
-			</a>
-		</td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/flarum-lang/hungarian">Hungarian</a></td>
-		<td><a href="https://github.com/meskobalazs">meskobalazs</a>, <a href="https://github.com/Rebootcodesoft">Rebootcodesoft</a></td>
-    <td><a href="https://weblate.rob006.net/languages/hu/flarum/">source</a></td>
-		<td align="right">
-			<a href="https://rob006-software.github.io/flarum-translations/status/hu.html" title="Click to see detailed translation status for each extension">
-				<img src="https://weblate.rob006.net/widgets/flarum/hu/svg-badge.svg" alt="detailed translation status" />
-			</a>
-		</td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/flarum-lang/indonesian">Indonesian</a></td>
-		<td><a href="https://github.com/realodix">realodix</a></td>
-    <td><a href="https://weblate.rob006.net/languages/id/flarum/">source</a></td>
-		<td align="right">
-			<a href="https://rob006-software.github.io/flarum-translations/status/id.html" title="Click to see detailed translation status for each extension">
-				<img src="https://weblate.rob006.net/widgets/flarum/id/svg-badge.svg" alt="detailed translation status" />
-			</a>
-		</td>
-	</tr>
-	<tr>
+    <tr>
+        <td><a href="https://github.com/flarum-lang/chinese-simplified">Chinese (Simplified)</a></td>
+        <td>
+            <a href="https://github.com/littlegolden">littlegolden</a>,
+            <a href="https://github.com/thatsgolden">thatsgolden</a>
+        </td>
+        <td><a href="https://weblate.rob006.net/languages/zh_Hans/flarum/">source</a></td>
+        <td align="right">
+            <a href="https://rob006-software.github.io/flarum-translations/status/zh_Hans.html" title="Click to see detailed translation status for each extension">
+                <img src="https://weblate.rob006.net/widgets/flarum/zh_Hans/svg-badge.svg" alt="detailed translation status" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/flarum-lang/chinese-traditional">Chinese (Traditional)</a></td>
+        <td><a href="https://github.com/efast1568">efast1568</a></td>
+        <td><a href="https://weblate.rob006.net/languages/zh_Hant/flarum/">source</a></td>
+        <td align="right">
+            <a href="https://rob006-software.github.io/flarum-translations/status/zh_Hant.html" title="Click to see detailed translation status for each extension">
+                <img src="https://weblate.rob006.net/widgets/flarum/zh_Hant/svg-badge.svg" alt="detailed translation status" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/flarum-lang/estonian">Estonian</a></td>
+        <td><a href="https://github.com/JoomlaEstonia">JoomlaEstonia</a></td>
+        <td><a href="https://weblate.rob006.net/languages/et/flarum">source</a></td>
+        <td align="right">
+            <a href="https://rob006-software.github.io/flarum-translations/status/et.html" title="Click to see detailed translation status for each extension">
+                <img src="https://weblate.rob006.net/widgets/flarum/et/svg-badge.svg" alt="detailed translation status" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/flarum-lang/finnish">Finnish</a></td>
+        <td><a href="https://github.com/MarkoKaartinen">MarkoKaartinen</a></td>
+        <td><a href="https://weblate.rob006.net/languages/fi/flarum/">source</a></td>
+        <td align="right">
+            <a href="https://rob006-software.github.io/flarum-translations/status/fi.html" title="Click to see detailed translation status for each extension">
+                <img src="https://weblate.rob006.net/widgets/flarum/fi/svg-badge.svg" alt="detailed translation status" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/flarum-lang/french">French</a></td>
+        <td><a href="https://github.com/qiaeru">qiaeru</a></td>
+        <td><a href="https://weblate.rob006.net/languages/fr/flarum/">source</a></td>
+        <td align="right">
+            <a href="https://rob006-software.github.io/flarum-translations/status/fr.html" title="Click to see detailed translation status for each extension">
+                <img src="https://weblate.rob006.net/widgets/flarum/fr/svg-badge.svg" alt="detailed translation status" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/flarum-lang/german">German</a></td>
+        <td><a href="https://github.com/Kakifrucht">Kakifrucht</a></td>
+        <td><a href="https://weblate.rob006.net/languages/de/flarum/">source</a></td>
+        <td align="right">
+            <a href="https://rob006-software.github.io/flarum-translations/status/de.html" title="Click to see detailed translation status for each extension">
+                <img src="https://weblate.rob006.net/widgets/flarum/de/svg-badge.svg" alt="detailed translation status" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/flarum-lang/hungarian">Hungarian</a></td>
+        <td>
+            <a href="https://github.com/meskobalazs">meskobalazs</a>,
+            <a href="https://github.com/Rebootcodesoft">Rebootcodesoft</a>
+        </td>
+        <td><a href="https://weblate.rob006.net/languages/hu/flarum/">source</a></td>
+        <td align="right">
+            <a href="https://rob006-software.github.io/flarum-translations/status/hu.html" title="Click to see detailed translation status for each extension">
+                <img src="https://weblate.rob006.net/widgets/flarum/hu/svg-badge.svg" alt="detailed translation status" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/flarum-lang/indonesian">Indonesian</a></td>
+        <td><a href="https://github.com/realodix">realodix</a></td>
+        <td><a href="https://weblate.rob006.net/languages/id/flarum/">source</a></td>
+        <td align="right">
+            <a href="https://rob006-software.github.io/flarum-translations/status/id.html" title="Click to see detailed translation status for each extension">
+                <img src="https://weblate.rob006.net/widgets/flarum/id/svg-badge.svg" alt="detailed translation status" />
+            </a>
+        </td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/flarum-lang/russian">Russian</a></td>
         <td><a href="https://github.com/uidHUB">uidHUB</a>
         <td><a href="https://weblate.rob006.net/languages/ru/flarum/">source</a></td>
@@ -136,47 +139,53 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
                 <img src="https://weblate.rob006.net/widgets/flarum/ru/svg-badge.svg" alt="detailed translation status" />
             </a>
         </td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/flarum-lang/spanish">Spanish</a></td>
-		<td><a href="https://github.com/iamdarkle">iamdarkle</a>, <a href="https://github.com/jslirola">jslirola</a></td>
-    <td><a href="https://weblate.rob006.net/languages/es/flarum/">source</a></td>
-		<td align="right">
-			<a href="https://rob006-software.github.io/flarum-translations/status/es.html" title="Click to see detailed translation status for each extension">
-				<img src="https://weblate.rob006.net/widgets/flarum/es/svg-badge.svg" alt="detailed translation status" />
-			</a>
-		</td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/flarum-lang/turkish">Turkish</a></td>
-		<td><a href="https://github.com/tolgaaaltas">tolgaaaltas</a>, <a href="https://github.com/selmanozturk">selmanozturk</a></td>
-    <td><a href="https://weblate.rob006.net/languages/tr/flarum/">source</a></td>
-		<td align="right">
-			<a href="https://rob006-software.github.io/flarum-translations/status/tr.html" title="Click to see detailed translation status for each extension">
-				<img src="https://weblate.rob006.net/widgets/flarum/tr/svg-badge.svg" alt="detailed translation status" />
-			</a>
-		</td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/flarum-lang/ukrainian">Ukrainian</a></td>
-		<td><a href="https://github.com/denysdesign">denysdesign</a></td>
-    <td><a href="https://weblate.rob006.net/languages/uk/flarum/">source</a></td>
-		<td align="right">
-			<a href="https://rob006-software.github.io/flarum-translations/status/uk.html" title="Click to see detailed translation status for each extension">
-				<img src="https://weblate.rob006.net/widgets/flarum/uk/svg-badge.svg" alt="detailed translation status" />
-			</a>
-		</td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/flarum-lang/vietnamese">Vietnamese</a></td>
-		<td><a href="https://github.com/datlechin">datlechin</a></td>
-    <td><a href="https://weblate.rob006.net/languages/vi/flarum/">source</a></td>
-		<td align="right">
-			<a href="https://rob006-software.github.io/flarum-translations/status/vi.html" title="Click to see detailed translation status for each extension">
-				<img src="https://weblate.rob006.net/widgets/flarum/vi/svg-badge.svg" alt="detailed translation status" />
-			</a>
-		</td>
-	</tr>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/flarum-lang/spanish">Spanish</a></td>
+        <td>
+            <a href="https://github.com/iamdarkle">iamdarkle</a>,
+            <a href="https://github.com/jslirola">jslirola</a>
+        </td>
+        <td><a href="https://weblate.rob006.net/languages/es/flarum/">source</a></td>
+        <td align="right">
+            <a href="https://rob006-software.github.io/flarum-translations/status/es.html" title="Click to see detailed translation status for each extension">
+                <img src="https://weblate.rob006.net/widgets/flarum/es/svg-badge.svg" alt="detailed translation status" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/flarum-lang/turkish">Turkish</a></td>
+        <td>
+            <a href="https://github.com/tolgaaaltas">tolgaaaltas</a>,
+            <a href="https://github.com/selmanozturk">selmanozturk</a>
+        </td>
+        <td><a href="https://weblate.rob006.net/languages/tr/flarum/">source</a></td>
+        <td align="right">
+            <a href="https://rob006-software.github.io/flarum-translations/status/tr.html" title="Click to see detailed translation status for each extension">
+                <img src="https://weblate.rob006.net/widgets/flarum/tr/svg-badge.svg" alt="detailed translation status" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/flarum-lang/ukrainian">Ukrainian</a></td>
+        <td><a href="https://github.com/denysdesign">denysdesign</a></td>
+        <td><a href="https://weblate.rob006.net/languages/uk/flarum/">source</a></td>
+        <td align="right">
+            <a href="https://rob006-software.github.io/flarum-translations/status/uk.html" title="Click to see detailed translation status for each extension">
+                <img src="https://weblate.rob006.net/widgets/flarum/uk/svg-badge.svg" alt="detailed translation status" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/flarum-lang/vietnamese">Vietnamese</a></td>
+        <td><a href="https://github.com/datlechin">datlechin</a></td>
+        <td><a href="https://weblate.rob006.net/languages/vi/flarum/">source</a></td>
+        <td align="right">
+            <a href="https://rob006-software.github.io/flarum-translations/status/vi.html" title="Click to see detailed translation status for each extension">
+                <img src="https://weblate.rob006.net/widgets/flarum/vi/svg-badge.svg" alt="detailed translation status" />
+            </a>
+        </td>
+    </tr>
 </tbody>
 </table>
 
