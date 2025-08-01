@@ -119,7 +119,7 @@ Flarum comes with an English language pack; however, the Flarum Community has pr
 	</tr>
 	<tr>
 		<td><a href="https://github.com/flarum-lang/spanish">Spanish</a></td>
-		<td><a href="https://github.com/iamdarkle">Darkle</a>, <a href="https://github.com/jslirola">jslirola</a></td>
+		<td><a href="https://github.com/iamdarkle">iamdarkle</a>, <a href="https://github.com/jslirola">jslirola</a></td>
     <td><a href="https://weblate.rob006.net/languages/es/flarum/">source</a></td>
 		<td align="right">
 			<a href="https://rob006-software.github.io/flarum-translations/status/es.html" title="Click to see detailed translation status for each extension">
